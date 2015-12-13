@@ -1,0 +1,766 @@
+ do tell(?, about stars)
+ BLANK_ the orbits of binary stars do tell about stars .
+
+----------------------
+ is the life cycle of(?, a star)
+ BLANK_ is the life cycle of a star .
+
+ is the life cycle for(?, a star)
+ BLANK_ is the life cycle for a star like the sun .
+
+ is the average life cycle of(?, a star)
+ BLANK_ is the average life cycle of a star - .
+
+ is the cycle of(?, the stars)
+ BLANK_ is the cycle of the stars .
+
+----------------------
+ are the colors of(?, the stars)
+ BLANK_ are the colors of the stars .
+
+ are the five possible colors of(?, a star)
+ BLANK_ are the five possible colors of a star .
+
+ are the three main colors of(?, stars)
+ BLANK_ are the three main colors of stars .
+
+ are the color of(?, the stars)
+ BLANK_ are the color of the stars .
+
+ are the different colors of(?, the stars)
+ BLANK_ are the different colors of the stars depending on the age .
+
+----------------------
+ are three characteristics of(?, star)
+ BLANK_ are three characteristics of star .
+
+ is the characteristics of(?, a star)
+ BLANK_ is the characteristics of a star .
+
+ are some characteristics of(?, stars)
+ BLANK_ are some characteristics of stars that might account for the fact that some have more complex elements in their spectra .
+
+----------------------
+ is the temperature of(?, a star)
+ BLANK_ is the temperature of a star .
+
+ is the color and temperature of(?, the star)
+ BLANK_ is the color and temperature of the star Mintaka .
+
+----------------------
+ are the names of(?, the stars)
+ BLANK_ are the names of the stars in Sagittarius .
+
+ are tye names of(?, the stars)
+ BLANK_ are tye names of the stars in Cygnus .
+
+ are the names for(?, the stars)
+ BLANK_ are the names for the stars that are bigger than the sun .
+
+ are the names and size of(?, the stars)
+ BLANK_ are the names and size of the stars .
+
+ are the name of(?, some stars)
+ BLANK_ are the name of some stars .
+
+ are the different name of(?, the stars)
+ BLANK_ are the different name of the stars .
+
+----------------------
+ is the solar radii for(?, the star)
+ BLANK_ is the solar radii for the star Betelgeuse .
+
+----------------------
+ are the types of(?, stars)
+ BLANK_ are the types of stars .
+
+ are different types of(?, stars)
+ BLANK_ are different types of stars .
+
+ are 3 different types of(?, stars)
+ BLANK_ are 3 different types of stars .
+
+ are 5 types of(?, stars)
+ BLANK_ are 5 types of stars .
+
+ are 3 main types of(?, stars)
+ BLANK_ are 3 main types of stars .
+
+ are the oldest types of(?, stars)
+ BLANK_ are the oldest types of stars in the universe .
+
+ are the 4 different types of(?, stars)
+ BLANK_ are the 4 different types of stars .
+
+ is type of(?, star)
+ BLANK_ is type of star is the sun .
+
+ is the hottest type of(?, star)
+ BLANK_ is the hottest type of star .
+
+ are the certain types of(?, stars)
+ BLANK_ are the certain types of stars .
+
+ are two types of(?, stars)
+ BLANK_ are two types of stars that can form when a star runs out of fuel .
+
+ are the 3 types of(?, stars)
+ BLANK_ are the 3 types of stars .
+
+----------------------
+ is the explosive death of(?, a star)
+ BLANK_ is the explosive death of a star .
+
+----------------------
+ is the most abundant element in(?, a star)
+ BLANK_ is the most abundant element in a star .
+
+----------------------
+ is the final stage of(?, a star)
+ BLANK_ is the final stage of a star .
+
+ is the final stage for(?, stars)
+ BLANK_ is the final stage for stars whose final masses are greater than three times the mass of the sun .
+
+ is the final stages of(?, a star)
+ BLANK_ is the final stages of a star that 20 time of the mass of the sun .
+
+----------------------
+ are the life stages of(?, a star)
+ BLANK_ are the life stages of a star .
+
+ are the stages in(?, a)
+ BLANK_ are the stages in a stars complete life cycle .
+
+ are the different stages of(?, stars)
+ BLANK_ are the different stages of stars .
+
+----------------------
+ is the most common kind of(?, star)
+ BLANK_ is the most common kind of star near the sun .
+
+----------------------
+ are the right ascension and declination of(?, the star)
+ BLANK_ are the right ascension and declination of the star Betelgeuse in the constellation Orion .
+
+----------------------
+ is the adverb for(?, stars)
+ BLANK_ is the adverb for stars shine on cloudy nights .
+
+----------------------
+ is the lowest mass for(?, a star)
+ BLANK_ is the lowest mass for a star .
+
+----------------------
+ is the average age of(?, a star)
+ BLANK_ is the average age of a star the sun 's size .
+
+----------------------
+ is the purpose of(?, stars)
+ BLANK_ is the purpose of stars .
+
+----------------------
+ are the 3 different fates of(?, a star)
+ BLANK_ are the 3 different fates of a star when it dies .
+
+----------------------
+ is the sequence of(?, a star)
+ BLANK_ is the sequence of a star 's cycle from its earliest stage to its last stage .
+
+ is main sequence of(?, star)
+ BLANK_ is main sequence of star .
+
+----------------------
+ is the Stable state of(?, a star)
+ BLANK_ is the Stable state of a star .
+
+----------------------
+ is the total number of(?, stars)
+ BLANK_ is the total number of stars in Leo .
+
+----------------------
+ are the main colours of(?, stars)
+ BLANK_ are the main colours of stars .
+
+ are the 4 main colours of(?, the stars)
+ BLANK_ are the 4 main colours of the stars .
+
+----------------------
+ is the shape of(?, the star)
+ BLANK_ is the shape of the star Pollux .
+
+----------------------
+ are the 5 stages of(?, a star)
+ BLANK_ are the 5 stages of a star and what order .
+
+----------------------
+ are the two main elements in(?, a star)
+ BLANK_ are the two main elements in a star .
+
+----------------------
+ is the end stage of(?, stars)
+ BLANK_ is the end stage of stars like our sun .
+
+----------------------
+ is one fact about(?, a star)
+ BLANK_ is one fact about a star .
+
+----------------------
+ is the smallest type of(?, star)
+ BLANK_ is the smallest type of star .
+
+----------------------
+ is a vast collection of(?, stars)
+ BLANK_ is a vast collection of stars .
+
+----------------------
+ is the yearly path through(?, the stars)
+ BLANK_ is the yearly path through the stars taken by the Sun is .
+
+----------------------
+ is the life history of(?, a star)
+ BLANK_ is the life history of a star bigger than the sun .
+
+----------------------
+ is the size and color of(?, the star)
+ BLANK_ is the size and color of the star Sirius .
+
+----------------------
+ is the brightest among(?, the star)
+ BLANK_ is the brightest among the star .
+
+----------------------
+ is the distance of(?, the stars)
+ BLANK_ is the distance of the stars from the Virgo constellation .
+
+----------------------
+ is the relationship of(?, a star)
+ BLANK_ is the relationship of a star 's color to its temperature .
+
+----------------------
+ is the early phase of(?, the star)
+ BLANK_ is the early phase of the star called once the gas and dust begin to coalesce into a sphere .
+
+ is the phase of(?, a star)
+ BLANK_ is the phase of a star approaches supernova .
+
+ is the protostar phase of(?, a star)
+ BLANK_ is the protostar phase of a star doing that a main sequence star is .
+
+----------------------
+ is the main fuel in(?, stars)
+ BLANK_ is the main fuel in stars .
+
+ is a fuel for(?, a star)
+ BLANK_ is a fuel for a star .
+
+ fuels(?, a star)
+ BLANK_ fuels a star .
+
+----------------------
+ is the function of(?, the stars)
+ BLANK_ is the function of the stars .
+
+----------------------
+ are physical attributes of(?, stars)
+ BLANK_ are physical attributes of stars .
+
+----------------------
+ are the two main gases that(?, stars)
+ BLANK_ are the two main gases that stars are made of .
+
+ are the main gases if(?, a star)
+ BLANK_ are the main gases if a star .
+
+ are the main gases of(?, a star)
+ BLANK_ are the main gases of a star .
+
+----------------------
+ is the hottest part of(?, a star)
+ BLANK_ is the hottest part of a star .
+
+----------------------
+ is a large grouping of(?, stars)
+ BLANK_ is a large grouping of stars that contains mostly older stars .
+
+ is a group of(?, stars)
+ BLANK_ is a group of stars that appear in the sky .
+
+----------------------
+ is fusion in(?, a star)
+ BLANK_ is fusion in a star .
+
+----------------------
+ is the maximum mass of(?, a star)
+ BLANK_ is the maximum mass of a star .
+
+----------------------
+ are the all examples of(?, star)
+ BLANK_ are the all examples of star .
+
+----------------------
+ is the actual motion of(?, a star)
+ BLANK_ is the actual motion of a star .
+
+----------------------
+ is a low or medium mass of(?, star)
+ BLANK_ is a low or medium mass of star becomes an what at the end of its life .
+
+----------------------
+ are the steps of(?, the stars)
+ BLANK_ are the steps of the stars .
+
+----------------------
+ is the earths nearest(?, star)
+ BLANK_ is the earths nearest star .
+
+----------------------
+ is the lifecycle of(?, a star)
+ BLANK_ is the lifecycle of a star .
+
+ is lifecycle of(?, a star)
+ BLANK_ is lifecycle of a star .
+
+----------------------
+ is the fourth stage of(?, a star)
+ BLANK_ is the fourth stage of a star .
+
+----------------------
+ is a good metaphor for(?, stars)
+ BLANK_ is a good metaphor for stars .
+
+----------------------
+ are the dark spots in(?, stars)
+ BLANK_ are the dark spots in stars .
+
+----------------------
+ is the technical name of(?, a star)
+ BLANK_ is the technical name of a star on a keyboard .
+
+----------------------
+ is the huge collection of(?, stars)
+ BLANK_ is the huge collection of stars called with the sun in it .
+
+----------------------
+ are the different magnitudes if(?, stars)
+ BLANK_ are the different magnitudes if stars in Draco .
+
+----------------------
+ is the correct order of(?, a star)
+ BLANK_ is the correct order of a star 's life cycle .
+
+----------------------
+ is the main job of(?, a star)
+ BLANK_ is the main job of a star .
+
+ is the job of(?, a star)
+ BLANK_ is the job of a star .
+
+----------------------
+ is the same for(?, all stars)
+ BLANK_ is the same for all stars in a star cluster .
+
+----------------------
+ is hydrogen in(?, the stars)
+ BLANK_ is hydrogen in the stars .
+
+----------------------
+ are two competing forces in(?, a star)
+ BLANK_ are two competing forces in a star .
+
+----------------------
+ is sun as(?, a star)
+ BLANK_ is sun as a star .
+
+ sunspots(?, )
+ BLANK_ sunspots are made of .
+
+----------------------
+ is the outside of(?, a star)
+ BLANK_ is the outside of a star .
+
+----------------------
+ is an estimate of(?, stars)
+ BLANK_ is an estimate of stars in the solar system .
+
+----------------------
+ is the most likely fate of(?, star)
+ BLANK_ is the most likely fate of star with a mass 8 times that of the sun .
+
+----------------------
+ are the moving little lights in(?, the stars)
+ BLANK_ are the moving little lights in the stars that go across the sky .
+
+----------------------
+ is the Size of(?, a star)
+ BLANK_ is the Size of a star .
+
+----------------------
+ are the 5 sizes of(?, stars)
+ BLANK_ are the 5 sizes of stars .
+
+----------------------
+ are the Different kinds of(?, stars)
+ BLANK_ are the Different kinds of stars according to sizes .
+
+ are the kinds of(?, stars)
+ BLANK_ are the kinds of stars .
+
+----------------------
+ is the area around(?, a star)
+ BLANK_ is the area around a star which is just the right temperature for life .
+
+----------------------
+ is the weight of(?, a star)
+ BLANK_ is the weight of a star .
+
+----------------------
+ is the upper limit of(?, stars)
+ BLANK_ is the upper limit of stars that the unaided eye can discern on a moonless night in a rural area .
+
+----------------------
+ is the azimuth and altitude of(?, the star)
+ BLANK_ is the azimuth and altitude of the star Betelgeuse .
+
+----------------------
+ are the classes of(?, stars)
+ BLANK_ are the classes of stars from hottest to coolest and their surface temperature .
+
+----------------------
+ is the star Sirius(?, a)
+ BLANK_ is the star Sirius a made of .
+
+ star(?, )
+ BLANK_ makes the Sun a star and the Earth a planet .
+
+ start off(?, )
+ BLANK_ does a star start off as .
+
+----------------------
+ is the stellar parallax for(?, a star)
+ BLANK_ is the stellar parallax for a star that is 20 PC away from Earth .
+
+----------------------
+ are the two possible fates for(?, stars)
+ BLANK_ are the two possible fates for stars more massive than your sun .
+
+----------------------
+ are the remains of(?, a star)
+ BLANK_ are the remains of a star that has no fuel but glows faintly .
+
+----------------------
+ is the end state of(?, a star)
+ BLANK_ is the end state of a star .
+
+----------------------
+ is the price of(?, a star)
+ BLANK_ is the price of a star in the sky .
+
+----------------------
+ is the lifetime for(?, this star)
+ BLANK_ is the lifetime for this star in years There is a star elsewhere that has 10 times the mass of the Sun but a luminosity which is 100 thousand times that of the Sun .
+
+----------------------
+ are the categories of(?, stars)
+ BLANK_ are the categories of stars .
+
+----------------------
+ is the beginning of(?, a star)
+ BLANK_ is the beginning of a star .
+
+----------------------
+ is nitrogen in(?, a star)
+ BLANK_ is nitrogen in a star .
+
+----------------------
+ is three supported detail of(?, stars)
+ BLANK_ is three supported detail of stars appear in patterns in the sky .
+
+----------------------
+ is the interior of(?, a star)
+ BLANK_ is the interior of a star that is near death composed of .
+
+----------------------
+ is the brightest but coolest cluster of(?, stars)
+ BLANK_ is the brightest but coolest cluster of stars .
+
+----------------------
+ is the apparrent magnitude of(?, the star)
+ BLANK_ is the apparrent magnitude of the star Betelguese .
+
+----------------------
+ is The apparent daily motion of(?, the stars)
+ BLANK_ is The apparent daily motion of the stars in the sky due to the Earth 's .
+
+----------------------
+ are the possible movement of(?, a star)
+ BLANK_ are the possible movement of a star .
+
+----------------------
+ is the hottest kind of(?, star)
+ BLANK_ is the hottest kind of star .
+
+----------------------
+ is the reason that(?, all stars)
+ BLANK_ is the reason that all stars eventually die or stop burning .
+
+----------------------
+ is a large system of(?, stars)
+ BLANK_ is a large system of stars .
+
+----------------------
+ is a digonal band of(?, stars)
+ BLANK_ is a digonal band of stars that contain hot bule bright stars that cool red dim stars .
+
+----------------------
+ are the 2 most common elements in(?, a star)
+ BLANK_ are the 2 most common elements in a star .
+
+----------------------
+ is the Average density of(?, a Star)
+ BLANK_ is the Average density of a Star .
+
+----------------------
+ to become(?, a star)
+ BLANK_ causes a nebula to become a star .
+
+----------------------
+ is applied(?, to any star)
+ BLANK_ is applied to any star that is the center of a planetary system .
+
+----------------------
+ is burning(?, stars)
+ BLANK_ is burning stars .
+
+----------------------
+ happends(?, to a star)
+ BLANK_ happends to a star when it runs out of fuel .
+
+ happen(?, to the stars)
+ BLANK_ happen to the stars that get old .
+
+ happened(?, to the stars)
+ BLANK_ happened to the stars if they are not visibly seen in the sky .
+
+ may happen(?, to a star)
+ BLANK_ may happen to a star that is 8 - 20 times the mass of the sun .
+
+ would most likely happen(?, )
+ BLANK_ would most likely happen if Earth moved closer to the sun .
+
+ happend(?, )
+ BLANK_ happend if the sun doesnt rise .
+
+----------------------
+ actually is(?, a star)
+ BLANK_ actually is a star .
+
+----------------------
+ is markab(?, the star)
+ BLANK_ is markab the star .
+
+----------------------
+ indicate(?, about a star)
+ BLANK_ indicate about a star .
+
+----------------------
+ mapped(?, the stars)
+ BLANK_ mapped the stars .
+
+----------------------
+ lives(?, on stars)
+ BLANK_ lives on stars .
+
+ lives longer(?, )
+ BLANK_ lives longer a big star or a little star .
+
+----------------------
+ is filled(?, with stars)
+ BLANK_ is filled with stars .
+
+----------------------
+ can find(?, in a star)
+ BLANK_ can find in a star .
+
+----------------------
+ do emit(Stars,?)Stars do emit BLANK_ .
+
+----------------------
+ do radiate(Stars,?)Stars do radiate BLANK_ .
+
+----------------------
+ to locate(?, stars)
+ BLANK_ is used to locate stars .
+
+----------------------
+ is given(?, by stars)
+ BLANK_ is given of by stars .
+
+ do give off(?, )
+ BLANK_ stars do give off .
+
+----------------------
+ does turn(?, star)
+ BLANK_ does a star turn when its surface area increases greatly .
+
+----------------------
+ are commonly found(?, in stars)
+ BLANK_ are commonly found in stars .
+
+ have been found(?, )
+ BLANK_ have been found to be collections of billions of stars and not individual stars .
+
+----------------------
+ centauri(?, )
+ BLANK_ is the magnitude of alpha centauri a .
+
+----------------------
+ discover(?, the star)
+ BLANK_ discover the star .
+
+----------------------
+ is Born(?, )
+ BLANK_ is the director of A Star is Born .
+
+----------------------
+ was set in(?, )
+ BLANK_ copper sun was set in .
+
+----------------------
+ is made up(?, )
+ BLANK_ helium gas is made up of .
+
+ are made up(?, )
+ BLANK_ star nurseries are made up of .
+
+ are made off(?, )
+ BLANK_ stars are made off .
+
+ is made off(?, )
+ BLANK_ is made off .
+
+----------------------
+ Comes Up(?, )
+ BLANK_ is the duration of The Sun Comes Up .
+
+----------------------
+ from observing(?, stars)
+ BLANK_ can be learned from observing stars .
+
+----------------------
+ may come(?, from your stars)
+ BLANK_ may come from your stars .
+
+----------------------
+ are maed(?, )
+ BLANK_ stars are maed of .
+
+----------------------
+ would do(?, )
+ BLANK_ earth would do without the gravity of the sun .
+
+ would NOT be expected(?, )
+ BLANK_ would NOT be expected to increase with an increase in sunspot number .
+
+----------------------
+ do vary in(?, )
+ BLANK_ stars do vary in .
+
+----------------------
+ is m35(?, )
+ BLANK_ is type of star is m35 .
+
+----------------------
+ do do BLANK_(Stars,?)Stars do do BLANK_ when they get old .
+
+----------------------
+ to heat up(?, )
+ BLANK_ caused the sun to heat up .
+
+----------------------
+ almost never shine(?, )
+ BLANK_ soes the sun almost never shine .
+
+----------------------
+ rise on(?, )
+ BLANK_ sides the sun rise on .
+
+ to rise(?, )
+ BLANK_ causes the sun to rise and set at different times .
+
+----------------------
+ to seem(?, )
+ BLANK_ causes the sun to seem to move across the sky each day .
+
+----------------------
+ appears brightest(?, )
+ BLANK_ appears brightest from Earth .
+
+----------------------
+ die out(?, )
+ BLANK_ die out the quickest .
+
+----------------------
+ is denebola(?, )
+ BLANK_ is denebola .
+
+ is deneb(?, )
+ BLANK_ is deneb .
+
+----------------------
+ fades(?, )
+ BLANK_ fades in a regular pattern .
+
+----------------------
+ is Tarazed(?, )
+ BLANK_ is Tarazed .
+
+----------------------
+ is betelgouse(?, )
+ BLANK_ is betelgouse .
+
+----------------------
+ is rumored(?, )
+ BLANK_ is rumored to be at the center of the Milky Way Galaxy .
+
+----------------------
+ is makalii(?, )
+ BLANK_ is makalii .
+
+----------------------
+ is sadatoni(?, )
+ BLANK_ is sadatoni .
+
+----------------------
+ is expected(?, )
+ BLANK_ is expected to happen to the sun in its old age .
+
+----------------------
+ will Number(?, the Stars)
+ BLANK_ mentions you will Number the Stars .
+
+----------------------
+ comeup(?, )
+ BLANK_ makes the sun comeup .
+
+----------------------
+ can not be seen(?, )
+ BLANK_ cannot be seen with the naked eye .
+
+----------------------
+ are thought(?, )
+ BLANK_ are thought to be members of binary systems .
+
+----------------------
+ moves most slowly(?, )
+ BLANK_ moves through the background of stars most slowly .
+
+----------------------
+ streaks very fast(?, )
+ BLANK_ streaks across the sky very fast .
+
+----------------------
+ belongs(?, )
+ BLANK_ does sun belongs .
+
+----------------------

@@ -1,0 +1,28 @@
+
+<html>
+{% load static %}
+<head>
+    <title>Search Knowledge Base</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'site_media/css/styles.css' %}"/>
+
+</head>
+<body>
+	<div id="page">
+		
+		<h1>Knowledge Base Search</h1>
+    	<form id="searchForm" action="/search/" method="get">
+    		<fieldset>
+
+    		  
+    		 <h4> Please enter the concept to search the knowledge base...</h4>
+    		 
+
+        		<input type="text" name="concept">
+        		<input type="submit" value="Search" id="submitButton">
+        	 </fieldset>
+
+    	</form>
+   
+    </div>
+</body>
+</html>

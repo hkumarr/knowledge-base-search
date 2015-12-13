@@ -1,0 +1,1246 @@
+ does eat(Soil,?)Soil does eat BLANK_ .
+
+----------------------
+ does include(Soil,?)Soil does include BLANK_ .
+
+----------------------
+ conserves(?, soil)
+ BLANK_ help conserves soil .
+
+----------------------
+ would take(?, from the soil)
+ BLANK_ plants would take from the soil .
+
+ do take in(?, )
+ BLANK_ root hair cells do take in .
+
+----------------------
+ do release(?, into soil)
+ BLANK_ decomposers do release into soil .
+
+----------------------
+ lies(?, in the soil)
+ BLANK_ is the origin of the answer lies in the soil .
+
+----------------------
+ do get(?, from the soil)
+ BLANK_ plants do get from the soil .
+
+----------------------
+ dig(?, through the soil)
+ BLANK_ helps earthworms dig through the soil .
+
+ digs(?, through soil)
+ BLANK_ digs through soil .
+
+----------------------
+ do obtain(?, from soil)
+ BLANK_ plants do obtain from soil .
+
+ is obtained(?, from the soil)
+ BLANK_ is obtained from the soil .
+
+----------------------
+ smells(?, in soil)
+ BLANK_ causes sulphur smells in soil .
+
+----------------------
+ does not come(?, from the soil)
+ BLANK_ discovered that most of plant biomass does not come from the soil .
+
+ does NOT come directly(?, from the soil)
+ BLANK_ does NOT come directly from the soil .
+
+----------------------
+ are the types of(?, soil)
+ BLANK_ are the types of soil found in Nepal .
+
+ is the type of(?, soil)
+ BLANK_ is the type of soil in evergreen forest .
+
+ Is a type of(?, soil)
+ BLANK_ Is a type of soil that has significant amounts of sand silt and clay .
+
+ are four different types of(?, soil)
+ BLANK_ are four different types of soil .
+
+ are the different types of(?, soil)
+ BLANK_ are the different types of soil found in Asia .
+
+ is the best type of(?, soil)
+ BLANK_ is the best type of soil in Texas .
+
+ are type of(?, soil)
+ BLANK_ are type of soil .
+
+ are some types of(?, soil)
+ BLANK_ are some types of soil in Alaska .
+
+ are 4 different types of(?, soil)
+ BLANK_ are 4 different types of soil .
+
+ is the four types of(?, soil)
+ BLANK_ is the four types of soil .
+
+ are three common types of(?, soil)
+ BLANK_ are three common types of soil .
+
+ is the hardest type of(?, soil)
+ BLANK_ is the hardest type of soil for plants to grow in .
+
+ are the 15 types of(?, soil)
+ BLANK_ are the 15 types of soil .
+
+ are the main types of(?, soil)
+ BLANK_ are the main types of soil in Colorado .
+
+ are the two types of(?, soil)
+ BLANK_ are the two types of soil found around by the nile .
+
+ are the 3 different types of(?, soil)
+ BLANK_ are the 3 different types of soil .
+
+ are the seven types of(?, soil)
+ BLANK_ are the seven types of soil .
+
+ are the two basic type of(?, soil)
+ BLANK_ are the two basic type of soil .
+
+ is the least common type of(?, soil)
+ BLANK_ is the least common type of soil in the US .
+
+ are the best type of(?, soil)
+ BLANK_ are the best type of soil used for farming .
+
+ are white maggot type insects in(?, the soil)
+ BLANK_ are white maggot type insects in the soil .
+
+----------------------
+ is the soil condition of(?, the soil)
+ BLANK_ is the soil condition of the soil in a garden .
+
+----------------------
+ are two jobs of(?, the soil)
+ BLANK_ are two jobs of the soil .
+
+----------------------
+ is the main ingredients of(?, soil)
+ BLANK_ is the main ingredients of soil .
+
+ is the main ingredient in(?, soil)
+ BLANK_ is the main ingredient in soil .
+
+ are the two main ingredients of(?, soil)
+ BLANK_ are the two main ingredients of soil .
+
+ is the main ingredient of(?, soil)
+ BLANK_ is the main ingredient of soil .
+
+ are the ingredients in(?, soil)
+ BLANK_ are the ingredients in soil .
+
+ are the 5 ingredients of(?, soil)
+ BLANK_ are the 5 ingredients of soil .
+
+ are the same four ingredients in(?, soil)
+ BLANK_ are the same four ingredients in soil .
+
+----------------------
+ is the Law of(?, the Soil)
+ BLANK_ is the Law of the Soil .
+
+----------------------
+ is the average density of(?, soil)
+ BLANK_ is the average density of soil .
+
+----------------------
+ is the brown powdery fungus on(?, the soil)
+ BLANK_ is the brown powdery fungus on the soil .
+
+----------------------
+ are 3 plant nutrients in(?, soil)
+ BLANK_ are 3 plant nutrients in soil .
+
+----------------------
+ are the different kinds of(?, soil)
+ BLANK_ are the different kinds of soil .
+
+ are kinds of(?, soil)
+ BLANK_ are kinds of soil .
+
+ is the different kind of(?, soil)
+ BLANK_ is the different kind of soil .
+
+ are different kinds of(?, soil)
+ BLANK_ are different kinds of soil in the Philippines .
+
+----------------------
+ is calcification of(?, the soil)
+ BLANK_ is calcification of the soil .
+
+----------------------
+ are the most problematic features of(?, the soil)
+ BLANK_ are the most problematic features of the soil .
+
+----------------------
+ are the four main classes of(?, soil)
+ BLANK_ are the four main classes of soil .
+
+----------------------
+ are the components in(?, soil)
+ BLANK_ are the components in soil .
+
+ is the principal components of(?, soil)
+ BLANK_ is the principal components of soil .
+
+ are the two main components of(?, soil)
+ BLANK_ are the two main components of soil .
+
+ is the component of(?, soil)
+ BLANK_ is the component of soil .
+
+ is a major component of(?, soil)
+ BLANK_ is a major component of soil .
+
+ is The organic component of(?, soil)
+ BLANK_ is The organic component of soil made up mostly of decomposing plants .
+
+ are the major components of(?, soil)
+ BLANK_ are the major components of soil .
+
+ are the 4 components of(?, soil)
+ BLANK_ are the 4 components of soil .
+
+ are the 5 components of(?, soil)
+ BLANK_ are the 5 components of soil .
+
+ are the main components of(?, soil)
+ BLANK_ are the main components of soil .
+
+ are the two major components of(?, soil)
+ BLANK_ are the two major components of soil .
+
+ is the smallest inorganic component of(?, a soil)
+ BLANK_ is the smallest inorganic component of a soil .
+
+ are the three components of(?, soil)
+ BLANK_ are the three components of soil .
+
+ are the six components of(?, soil)
+ BLANK_ are the six components of soil .
+
+ are the primary components of(?, soil)
+ BLANK_ are the primary components of soil .
+
+ are the two major solid components of(?, soil)
+ BLANK_ are the two major solid components of soil .
+
+ are the four main components of(?, soil)
+ BLANK_ are the four main components of soil - .
+
+----------------------
+ is the deepest layer in(?, soil)
+ BLANK_ is the deepest layer in soil .
+
+----------------------
+ is the uppermost layer of(?, soil)
+ BLANK_ is the uppermost layer of soil .
+
+----------------------
+ is Porosity of(?, soil)
+ BLANK_ is Porosity of soil .
+
+----------------------
+ is a six letter word for(?, soil)
+ BLANK_ is a six letter word for soil .
+
+----------------------
+ are the advantages and disadvantages of(?, the soil)
+ BLANK_ are the advantages and disadvantages of the soil .
+
+----------------------
+ are the 3 layers of(?, soil)
+ BLANK_ are the 3 layers of soil .
+
+ are the layers of(?, soil)
+ BLANK_ are the layers of soil .
+
+ are the 4 layers of(?, soil)
+ BLANK_ are the 4 layers of soil .
+
+ are the six main layers of(?, the soil)
+ BLANK_ are the six main layers of the soil .
+
+ are the four main layers of(?, soil)
+ BLANK_ are the four main layers of soil .
+
+ are the six layers of(?, soil)
+ BLANK_ are the six layers of soil .
+
+ is layers of(?, soil)
+ BLANK_ is layers of soil to a geologist .
+
+----------------------
+ is the hypothesis for(?, soil)
+ BLANK_ is the hypothesis for soil .
+
+ is the hypothesis growing plant without(?, soil)
+ BLANK_ is the hypothesis growing plant without soil .
+
+ do grow in(?, )
+ BLANK_ potatoes do grow in .
+
+ does grow on(?, )
+ BLANK_ cotton does grow on .
+
+ grow in(?, )
+ BLANK_ does Indian grass grow in .
+
+ grows in(?, )
+ BLANK_ grows in .
+
+ can grow best(?, )
+ BLANK_ can corn grow best .
+
+----------------------
+ is the wearing of(?, soil)
+ BLANK_ is the wearing of soil by wind and water .
+
+ for wearing away(?, soil)
+ BLANK_ is known for wearing away soil by wind and rain .
+
+----------------------
+ is Specific gravity of(?, soil)
+ BLANK_ is Specific gravity of soil .
+
+----------------------
+ is the tiny groove in(?, soil)
+ BLANK_ is the tiny groove in soil made by flowing water .
+
+ is a tiny groove in(?, soil)
+ BLANK_ is a tiny groove in soil formed by runoff .
+
+ are tiny grooves in(?, the soil)
+ BLANK_ are tiny grooves in the soil .
+
+----------------------
+ are the importants of(?, soil)
+ BLANK_ are the importants of soil .
+
+ is the important of(?, soil)
+ BLANK_ is the important of soil as one of earths resources .
+
+----------------------
+ are three characteristics of(?, soil)
+ BLANK_ are three characteristics of soil .
+
+----------------------
+ is percolation in(?, soil)
+ BLANK_ is percolation in soil .
+
+----------------------
+ are the 3 horizons of(?, soil)
+ BLANK_ are the 3 horizons of soil .
+
+ is horizon of(?, soil)
+ BLANK_ is horizon of soil .
+
+ is horizontal layer of(?, soil)
+ BLANK_ is horizontal layer of soil .
+
+ are the horizons of(?, the soil)
+ BLANK_ are the horizons of the soil .
+
+ is the horizontal layer of(?, soil)
+ BLANK_ is the horizontal layer of soil .
+
+ is a horizontal layer of(?, soil)
+ BLANK_ is a horizontal layer of soil .
+
+----------------------
+ are some problems with(?, soil)
+ BLANK_ are some problems with soil .
+
+----------------------
+ is sbc(?, of soil)
+ BLANK_ is sbc of soil .
+
+----------------------
+ is a another word for(?, soil)
+ BLANK_ is a another word for soil .
+
+----------------------
+ is the main material in(?, a soil)
+ BLANK_ is the main material in a soil .
+
+ is the main material of(?, soil)
+ BLANK_ is the main material of soil .
+
+----------------------
+ are the three layers of(?, soil)
+ BLANK_ are the three layers of soil but not humus .
+
+ are three layers of(?, soil)
+ BLANK_ are three layers of soil in earth 's crust .
+
+ is three layer of(?, the soil)
+ BLANK_ is three layer of the soil .
+
+----------------------
+ are the 4 main layers of(?, soil)
+ BLANK_ are the 4 main layers of soil .
+
+----------------------
+ are the different layers of(?, soil)
+ BLANK_ are the different layers of soil .
+
+----------------------
+ are the parts of(?, the soil)
+ BLANK_ are the parts of the soil .
+
+ is part of(?, soil)
+ BLANK_ is part of soil that comes from dead plants and animals .
+
+ is a living part of(?, the soil)
+ BLANK_ is a living part of the soil .
+
+----------------------
+ is the top layer of(?, soil)
+ BLANK_ is the top layer of soil .
+
+----------------------
+ are the index properties of(?, soil)
+ BLANK_ are the index properties of soil .
+
+----------------------
+ is the significance of(?, soil)
+ BLANK_ is the significance of soil in a vineyard .
+
+----------------------
+ are three methods of(?, soil)
+ BLANK_ are three methods of soil .
+
+----------------------
+ are the Non-living constituents of(?, soil)
+ BLANK_ are the Non-living constituents of soil .
+
+----------------------
+ is fertility in(?, soil)
+ BLANK_ is fertility in soil .
+
+----------------------
+ is the most useful layer of(?, the soil)
+ BLANK_ is the most useful layer of the soil and why .
+
+----------------------
+ is appropriate depth of(?, the soil)
+ BLANK_ is appropriate depth of the soil for planting vegetables .
+
+----------------------
+ are the three main layer of(?, the soil)
+ BLANK_ are the three main layer of the soil .
+
+----------------------
+ is c horizon in(?, soil)
+ BLANK_ is c horizon in soil made up of .
+
+----------------------
+ is the best climate for(?, soil)
+ BLANK_ is the best climate for soil .
+
+----------------------
+ is the smallest particle of(?, soil)
+ BLANK_ is the smallest particle of soil .
+
+----------------------
+ is the best kind of(?, soil)
+ BLANK_ is the best kind of soil for worms .
+
+----------------------
+ is the dry density if(?, soil)
+ BLANK_ is the dry density if soil has wet density of 130 lb - cf a specific gravity of solids 2.67 and water content of 19 percent .
+
+----------------------
+ is the Ph in(?, soil)
+ BLANK_ is the Ph in soil of Great Victoria Desert .
+
+----------------------
+ is the least fertile of(?, all soil)
+ BLANK_ is the least fertile of all soil .
+
+----------------------
+ is the C.B.R. test in(?, soil)
+ BLANK_ is the C.B.R. test in soil .
+
+----------------------
+ are the natures of(?, soil)
+ BLANK_ are the natures of soil .
+
+----------------------
+ is a mixture of(?, soil)
+ BLANK_ is a mixture of soil and small rocks .
+
+ are the 4 mixtures of(?, soil)
+ BLANK_ are the 4 mixtures of soil .
+
+----------------------
+ is the richest part of(?, the soil)
+ BLANK_ is the richest part of the soil .
+
+ is the riches of(?, the soil)
+ BLANK_ is the riches of the soil .
+
+----------------------
+ are the different colors of(?, soil)
+ BLANK_ are the different colors of soil .
+
+ is color of(?, soil)
+ BLANK_ is color of soil .
+
+ colors(?, the soil)
+ BLANK_ colors the soil .
+
+----------------------
+ are key decomposers in(?, the soil)
+ BLANK_ are key decomposers in the soil .
+
+----------------------
+ is the optimum moisture content of(?, soil)
+ BLANK_ is the optimum moisture content of soil .
+
+----------------------
+ is a large channel in(?, soil)
+ BLANK_ is a large channel in soil formed by erosion .
+
+----------------------
+ is a description of(?, soil)
+ BLANK_ is a description of soil 's layers .
+
+----------------------
+ are some vocabulary words for(?, soil)
+ BLANK_ are some vocabulary words for soil .
+
+----------------------
+ are three important uses of(?, soil)
+ BLANK_ are three important uses of soil .
+
+----------------------
+ is toughness index of(?, soil)
+ BLANK_ is toughness index of soil .
+
+----------------------
+ are three key ingredients in(?, soil)
+ BLANK_ are three key ingredients in soil .
+
+----------------------
+ is the average pH of(?, soil)
+ BLANK_ is the average pH of soil in England .
+
+ is the pH for(?, soil)
+ BLANK_ is the pH for soil around pine trees .
+
+ is the pH level of(?, the soil)
+ BLANK_ is the pH level of the soil in the UK .
+
+----------------------
+ is the chemical formula of(?, soil)
+ BLANK_ is the chemical formula of soil .
+
+ to form(?, soil)
+ BLANK_ are mixed to form soil .
+
+----------------------
+ is the decaying organic matter in(?, soil)
+ BLANK_ is the decaying organic matter in soil .
+
+----------------------
+ is the largest particle in(?, soil)
+ BLANK_ is the largest particle in soil .
+
+ is the largest particle of(?, soil)
+ BLANK_ is the largest particle of soil .
+
+----------------------
+ is the load bearing capacity of(?, soil)
+ BLANK_ is the load bearing capacity of soil .
+
+----------------------
+ is the specific heat of(?, soil)
+ BLANK_ is the specific heat of soil .
+
+----------------------
+ are the three most important minerals in(?, soil)
+ BLANK_ are the three most important minerals in soil .
+
+ is the most important mineral in(?, soil)
+ BLANK_ is the most important mineral in soil .
+
+----------------------
+ is a horizon layer of(?, soil)
+ BLANK_ is a horizon layer of soil .
+
+----------------------
+ are the four properties of(?, soil)
+ BLANK_ are the four properties of soil .
+
+----------------------
+ are physical changes of(?, soil)
+ BLANK_ are physical changes of soil .
+
+ changes(?, the soil)
+ BLANK_ changes the soil pH .
+
+----------------------
+ is a vertical cross section of(?, the soil)
+ BLANK_ is a vertical cross section of the soil .
+
+----------------------
+ is the exact chemical composition of(?, soil)
+ BLANK_ is the exact chemical composition of soil .
+
+----------------------
+ is the decayed organic material of(?, soil)
+ BLANK_ is the decayed organic material of soil .
+
+ is the organic material in(?, soil)
+ BLANK_ is the organic material in soil .
+
+ is the main source or organic material in(?, soil)
+ BLANK_ is the main source or organic material in soil .
+
+----------------------
+ are the 3 reasons that(?, soil)
+ BLANK_ are the 3 reasons that soil is important .
+
+----------------------
+ is importance of(?, soil)
+ BLANK_ is importance of soil as construction material .
+
+----------------------
+ is the chemical and physical weathering of(?, soil)
+ BLANK_ is the chemical and physical weathering of soil .
+
+----------------------
+ is the conclusion for(?, soil)
+ BLANK_ is the conclusion for soil .
+
+----------------------
+ are the four basic materials that(?, soil)
+ BLANK_ are the four basic materials that soil is made of .
+
+ are the basic materials of(?, soil)
+ BLANK_ are the basic materials of soil .
+
+----------------------
+ is the pure substance in(?, soil)
+ BLANK_ is the pure substance in soil .
+
+ is the substance of(?, soil)
+ BLANK_ is the substance of soil .
+
+----------------------
+ is an analogy for(?, soil)
+ BLANK_ is an analogy for soil .
+
+----------------------
+ are three important benefits that(?, soil)
+ BLANK_ are three important benefits that soil provides .
+
+----------------------
+ are three properties of(?, soil)
+ BLANK_ are three properties of soil .
+
+----------------------
+ is soldiers of(?, the soil)
+ BLANK_ is soldiers of the soil .
+
+----------------------
+ is a property of(?, soil)
+ BLANK_ is a property of soil that determines how water will soak through the ground .
+
+----------------------
+ is the white powdery stuff on(?, soil)
+ BLANK_ is the white powdery stuff on soil of African violet plants .
+
+----------------------
+ is the management of(?, soil)
+ BLANK_ is the management of soil to prevent its destruction .
+
+----------------------
+ is a deposit of(?, soil)
+ BLANK_ is a deposit of soil that collects at the mouth of rivers .
+
+----------------------
+ is the volume of(?, soil)
+ BLANK_ is the volume of soil in a round hole that has a radius of 2.5 m and is 4 m deep .
+
+----------------------
+ are the eight classifications of(?, soil)
+ BLANK_ are the eight classifications of soil .
+
+ are the classification of(?, soil)
+ BLANK_ are the classification of soil .
+
+----------------------
+ is Sudden movement of(?, soil)
+ BLANK_ is Sudden movement of soil saturated with water .
+
+----------------------
+ are the white things in(?, soil)
+ BLANK_ are the white things in soil .
+
+----------------------
+ is the most productive and fertile part of(?, soil)
+ BLANK_ is the most productive and fertile part of soil .
+
+----------------------
+ are the stages of(?, soil)
+ BLANK_ are the stages of soil .
+
+----------------------
+ is safe bearing capacity of(?, soil)
+ BLANK_ is safe bearing capacity of soil .
+
+----------------------
+ are the contents of(?, soil)
+ BLANK_ are the contents of soil .
+
+----------------------
+ are 3 detrimental effects of(?, soil)
+ BLANK_ are 3 detrimental effects of soil .
+
+----------------------
+ are red colors in(?, soil)
+ BLANK_ are red colors in soil are usually an indication of .
+
+----------------------
+ is common uses of(?, soil)
+ BLANK_ is common uses of soil .
+
+----------------------
+ is the stabilizer of(?, soil)
+ BLANK_ is the stabilizer of soil to check soil erosion .
+
+----------------------
+ is a yard of(?, soil)
+ BLANK_ is a yard of soil .
+
+----------------------
+ moss(?, to the soil)
+ BLANK_ moss to the soil .
+
+----------------------
+ are pros of(?, soil)
+ BLANK_ are pros of soil .
+
+----------------------
+ are the trivia about(?, soil)
+ BLANK_ are the trivia about soil .
+
+----------------------
+ are the Four names of(?, soil)
+ BLANK_ are the Four names of soil .
+
+----------------------
+ is a another name for(?, soil)
+ BLANK_ is a another name for soil .
+
+----------------------
+ are the componets of(?, soil)
+ BLANK_ are the componets of soil .
+
+----------------------
+ is the three main things about(?, soil)
+ BLANK_ is the three main things about soil .
+
+----------------------
+ are the different names for(?, soil)
+ BLANK_ are the different names for soil .
+
+----------------------
+ is a distinct layer of(?, soil)
+ BLANK_ is a distinct layer of soil .
+
+----------------------
+ are the physical properties of(?, soil)
+ BLANK_ are the physical properties of soil .
+
+----------------------
+ are 2 jobs of(?, soil)
+ BLANK_ are 2 jobs of soil .
+
+----------------------
+ is the permeability and porosity of(?, the soil)
+ BLANK_ is the permeability and porosity of the soil in Antarctica .
+
+----------------------
+ is the third layer of(?, soil)
+ BLANK_ is the third layer of soil .
+
+----------------------
+ is a synonym for(?, soil)
+ BLANK_ is a synonym for soil .
+
+----------------------
+ is air capacity in(?, soil)
+ BLANK_ is air capacity in soil .
+
+----------------------
+ is the sound speed in(?, soil)
+ BLANK_ is the sound speed in soil .
+
+----------------------
+ are white rocks in(?, the soil)
+ BLANK_ are white rocks in the soil .
+
+----------------------
+ is preconsolidation stress in(?, soil)
+ BLANK_ is preconsolidation stress in soil .
+
+----------------------
+ is dilatancy of(?, soil)
+ BLANK_ is dilatancy of soil .
+
+----------------------
+ is most causative pollutant of(?, soil)
+ BLANK_ is most causative pollutant of soil .
+
+----------------------
+ is field capacity of(?, soil)
+ BLANK_ is field capacity of soil .
+
+----------------------
+ is the treatment of(?, soil)
+ BLANK_ is the treatment of soil .
+
+----------------------
+ is a zone of(?, soil)
+ BLANK_ is a zone of soil that have similar composition texture structure and color .
+
+----------------------
+ is lowest layer of(?, soil)
+ BLANK_ is lowest layer of soil .
+
+----------------------
+ are the resources of(?, soil)
+ BLANK_ are the resources of soil in Oregon .
+
+ are resources of(?, soil)
+ BLANK_ are resources of soil in Illinois .
+
+----------------------
+ is mineral riches in(?, the soil)
+ BLANK_ is mineral riches in the soil .
+
+----------------------
+ is the organic layer of(?, soil)
+ BLANK_ is the organic layer of soil .
+
+----------------------
+ is central core of(?, soil)
+ BLANK_ is central core of soil .
+
+----------------------
+ are the main minerals in(?, soil)
+ BLANK_ are the main minerals in soil .
+
+----------------------
+ are the enemies of(?, the soil)
+ BLANK_ are the enemies of the soil .
+
+----------------------
+ is sedimentation analysis of(?, soil)
+ BLANK_ is sedimentation analysis of soil .
+
+----------------------
+ is the mid layer of(?, the soil)
+ BLANK_ is the mid layer of the soil .
+
+----------------------
+ are the tiny white threads in(?, soil)
+ BLANK_ are the tiny white threads in soil .
+
+----------------------
+ are the harmful effect of(?, soil)
+ BLANK_ are the harmful effect of soil .
+
+----------------------
+ is sovereignty of(?, soil)
+ BLANK_ is sovereignty of soil .
+
+----------------------
+ is importtance of(?, soil)
+ BLANK_ is importtance of soil in making pottery .
+
+----------------------
+ is a large layer of(?, soil)
+ BLANK_ is a large layer of soil below the topsoil that begins with with s .
+
+----------------------
+ is capillarity in(?, soil)
+ BLANK_ is capillarity in soil .
+
+----------------------
+ are the 6 properties of(?, soil)
+ BLANK_ are the 6 properties of soil .
+
+----------------------
+ do use to cut(?, through the soil)
+ BLANK_ farmers do use to cut through the soil .
+
+----------------------
+ is the Greek Goddess of(?, Soil)
+ BLANK_ is the Greek Goddess of Soil .
+
+----------------------
+ is the freezing point of(?, Soil)
+ BLANK_ is the freezing point of Soil .
+
+----------------------
+ fertilize(?, the soil)
+ BLANK_ help farmers fertilize the soil .
+
+ is fertilized(?, soil)
+ BLANK_ is fertilized soil .
+
+----------------------
+ composes(?, the soil)
+ BLANK_ composes the soil .
+
+----------------------
+ swallows(?, soil)
+ BLANK_ swallows soil .
+
+----------------------
+ can contaminate(?, soil)
+ BLANK_ can contaminate soil .
+
+----------------------
+ is ploughing(?, the soil)
+ BLANK_ is ploughing the soil .
+
+----------------------
+ is calcified(?, soil)
+ BLANK_ is calcified soil .
+
+----------------------
+ is putting(?, soil)
+ BLANK_ is putting soil .
+
+----------------------
+ is mostly found(?, in soil)
+ BLANK_ is mostly found in soil .
+
+ are are found(?, in soil)
+ BLANK_ are four things are found in soil .
+
+----------------------
+ is liming(?, in soil)
+ BLANK_ is liming in soil .
+
+----------------------
+ is harvested(?, as a soil)
+ BLANK_ is harvested as a soil and consumed as a liquid .
+
+----------------------
+ grows down(?, into soil)
+ BLANK_ grows down into soil .
+
+----------------------
+ would negatively effect(?, soil)
+ BLANK_ would negatively effect soil .
+
+----------------------
+ may live(?, in soil)
+ BLANK_ may live in soil .
+
+ can not live(?, )
+ BLANK_ cannot live without soil .
+
+----------------------
+ does n't involve(?, soil)
+ BLANK_ does n't involve soil .
+
+----------------------
+ resembles(?, soil)
+ BLANK_ resembles soil .
+
+----------------------
+ breaks up(?, soil)
+ BLANK_ breaks up soil .
+
+----------------------
+ goes(?, into soil)
+ BLANK_ goes into soil .
+
+----------------------
+ founded(?, soil)
+ BLANK_ founded soil .
+
+----------------------
+ is weakly developed(?, soil)
+ BLANK_ is weakly developed soil .
+
+----------------------
+ is returned(?, to the soil)
+ BLANK_ is returned to the soil .
+
+----------------------
+ is carbonated(?, soil)
+ BLANK_ is carbonated soil .
+
+----------------------
+ is affecting(?, the soil)
+ BLANK_ is affecting the soil .
+
+----------------------
+ not absorbed(?, by the soil)
+ BLANK_ not absorbed by the soil which carries pesticides and fertilizers .
+
+----------------------
+ need(?, soil)
+ BLANK_ need soil .
+
+ do not need(?, soil)
+ BLANK_ do not need soil .
+
+ do n't need(?, soil)
+ BLANK_ do n't need soil .
+
+----------------------
+ is given(?, to the soil)
+ BLANK_ is given to the soil brought down by the river .
+
+----------------------
+ does overgrazing(?, have on soil)
+ BLANK_ does overgrazing have on soil .
+
+ does overgrazing have(?, on soil)
+ BLANK_ does overgrazing have on soil .
+
+----------------------
+ acidic(?, soil)
+ BLANK_ would indicate and acidic soil .
+
+----------------------
+ helps preserve(?, soil)
+ BLANK_ helps preserve soil .
+
+ do to help(?, the soil)
+ BLANK_ do to help the soil .
+
+----------------------
+ draining(?, soil)
+ BLANK_ is free draining soil .
+
+----------------------
+ helps to retain(?, soil)
+ BLANK_ helps to retain soil .
+
+----------------------
+ occurs naturally(?, in the soil)
+ BLANK_ is a poisonous gas and occurs naturally in the soil .
+
+ occur(?, )
+ BLANK_ does leaching occur in .
+
+----------------------
+ cause transported(?, soil)
+ BLANK_ cause transported soil .
+
+----------------------
+ o measure(?, soil)
+ You do need BLANK_ o measure soil .
+
+----------------------
+ can help conserve(?, soil)
+ BLANK_ can help conserve soil .
+
+----------------------
+ are broken down(?, into soil)
+ BLANK_ are broken down into soil .
+
+----------------------
+ are abosrbed(?, from the soil)
+ BLANK_ are abosrbed from the soil .
+
+----------------------
+ are related(?, to soil)
+ BLANK_ are related to soil .
+
+----------------------
+ composting(?, do for the soil)
+ BLANK_ does composting do for the soil .
+
+ composting do(?, for the soil)
+ BLANK_ does composting do for the soil .
+
+----------------------
+ was made up(?, )
+ BLANK_ soil was made up of .
+
+ are made up(?, )
+ BLANK_ soils are made up of .
+
+----------------------
+ keep(?, their soil)
+ BLANK_ do farmers keep their soil fertile .
+
+----------------------
+ in potting(?, soil)
+ BLANK_ are found in potting soil .
+
+----------------------
+ holds tightly(?, in the soil)
+ BLANK_ holds it tightly in the soil .
+
+----------------------
+ to bury(?, in the soil)
+ BLANK_ do they need to bury in the soil .
+
+----------------------
+ graded(?, soil)
+ BLANK_ is gap graded soil .
+
+----------------------
+ ate(?, soil)
+ BLANK_ said plants ate soil .
+
+----------------------
+ can learn(?, )
+ You do think BLANK_ pedologists or scientist who study soil can learn by picking up a handful of soil .
+
+----------------------
+ do prevent(?, )
+ BLANK_ plants do prevent by holding the soil with roots .
+
+----------------------
+ do do to neutralize(?, soil)
+ BLANK_ do farmers do to neutralize soil .
+
+ is neutralized(?, )
+ BLANK_ is neutralized by adding lime to acidic soil .
+
+----------------------
+ has done(?, )
+ BLANK_ Ronald Reagan has done on US soil .
+
+----------------------
+ to vary(?, )
+ BLANK_ causes soils to vary in color .
+
+----------------------
+ to filter(?, )
+ BLANK_ allows water to filter without absorption .
+
+----------------------
+ to drain easily(?, )
+ BLANK_ has large grains and allows water to drain easily .
+
+ does not drain easily(?, )
+ BLANK_ does not drain easily and sticky with puddles lying in wet weather .
+
+----------------------
+ would best(?, )
+ BLANK_ would best to grow for commercial sale if the ground is not light holds water well and gets lots of sun .
+
+----------------------
+ will happens(?, )
+ BLANK_ will happens if there is no soil on earth .
+
+----------------------
+ would indicate(?, )
+ BLANK_ would indicate and acidic soil .
+
+----------------------
+ raising(?, )
+ BLANK_ raising .
+
+----------------------
+ does not dissolve(?, )
+ BLANK_ does not dissolve or react in water and used to control soil acidity .
+
+----------------------
+ prefare(?, )
+ BLANK_ prefare to grow in acidic soil .
+
+----------------------
+ is limestone in(?, )
+ BLANK_ is limestone in .
+
+----------------------
+ colour(?, )
+ BLANK_ colour depending on if it is in acid or alkaline soil .
+
+----------------------
+ grew up(?, )
+ BLANK_ grew up where the soil was very rich for agriculture .
+
+----------------------
+ is farming called(?, )
+ BLANK_ is farming called if you do n't use soil .
+
+----------------------
+ is shifting agricultural(?, )
+ BLANK_ is shifting agricultural .
+
+----------------------
+ soils down(?, )
+ BLANK_ best describes those processes that move weathered rock materials and soils down slope by the force of gravity .
+
+----------------------
+ makes soil soil(?, )
+ BLANK_ makes soil .
+
+----------------------
+ contians living(?, )
+ BLANK_ contians living and nonliving materials .
+
+----------------------
+ owes(?, )
+ BLANK_ owes it 's colour to oxides of iron is .
+
+----------------------
+ makes up soil humus humus(?, )
+ BLANK_ makes up soil humus .
+
+----------------------
+ gives mars mars(?, )
+ BLANK_ gives mars its reddish hue .
+
+----------------------
+ to pass easily(?, )
+ BLANK_ allows water to pass through easily .
+
+----------------------
+ to pass very slowly(?, )
+ BLANK_ allow water to pass through very slowly .
+
+----------------------
+ could happen(?, )
+ BLANK_ could happen if transpiration rate is greater than absorption rate .
+
+----------------------
+ flooded(?, )
+ BLANK_ flooded and created rich soil .
+
+----------------------
+ run easily(?, )
+ BLANK_ lets water run through easily .
+
+----------------------
+ are eroded most easily(?, )
+ BLANK_ are eroded most easily .
+
+ can be eroded easily(?, )
+ BLANK_ can be eroded easily .
+
+----------------------
+ are involved(?, )
+ BLANK_ are involved when Rain infiltration into the soil .
+
+----------------------
+ passing down(?, )
+ BLANK_ passing of minerals down thourgh soil layers .
+
+----------------------

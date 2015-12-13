@@ -1,0 +1,775 @@
+ have played(?, in evolution)
+ BLANK_ might districting of continents have played in evolution .
+
+ can play(?, in evolution)
+ BLANK_ can play in evolution .
+
+----------------------
+ does involve(Evolution,?)Evolution does involve BLANK_ .
+
+----------------------
+ does show(?, about evolution)
+ BLANK_ fossil evidence does show about evolution .
+
+----------------------
+ does provide(Evolution,?)Evolution does provide BLANK_ .
+
+----------------------
+ can reveal(?, about evolution)
+ BLANK_ homologies can reveal about evolution .
+
+----------------------
+ do generally say(?, about evolution)
+ BLANK_ scientists do generally say about evolution .
+
+----------------------
+ are facts about(?, evolution)
+ BLANK_ are facts about evolution .
+
+ are the facts about(?, evolution)
+ BLANK_ are the facts about evolution .
+
+----------------------
+ are five strong points on(?, evolution)
+ BLANK_ are five strong points on evolution .
+
+----------------------
+ are the theories of(?, evolution)
+ BLANK_ are the theories of evolution and what are the explanations of the theories .
+
+ are some theories of(?, evolution)
+ BLANK_ are some theories of evolution .
+
+ are alternate theories of(?, evolution)
+ BLANK_ are alternate theories of evolution .
+
+ are the five theories of(?, evolution)
+ BLANK_ are the five theories of evolution of life .
+
+----------------------
+ is Edwin Darwins theory on(?, evolution)
+ BLANK_ is Edwin Darwins theory on evolution .
+
+ is the theory of(?, evolution)
+ BLANK_ is the theory of evolution exactly .
+
+ is Darwins theory of(?, evolution)
+ BLANK_ is Darwins theory of evolution .
+
+ are Lamarcks theory on(?, evolution)
+ BLANK_ are Lamarcks theory on evolution .
+
+ is Atomic theory of(?, evolution)
+ BLANK_ is Atomic theory of evolution of human .
+
+ was Darwins theory of(?, evolution)
+ BLANK_ was Darwins theory of evolution based on .
+
+ is malthus theory on(?, evolution)
+ BLANK_ is malthus theory on evolution .
+
+ is the modern theory of(?, evolution)
+ BLANK_ is the modern theory of evolution also known as .
+
+ is the mutation theory of(?, evolution)
+ BLANK_ is the mutation theory of evolution .
+
+ is cuvier theory of(?, evolution)
+ BLANK_ is cuvier theory of evolution .
+
+ is the prevalent theory of(?, evolution)
+ BLANK_ is the prevalent theory of evolution .
+
+ is the most excepted theory of(?, evolution)
+ BLANK_ is the most excepted theory of evolution .
+
+ is the Punctuated equilibrium theory of(?, evolution)
+ BLANK_ is the Punctuated equilibrium theory of evolution .
+
+ is the current theory of(?, evolution)
+ BLANK_ is the current theory of evolution .
+
+ was Patrick Matthews theory of(?, evolution)
+ BLANK_ was Patrick Matthews theory of evolution .
+
+ was Mendels theory of(?, evolution)
+ BLANK_ was Mendels theory of evolution .
+
+ are theorys(?, the evolution)
+ BLANK_ are the evolution theorys .
+
+----------------------
+ was the major breakthrough in(?, the evolution)
+ BLANK_ was the major breakthrough in the evolution of the digestive system .
+
+----------------------
+ is the most important evidence against(?, evolution)
+ BLANK_ is the most important evidence against evolution in the fossil record .
+
+ is the evidence that(?, evolution)
+ BLANK_ is the evidence that evolution is taking place .
+
+ is direct evidence of(?, evolution)
+ BLANK_ is direct evidence of evolution .
+
+ are the five main evidences of(?, evolution)
+ BLANK_ are the five main evidences of evolution .
+
+ are five evidences of(?, evolution)
+ BLANK_ are five evidences of evolution .
+
+ is evidence for(?, evolution)
+ BLANK_ is evidence for evolution .
+
+ is some evidence of(?, evolution)
+ BLANK_ is some evidence of evolution from plants and animals .
+
+ is the biochemical evidence for(?, evolution)
+ BLANK_ is the biochemical evidence for evolution .
+
+ is the empirical evidence of(?, evolution)
+ BLANK_ is the empirical evidence of evolution .
+
+ are some biochemical evidences of(?, evolution)
+ BLANK_ are some biochemical evidences of evolution .
+
+ are the new evidence of(?, evolution)
+ BLANK_ are the new evidence of evolution .
+
+ is the strongest evidence of(?, evolution)
+ BLANK_ is the strongest evidence of evolution .
+
+ is the most important information evidence against(?, evolution)
+ BLANK_ is the most important information evidence against evolution in the fossil record .
+
+ are 8 evidences of(?, evolution)
+ BLANK_ are 8 evidences of evolution .
+
+ are some evidences of(?, evolution)
+ BLANK_ are some evidences of evolution .
+
+----------------------
+ are the four pieces of(?, evolution)
+ BLANK_ are the four pieces of evolution .
+
+----------------------
+ are the current benefits of(?, evolution)
+ BLANK_ are the current benefits of evolution .
+
+----------------------
+ are the evidences against(?, evolution)
+ BLANK_ are the evidences against evolution .
+
+ are 5 evidences of(?, evolution)
+ BLANK_ are 5 evidences of evolution .
+
+ are the 5 evidences for(?, evolution)
+ BLANK_ are the 5 evidences for evolution .
+
+----------------------
+ is the ultimate outcome of(?, evolution)
+ BLANK_ is the ultimate outcome of evolution .
+
+----------------------
+ is the use of(?, evolution)
+ BLANK_ is the use of evolution .
+
+ did use to explain(?, evolution)
+ BLANK_ Darwin did use to explain evolution .
+
+ would use to discuss(?, evolution)
+ BLANK_ would you use to discuss evolution .
+
+ do use to prove(?, evolution)
+ BLANK_ do scientists use to prove evolution .
+
+----------------------
+ is Charles Darwin theory of(?, evolution)
+ BLANK_ is Charles Darwin theory of evolution .
+
+----------------------
+ are four types of(?, evolution)
+ BLANK_ are four types of evolution .
+
+ are some types of(?, Evolution)
+ BLANK_ are some types of Evolution .
+
+----------------------
+ are the main principles of(?, evolution)
+ BLANK_ are the main principles of evolution according to Charles Darwin and the evolutionists .
+
+----------------------
+ are the pros and cons of(?, evolution)
+ BLANK_ are the pros and cons of evolution .
+
+ are pros and cons of(?, evolution)
+ BLANK_ are pros and cons of evolution .
+
+----------------------
+ is the timeline of(?, the evolution)
+ BLANK_ is the timeline of the evolution of man .
+
+----------------------
+ are the periods in(?, the evolution)
+ BLANK_ are the periods in the evolution of English language .
+
+----------------------
+ are major trends in(?, the evolution)
+ BLANK_ are major trends in the evolution of animals .
+
+ are the major trends in(?, the evolution)
+ BLANK_ are the major trends in the evolution of land plants .
+
+----------------------
+ are the direct evidence of(?, evolution)
+ BLANK_ are the direct evidence of evolution .
+
+----------------------
+ is Theory of(?, evolution)
+ BLANK_ is Theory of evolution applied to business .
+
+ is the Cosmozoic Theory of(?, Evolution)
+ BLANK_ is the Cosmozoic Theory of Evolution .
+
+----------------------
+ are the mechanism of(?, evolution)
+ BLANK_ are the mechanism of evolution .
+
+ is the most important mechanism of(?, evolution)
+ BLANK_ is the most important mechanism of evolution .
+
+ was the mechanism for(?, evolution)
+ BLANK_ was the mechanism for evolution by jean baptiste lamarck .
+
+ is the mechanism of(?, evolution)
+ BLANK_ is the mechanism of evolution .
+
+ is mechanism of(?, evolution)
+ BLANK_ is mechanism of evolution .
+
+ is a mechanism of(?, evolution)
+ BLANK_ is a mechanism of evolution .
+
+----------------------
+ is final stage in(?, the evolution)
+ BLANK_ is final stage in the evolution of American independence .
+
+----------------------
+ is the smallest unit of(?, evolution)
+ BLANK_ is the smallest unit of evolution .
+
+----------------------
+ is the raw material for(?, evolution)
+ BLANK_ is the raw material for evolution .
+
+ is the raw material of(?, evolution)
+ BLANK_ is the raw material of evolution .
+
+ is raw material for(?, evolution)
+ BLANK_ is raw material for evolution .
+
+----------------------
+ is the fuss about(?, evolution)
+ BLANK_ is the fuss about evolution .
+
+----------------------
+ is Red Queen in(?, evolution)
+ BLANK_ is Red Queen in evolution .
+
+----------------------
+ is one example of(?, evolution)
+ BLANK_ is one example of evolution occurring today .
+
+----------------------
+ is the core of(?, evolution)
+ BLANK_ is the core of evolution .
+
+----------------------
+ are the doctrines of(?, evolution)
+ BLANK_ are the doctrines of evolution .
+
+----------------------
+ is the debate about(?, evolution)
+ BLANK_ is the debate about evolution .
+
+----------------------
+ is the last step in(?, the evolution)
+ BLANK_ is the last step in the evolution of life .
+
+----------------------
+ is sequence in(?, the evolution)
+ BLANK_ is sequence in the evolution of man .
+
+----------------------
+ is the next in(?, evolution)
+ BLANK_ is the next in evolution of computers after abacus .
+
+ is the next step for(?, evolution)
+ BLANK_ is the next step for evolution .
+
+----------------------
+ is the slow process of(?, evolution)
+ BLANK_ is the slow process of evolution .
+
+----------------------
+ are some main ideas behind(?, evolution)
+ BLANK_ are some main ideas behind evolution .
+
+ is the idea that(?, evolution)
+ BLANK_ is the idea that evolution occurs slowly but steadily .
+
+ is the The first basic idea of(?, evolution)
+ BLANK_ is the The first basic idea of evolution traced back to .
+
+----------------------
+ are some arguments about(?, evolution)
+ BLANK_ are some arguments about evolution .
+
+----------------------
+ are three patterns of(?, evolution)
+ BLANK_ are three patterns of evolution .
+
+----------------------
+ are the two outcomes for(?, evolution)
+ BLANK_ are the two outcomes for evolution .
+
+----------------------
+ are the two different processes of(?, evolution)
+ BLANK_ are the two different processes of evolution .
+
+----------------------
+ is your reaction in(?, the evolution)
+ BLANK_ is your reaction in the evolution of life .
+
+----------------------
+ is the basis of(?, evolution)
+ BLANK_ is the basis of evolution .
+
+ is the basis for(?, evolution)
+ BLANK_ is the basis for evolution .
+
+----------------------
+ is the first stage in(?, the evolution)
+ BLANK_ is the first stage in the evolution of federalism .
+
+----------------------
+ is the rate of(?, evolution)
+ BLANK_ is the rate of evolution .
+
+----------------------
+ are the driving factors of(?, evolution)
+ BLANK_ are the driving factors of evolution .
+
+----------------------
+ are the odds that(?, evolution)
+ BLANK_ are the odds that evolution is true .
+
+----------------------
+ is the biological process of(?, evolution)
+ BLANK_ is the biological process of evolution .
+
+----------------------
+ are five causes of(?, evolution)
+ BLANK_ are five causes of evolution .
+
+----------------------
+ is competition in(?, evolution)
+ BLANK_ is competition in evolution .
+
+----------------------
+ is the smallest level of(?, evolution)
+ BLANK_ is the smallest level of evolution .
+
+----------------------
+ are the holes in(?, evolution)
+ BLANK_ are the holes in evolution .
+
+----------------------
+ were the different stages of(?, evolution)
+ BLANK_ were the different stages of evolution of man .
+
+ are the stages of(?, evolution)
+ BLANK_ are the stages of evolution from ape to human .
+
+ are stages of(?, evolution)
+ BLANK_ are stages of evolution .
+
+----------------------
+ are the flaws of(?, evolution)
+ BLANK_ are the flaws of evolution .
+
+----------------------
+ is the explanation for(?, the evolution)
+ BLANK_ is the explanation for the evolution of thorns .
+
+----------------------
+ is the hypothesis that(?, evolution)
+ BLANK_ is the hypothesis that evolution occurred slowly but steadily .
+
+----------------------
+ is selection in(?, evolution)
+ BLANK_ is selection in evolution .
+
+----------------------
+ is the concept that(?, evolution)
+ BLANK_ is the concept that evolution occurs over long period of stability that are interrupted by geologically brief periods of change known as .
+
+----------------------
+ are three myths about(?, evolution)
+ BLANK_ are three myths about evolution through natural selection .
+
+----------------------
+ are the contributors of(?, the evolution)
+ BLANK_ are the contributors of the evolution of the atomic theory .
+
+----------------------
+ was the belief in(?, evolution)
+ BLANK_ was the belief in evolution called in the 1700 ' s .
+
+----------------------
+ are the disadvantages with(?, the evolution)
+ BLANK_ are the disadvantages with the evolution of science and technology .
+
+----------------------
+ is the overriding political question through(?, the evolution)
+ BLANK_ is the overriding political question through the evolution of congress .
+
+----------------------
+ are the practicability of(?, evolution)
+ BLANK_ are the practicability of evolution .
+
+----------------------
+ is the biggest hole of(?, evolution)
+ BLANK_ is the biggest hole of evolution .
+
+----------------------
+ are some quotes about(?, evolution)
+ BLANK_ are some quotes about evolution .
+
+----------------------
+ is the controversy over(?, evolution)
+ BLANK_ is the controversy over evolution .
+
+----------------------
+ are the major laws in(?, evolution)
+ BLANK_ are the major laws in evolution .
+
+ is the law of(?, evolution)
+ BLANK_ is the law of evolution .
+
+----------------------
+ are the elements of(?, evolution)
+ BLANK_ are the elements of evolution .
+
+----------------------
+ are the alternatives of(?, evolution)
+ BLANK_ are the alternatives of evolution .
+
+----------------------
+ are Aries of(?, evolution)
+ BLANK_ are Aries of evolution .
+
+----------------------
+ is a model of(?, evolution)
+ BLANK_ is a model of evolution in which short periods of drastic changes in species are separated by long periods of little or no change .
+
+----------------------
+ is the Pattern of(?, evolution)
+ BLANK_ is the Pattern of evolution where a species is stable for a long time than rapidly changes .
+
+----------------------
+ are the products of(?, evolution)
+ BLANK_ are the products of evolution .
+
+----------------------
+ are the two categories of(?, evolution)
+ BLANK_ are the two categories of evolution .
+
+----------------------
+ is divergence in(?, evolution)
+ BLANK_ is divergence in evolution .
+
+----------------------
+ is a mya in(?, evolution)
+ BLANK_ is a mya in evolution .
+
+----------------------
+ are two unanswered question about(?, evolution)
+ BLANK_ are two unanswered question about evolution .
+
+----------------------
+ is the merchanism for(?, evolution)
+ BLANK_ is the merchanism for evolution .
+
+----------------------
+ is the main cause of(?, evolution)
+ BLANK_ is the main cause of evolution .
+
+----------------------
+ was the first creature in(?, evolution)
+ BLANK_ was the first creature in evolution to fly .
+
+----------------------
+ is a cure for(?, evolution)
+ BLANK_ is a cure for evolution .
+
+----------------------
+ is the main point of(?, evolution)
+ BLANK_ is the main point of evolution in reference to development .
+
+----------------------
+ are switches in(?, evolution)
+ BLANK_ are switches in evolution .
+
+----------------------
+ is the correct order of(?, the evolution)
+ BLANK_ is the correct order of the evolution of plants .
+
+----------------------
+ is the primary directing force in(?, evolution)
+ BLANK_ is the primary directing force in evolution .
+
+----------------------
+ is the biggest change in(?, evolution)
+ BLANK_ is the biggest change in evolution .
+
+----------------------
+ are the steps of(?, evolution)
+ BLANK_ are the steps of evolution for man and whale .
+
+----------------------
+ is the ultimate goal of(?, evolution)
+ BLANK_ is the ultimate goal of evolution .
+
+----------------------
+ are animals in(?, evolution)
+ BLANK_ are animals in evolution .
+
+----------------------
+ are 2 hypotheses of(?, evolution)
+ BLANK_ are 2 hypotheses of evolution .
+
+----------------------
+ accepted(?, Evolution)
+ BLANK_ accepted Evolution over Creation and how does it compare with the US .
+
+ accept(?, evolution)
+ BLANK_ accept evolution .
+
+----------------------
+ is the Speed of(?, Evolution)
+ BLANK_ is the Speed of Evolution .
+
+----------------------
+ are the branches of(?, Evolution)
+ BLANK_ are the branches of Evolution .
+
+----------------------
+ is your opinion on(?, Evolution)
+ BLANK_ is your opinion on Evolution .
+
+----------------------
+ depend(?, on)
+ BLANK_ is the particular species that come and go in the process on succesion depend on .
+
+----------------------
+ start to believe(?, in evolution)
+ BLANK_ made people start to believe in evolution .
+
+ do not believe(?, in evolution)
+ BLANK_ do not believe in evolution .
+
+ believe(?, in evolution)
+ BLANK_ believe in evolution .
+
+----------------------
+ refuse to believe(?, in evolution)
+ BLANK_ made people refuse to believe in evolution .
+
+----------------------
+ does n't believe(?, in evolution)
+ BLANK_ does n't believe in evolution .
+
+----------------------
+ contradicts(?, evolution)
+ BLANK_ contradicts evolution .
+
+----------------------
+ is there supporting(?, evolution)
+ BLANK_ is there supporting evolution .
+
+----------------------
+ does not allow(?, for evolution)
+ BLANK_ does not allow for evolution .
+
+----------------------
+ exactly is(?, evolution)
+ BLANK_ exactly is evolution .
+
+----------------------
+ to do(?, with evolution)
+ Lamarck did have BLANK_ to do with evolution .
+
+ have to do(?, with evolution)
+ BLANK_ have to do with evolution .
+
+----------------------
+ disprove(?, evolution)
+ BLANK_ disprove evolution .
+
+----------------------
+ is famously associated(?, with evolution)
+ BLANK_ is famously associated with evolution .
+
+----------------------
+ thought(?, of evolution)
+ BLANK_ thought of evolution .
+
+ is thought(?, )
+ BLANK_ is thought to have changed the genetic code over billions of years .
+
+ are thought(?, )
+ BLANK_ are thought to have led to the evoultion of the goblin gene family .
+
+----------------------
+ figured out(?, evolution)
+ BLANK_ figured out evolution .
+
+----------------------
+ proved(?, evolution)
+ BLANK_ proved evolution to be true .
+
+----------------------
+ must affect(?, evolution)
+ BLANK_ must affect evolution .
+
+ affect(?, )
+ BLANK_ affect did Charles Darwin 's theory have on human history .
+
+----------------------
+ would occur most rapidly(?, evolution)
+ BLANK_ would evolution occur most rapidly .
+
+----------------------
+ dealing(?, with evolution)
+ Francesco Redi did do BLANK_ dealing with evolution .
+
+----------------------
+ helped lead(?, to evolution)
+ BLANK_ helped lead to evolution .
+
+----------------------
+ does act(?, on)
+ BLANK_ evolution does act on .
+
+ act on(?, )
+ BLANK_ does natural selction act on .
+
+----------------------
+ studying(?, evolution)
+ BLANK_ are benefits of studying evolution .
+
+----------------------
+ studied carefully(?, )
+ BLANK_ had Charles Darwin studied carefully that led him to develop the theory of revolution by natural selection .
+
+----------------------
+ inspire(?, )
+ BLANK_ did gregore Mendel inspire .
+
+----------------------
+ indicate(?, )
+ BLANK_ are analogous organ indicate .
+
+----------------------
+ did sail(?, on)
+ BLANK_ Charles Darwin did sail on .
+
+----------------------
+ comes about(?, )
+ BLANK_ is a rapid evolution of species that comes about by the mutation of a few genes .
+
+----------------------
+ to arise nearly instantaneously(?, )
+ BLANK_ can cause a new species to arise nearly instantaneously .
+
+----------------------
+ relatonships(?, )
+ BLANK_ is evolution an organism relatonships .
+
+----------------------
+ wear(?, )
+ BLANK_ did the neanderthal wear .
+
+----------------------
+ did work out(?, )
+ BLANK_ Charles Darwin did work out .
+
+ works best(?, )
+ BLANK_ works best .
+
+----------------------
+ endure through(?, )
+ BLANK_ book suggest that organisms endure through .
+
+----------------------
+ to happen faster(?, )
+ BLANK_ causes evaporation to happen faster .
+
+----------------------
+ to speed up(?, )
+ BLANK_ causes evolution to speed up .
+
+----------------------
+ did read(?, )
+ BLANK_ Darwin did read that influenced his ideas when he sailed on the Beagle who was the author .
+
+----------------------
+ does radiometric(?, )
+ BLANK_ does radiometric dating prove regarding macro evolution .
+
+----------------------
+ is protochordata(?, )
+ BLANK_ is protochordata .
+
+----------------------
+ will most likely happen(?, )
+ BLANK_ will most likely happen if the exposure to insectisides causes mutations to a certain species over generations .
+
+----------------------
+ might districting(?, )
+ BLANK_ might districting of continents have played in evolution .
+
+----------------------
+ might happen(?, )
+ BLANK_ might happen if a well adapted population experienced sudden major changes in its environment .
+
+----------------------
+ would operate(?, )
+ BLANK_ would operate on a chane in body color that enabled animals to better hide from predators .
+
+----------------------
+ adapt(?, )
+ BLANK_ adapt and how .
+
+----------------------
+ dating(?, )
+ BLANK_ does radiometric dating prove regarding macro evolution .
+
+----------------------
+ organismsevolve through(?, )
+ Darwins book did suggest BLANK_ that organismsevolve through .
+
+----------------------
+ makes evolution evolution(?, )
+ BLANK_ makes evolution a therory .
+
+----------------------
+ did make discovery(?, )
+ BLANK_ Jean - Baptiste Lamarck did make his discovery .
+
+----------------------
+ are more closely related(?, )
+ BLANK_ are more closely related through evolution the blue whale and the ferret or the blue whale and the domestic cat .
+
+----------------------

@@ -1,0 +1,26 @@
+<html>
+{% load static %}
+<head>
+    <title>Search Knowledge Base</title>
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="{% static 'site_media/css/styles.css' %}"/>
+
+</head>
+<body>
+
+	<div class="container">
+	<h2> Relation triples on --- {{ concept }}</h2>
+		<div class="list-group">
+		{% for x in doc %}
+			<a href="/triple/?id={{ x.triple }}" class="list-group-item">
+    		<!--<li class="list-group-item" ><span class="badge"> {{x.count}} </span> {{ x.triple }}</li>-->
+    		<span class="badge"> {{x.count}} </span>
+    		<p class="list-group-item-text">{{ x.triple }}</p>    		
+
+    		</a>
+		{% endfor %}
+		</div>
+	</div>
+
+</body>
+</html>

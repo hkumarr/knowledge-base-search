@@ -1,0 +1,52 @@
+<html>
+{% load static %}
+<head>
+    <title>Search Knowledge Base</title>
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="{% static 'site_media/css/styles.css' %}"/>
+</head>
+<body>
+   
+  <div class="panel panel-primary">
+  	<div class="panel-heading">
+   		<h3 class="panel-title"> Matching Search Results for --- {{ triple }} </h3>
+  	</div>
+  <div class="panel-body">
+    	{% for x in poss_ans %}
+    		<div class="panel panel-info">
+  				<div class="panel-heading">
+   					<h5 class="panel-title"> {{ x.triple }} </h5>
+  				</div>
+  				<div class="panel-body">
+  			
+  					<h5> <a href="{{x.link}}"> {{x.link}} </a></h5>
+  					<h5> {{x.sent}} </h5>
+  				</div>
+  			</div>
+  		{% endfor %}
+  </div>
+  </div>
+
+  <div class="panel panel-primary">
+  	<div class="panel-heading">
+  	 	 <h3 class="panel-title">Related Search Results for --- {{ triple }} </h3>
+  	</div>
+  <div class="panel-body">
+  	{% for x in other_ans %}
+    		<div class="panel panel-info">
+  				<div class="panel-heading">
+   					<h5 class="panel-title"> {{ x.triple }} </h5>
+  				</div>
+  				<div class="panel-body">
+  			
+  					<h5> <a href="{{x.link}}"> {{x.link}} </a>  </h5>
+  					<h5> {{x.sent}} </h5>
+  				</div>
+  			</div>
+  		{% endfor %}
+ 		
+   </div>
+   </div>
+ 
+</body>
+</html>

@@ -1,0 +1,1995 @@
+ does not have(?, a volcano)
+ BLANK_ rang does not have a volcano .
+
+----------------------
+ can do good(Volcanoes,?)Volcanoes can do BLANK_ good .
+
+ are the good beneficial effects of(?, volcano)
+ BLANK_ are the good beneficial effects of volcano .
+
+ are the effects of(?, volcanoes)
+ BLANK_ are the effects of volcanoes on people .
+
+ are some negative effects of(?, volcanoes)
+ BLANK_ are some negative effects of volcanoes .
+
+ is a good topic sentence for(?, volcanoes)
+ BLANK_ is a good topic sentence for volcanoes .
+
+ is a good hypothesis for(?, a volcano)
+ BLANK_ is a good hypothesis for a volcano .
+
+ are the destructive effects of(?, volcanoes)
+ BLANK_ are the destructive effects of volcanoes .
+
+ are the most causes and effects of(?, volcano)
+ BLANK_ are the most causes and effects of volcano .
+
+ is the hypothesis for(?, a volcano)
+ BLANK_ is the hypothesis for a volcano .
+
+ are the negative effects of(?, the volcano)
+ BLANK_ are the negative effects of the volcano Paricutin .
+
+ were the primary and secondary effects of(?, a volcano)
+ BLANK_ were the primary and secondary effects of a volcano in an ledc .
+
+ are two helpful effects of(?, volcanoes)
+ BLANK_ are two helpful effects of volcanoes .
+
+ are the useful effects of(?, a volcano)
+ BLANK_ are the useful effects of a volcano .
+
+ are causes of(?, volcano)
+ BLANK_ are causes of volcano .
+
+ are the good points of(?, having volcanoes)
+ BLANK_ are the good points of having volcanoes .
+
+ are the primary and secondary effects of(?, a volcano)
+ BLANK_ are the primary and secondary effects of a volcano .
+
+ are some other effects of(?, volcanoes)
+ BLANK_ are some other effects of volcanoes on climate and soil .
+
+ is the good of(?, volcanoes)
+ BLANK_ is the good of volcanoes .
+
+ are the causes and effects of(?, volcano)
+ BLANK_ are the causes and effects of volcano .
+
+ is positive effects of(?, volcanoes)
+ BLANK_ is positive effects of volcanoes .
+
+ is the hypothesis of(?, volcanoes)
+ BLANK_ is the hypothesis of volcanoes .
+
+ is a cause for(?, a volcano)
+ BLANK_ is a cause for a volcano .
+
+ are the causes for(?, volcanoes)
+ BLANK_ are the causes for volcanoes .
+
+ is the benificial effects of(?, volcanoes)
+ BLANK_ is the benificial effects of volcanoes .
+
+ are 3 beneficial effects of(?, volcano)
+ BLANK_ are 3 beneficial effects of volcano .
+
+ is a good universal statement about(?, volcanoes)
+ BLANK_ is a good universal statement about volcanoes .
+
+ is a good topic about(?, volcanoes)
+ BLANK_ is a good topic about volcanoes .
+
+ is he point of(?, volcanoes)
+ BLANK_ is he point of volcanoes .
+
+ is another good title for(?, volcanoes)
+ BLANK_ is another good title for volcanoes .
+
+ is a possible effects of(?, a volcano)
+ BLANK_ is a possible effects of a volcano .
+
+ are harmful effects of(?, volcanoes)
+ BLANK_ are harmful effects of volcanoes .
+
+ e(?, for a volcano)
+ BLANK_ is the controlled variables e for a volcano .
+
+ is emitted(?, by a volcano)
+ BLANK_ is emitted by a volcano .
+
+ exactly is(?, a volcano)
+ BLANK_ exactly is a volcano .
+
+ for exploring(?, volcanoes)
+ BLANK_ is the technology for exploring volcanoes .
+
+ extract(?, volcanoes)
+ BLANK_ is extract volcanoes .
+
+ are emitted(?, from a volcano)
+ BLANK_ are emitted from a volcano .
+
+ are effected(?, from the volcanoes)
+ BLANK_ are effected from the volcanoes .
+
+ erupts other(?, )
+ BLANK_ else erupts other than a volcano .
+
+ erupt regularly(?, )
+ You do call BLANK_ volcanoes that erupt regularly .
+
+ would use to explore(?, volcanoes)
+ BLANK_ would you use to explore volcanoes .
+
+ Do need to explore(?, volcanoes)
+ BLANK_ Do Volcanologist need to explore volcanoes .
+
+ will erupts quietly(?, )
+ BLANK_ determines whether the volcano will erupts quietly or explosively .
+
+ to erupt quietly(?, )
+ BLANK_ causes some volcanos to erupt quietly .
+
+ to flow easily(?, )
+ BLANK_ causes lava to flow easily .
+
+ erupt gently(?, )
+ BLANK_ erupt gently .
+
+ erupted in(?, )
+ BLANK_ erupted in .
+
+ flows easily(?, )
+ BLANK_ flows easily .
+
+ is continually erupting(?, )
+ BLANK_ is continually erupting and is the largest volcano in Hawaii .
+
+ erupted iceland(?, )
+ BLANK_ erupted iceland .
+
+ erupts explosively(?, )
+ BLANK_ erupts explosively .
+
+ flows easiest(?, )
+ BLANK_ flows easiest .
+
+ faster explain(?, )
+ BLANK_ faster explain .
+
+ constantly erupt(?, )
+ BLANK_ constantly erupt .
+
+ does not erupts(?, )
+ BLANK_ does not erupts .
+
+ errupt violently(?, )
+ BLANK_ errupt violently .
+
+ erupts most violently(?, )
+ BLANK_ erupts most violently .
+
+ causes dikes and sills to form(?, )
+ BLANK_ causes dikes and sills to form .
+
+ has made ever(?, )
+ BLANK_ has made the worst disaster ever .
+
+----------------------
+ study(?, volcanoes)
+ You do call BLANK_ people which study volcanoes .
+
+ studys(?, volcanoes)
+ BLANK_ studys volcanoes .
+
+ do to study(?, volcanoes)
+ BLANK_ scientists do use to study volcanoes .
+
+ do scientist use to study(?, volcanoes)
+ BLANK_ do scientist use to study volcanoes .
+
+----------------------
+ do expel(Volcanoes,?)Volcanoes do expel BLANK_ .
+
+----------------------
+ do destroy(Volcanoes,?)Volcanoes do destroy BLANK_ .
+
+ has been destroyed(?, by a volcano)
+ BLANK_ has been destroyed by a volcano .
+
+ be destroyed(?, by volcanoes)
+ BLANK_ be destroyed by volcanoes .
+
+ destroyed pompey(?, )
+ BLANK_ destroyed pompey .
+
+ makes some volcanoes destroyers and some volcanoes builders(?, )
+ BLANK_ makes some volcanoes destroyers and some volcanoes builders .
+
+----------------------
+ do release(Volcanoes,?)Volcanoes do release BLANK_ .
+
+----------------------
+ can move(Volcanoes,?)Volcanoes can move BLANK_ .
+
+----------------------
+ Do Do(Volcanoes,?)Volcanoes Do Do BLANK_ .
+
+----------------------
+ helens over(?, volcano)
+ BLANK_ hot spot is Mount st helens volcano over .
+
+ helens on(?, )
+ BLANK_ is mt st helens on .
+
+----------------------
+ do eject(Volcanoes,?)Volcanoes do eject BLANK_ .
+
+----------------------
+ can be called(?, a volcano)
+ BLANK_ else can be called a volcano .
+
+ can also be called(?, )
+ BLANK_ tectonic plates can also be called instead of tectonic plates .
+
+----------------------
+ have learned(?, from volcanoes)
+ BLANK_ scientist have learned from volcanoes .
+
+----------------------
+ is the singular possessive form of(?, volcano)
+ BLANK_ is the singular possessive form of volcano .... volcanoes or volcano 's .
+
+ do not form(?, volcanoes)
+ BLANK_ do not form volcanoes .
+
+ do form on(?, )
+ BLANK_ most volcanoes do form on .
+
+ do to form(?, a volcano)
+ BLANK_ do to form a volcano .
+
+ do form in(?, )
+ BLANK_ volcanoes do form in .
+
+ did form on(?, )
+ BLANK_ Mount Rainier did form on .
+
+ can form very quickly(?, )
+ BLANK_ can form very quickly .
+
+----------------------
+ is the name of(?, the volcano)
+ BLANK_ is the name of the volcano in Hawaii .
+
+ are the names of(?, Volcanoes)
+ BLANK_ are the names of Volcanoes near Manila .
+
+ was the name of(?, the volcano)
+ BLANK_ was the name of the volcano that destroyed Pompeii .
+
+ is the name and type of(?, volcano)
+ BLANK_ is the name and type of volcano is the most active in all of Mexico .
+
+ are some type of(?, volcanoes)
+ BLANK_ are some type of volcanoes .
+
+ are the 4 general types of(?, volcanoes)
+ BLANK_ are the 4 general types of volcanoes .
+
+ are some names for(?, volcanoes)
+ BLANK_ are some names for volcanoes .
+
+ is the biggest type of(?, volcanoe)
+ BLANK_ is the biggest type of volcanoe .
+
+ is name of(?, volcano)
+ BLANK_ is name of volcano the most recent eruption was in 1984 .
+
+ are 20 different names for(?, volcanoes)
+ BLANK_ are 20 different names for volcanoes .
+
+ are three common types of(?, volcanoes)
+ BLANK_ are three common types of volcanoes .
+
+ are the most dominant types of(?, volcano)
+ BLANK_ are the most dominant types of volcano in Jamaica .
+
+ are all 26 types of(?, volcanoes)
+ BLANK_ are all 26 types of volcanoes mentioned in Tom Simkin 's and Lee Seibert 's book ' Volcanoes of the World ' .
+
+ are the 3 main types of(?, volcanoes)
+ BLANK_ are the 3 main types of volcanoes .
+
+ are the diferent types of(?, volcanoes)
+ BLANK_ are the diferent types of volcanoes .
+
+ are th types of(?, volcanoes)
+ BLANK_ are th types of volcanoes .
+
+ is one name of(?, a volcano)
+ BLANK_ is one name of a volcano in Hawaii .
+
+ are the diffrent types of(?, volcanoes)
+ BLANK_ are the diffrent types of volcanoes .
+
+ are the 3 different type of(?, volcanoes)
+ BLANK_ are the 3 different type of volcanoes .
+
+ are the weather types before(?, a volcano)
+ BLANK_ are the weather types before a volcano .
+
+ is type of(?, volcano)
+ BLANK_ is type of volcano is Mount Vesuvius .
+
+ are the two basic types of(?, volcanoes)
+ BLANK_ are the two basic types of volcanoes .
+
+ is the other name of(?, volcano)
+ BLANK_ is the other name of volcano .
+
+ is the steepest type of(?, volcano)
+ BLANK_ is the steepest type of volcano .
+
+ are the names on(?, the volcanoes)
+ BLANK_ are the names on the volcanoes on Mercury .
+
+ are six types of(?, volcanoes)
+ BLANK_ are six types of volcanoes .
+
+ are the three main type of(?, volcano)
+ BLANK_ are the three main type of volcano .
+
+ are the six type of(?, volcanoes)
+ BLANK_ are the six type of volcanoes .
+
+ are two other types of(?, volcanoes)
+ BLANK_ are two other types of volcanoes besides stratovolcanoes .
+
+ is the least dangerous type of(?, volcano)
+ BLANK_ is the least dangerous type of volcano .
+
+ are the three principal types of(?, volcanoes)
+ BLANK_ are the three principal types of volcanoes .
+
+ are 4 types of(?, volcanoes)
+ BLANK_ are 4 types of volcanoes .
+
+ are 5 names of(?, volcanoes)
+ BLANK_ are 5 names of volcanoes .
+
+ is the most destructive type of(?, volcano)
+ BLANK_ is the most destructive type of volcano .
+
+ are the 4 different types of(?, volcanoes)
+ BLANK_ are the 4 different types of volcanoes .
+
+ are the 3 major types of(?, volcanoes)
+ BLANK_ are the 3 major types of volcanoes .
+
+----------------------
+ are facts about(?, volcanoes)
+ BLANK_ are facts about volcanoes .
+
+ are some facts about(?, the volcano)
+ BLANK_ are some facts about the volcano Izalco .
+
+ are some facts on(?, volcanoes)
+ BLANK_ are some facts on volcanoes .
+
+ are some fact about(?, volcanoes)
+ BLANK_ are some fact about volcanoes .
+
+ are the 10 right facts about(?, volcano)
+ BLANK_ are the 10 right facts about volcano .
+
+ is a cool fact about(?, volcanoes)
+ BLANK_ is a cool fact about volcanoes .
+
+ cool down(?, )
+ BLANK_ would see molten rock cool down at the same rate .
+
+----------------------
+ is one thing that(?, all volcanoes)
+ BLANK_ is one thing that all volcanoes have in common .
+
+----------------------
+ is the secondary cone in(?, a volcano)
+ BLANK_ is the secondary cone in a volcano .
+
+ is the secondary cone of(?, a volcano)
+ BLANK_ is the secondary cone of a volcano .
+
+ is the cone on(?, a volcano)
+ BLANK_ is the cone on a volcano .
+
+ is a crater cone on(?, a volcano)
+ BLANK_ is a crater cone on a volcano .
+
+ is the cone of(?, a volcano)
+ BLANK_ is the cone of a volcano .
+
+ is a crater on(?, a volcano)
+ BLANK_ is a crater on a volcano .
+
+ crater(?, )
+ BLANK_ makes the volcanoes crater .
+
+----------------------
+ are the three types of(?, volcanoes)
+ BLANK_ are the three types of volcanoes and what are the difference .
+
+----------------------
+ is the role of(?, volcanoes)
+ BLANK_ is the role of volcanoes in the rock cycle .
+
+ is the ecological role of(?, a volcano)
+ BLANK_ is the ecological role of a volcano .
+
+----------------------
+ are the three stages of(?, a volcano)
+ BLANK_ are the three stages of a volcano .
+
+----------------------
+ are physical changes in(?, a volcano)
+ BLANK_ are physical changes in a volcano .
+
+----------------------
+ is a vent in(?, a volcano)
+ BLANK_ is a vent in a volcano .
+
+ is a side vent in(?, a volcano)
+ BLANK_ is a side vent in a volcano .
+
+ are the vents in(?, a volcano)
+ BLANK_ are the vents in a volcano .
+
+ is the secondary vent of(?, a volcano)
+ BLANK_ is the secondary vent of a volcano .
+
+ is the out side of(?, a volcano)
+ BLANK_ is the out side of a volcano .
+
+ is the vent in(?, a volcano)
+ BLANK_ is the vent in a volcano .
+
+ is a main vent in(?, a volcano)
+ BLANK_ is a main vent in a volcano .
+
+ is a vent on(?, a volcano)
+ BLANK_ is a vent on a volcano .
+
+ is the central vent in(?, a volcano)
+ BLANK_ is the central vent in a volcano .
+
+ is the main vent of(?, a volcano)
+ BLANK_ is the main vent of a volcano .
+
+----------------------
+ is the Magma Chamber of(?, a volcano)
+ BLANK_ is the Magma Chamber of a volcano .
+
+----------------------
+ is the Average width of(?, a volcano)
+ BLANK_ is the Average width of a volcano .
+
+----------------------
+ is the most common type of(?, volcano)
+ BLANK_ is the most common type of volcano .
+
+----------------------
+ is another word for(?, volcano)
+ BLANK_ is another word for volcano .
+
+ is a word for(?, a volcano)
+ BLANK_ is a word for a volcano underwater .
+
+ is the scientific word for(?, volcano)
+ BLANK_ is the scientific word for volcano .
+
+ are 4 related words for(?, volcanoes)
+ BLANK_ are 4 related words for volcanoes .
+
+ are very descriptive words about(?, volcanoes)
+ BLANK_ are very descriptive words about volcanoes .
+
+----------------------
+ is the opening of(?, a volcano)
+ BLANK_ is the opening of a volcano from which lava erupts .
+
+ is the opening in(?, the volcano)
+ BLANK_ is the opening in the volcano from which lava erupts .
+
+ is a roughly circular opening in(?, a volcano)
+ BLANK_ is a roughly circular opening in a volcano .
+
+----------------------
+ is the pipe in(?, a volcano)
+ BLANK_ is the pipe in a volcano .
+
+ is a branch pipe for(?, volcanoes)
+ BLANK_ is a branch pipe for volcanoes .
+
+ is the conduit pipe of(?, a volcano)
+ BLANK_ is the conduit pipe of a volcano .
+
+ is conduit(?, in a volcano)
+ BLANK_ is conduit in a volcano .
+
+----------------------
+ is the dike in(?, a volcano)
+ BLANK_ is the dike in a volcano .
+
+ is a dike in(?, volcano)
+ BLANK_ is a dike in volcano .
+
+ is the dike of(?, a volcano)
+ BLANK_ is the dike of a volcano for kids .
+
+----------------------
+ are the disadvatages of(?, volcanoes)
+ BLANK_ are the disadvatages of volcanoes .
+
+----------------------
+ is the most common structure of(?, volcanoes)
+ BLANK_ is the most common structure of volcanoes .
+
+ is the structure of(?, volcanoes)
+ BLANK_ is the structure of volcanoes .
+
+ is the basic structure of(?, a volcano)
+ BLANK_ is the basic structure of a volcano .
+
+----------------------
+ is the most likely cause of(?, the volcano)
+ BLANK_ is the most likely cause of the volcano .
+
+ is the cause of(?, a volcano)
+ BLANK_ is the cause of a volcano .
+
+ is the cause and effect of(?, a volcano)
+ BLANK_ is the cause and effect of a volcano .
+
+----------------------
+ are the characteristics about(?, a volcano)
+ BLANK_ are the characteristics about a volcano .
+
+ are the physical characteristics of(?, a volcano)
+ BLANK_ are the physical characteristics of a volcano .
+
+----------------------
+ are Batholiths in(?, volcanoes)
+ BLANK_ are Batholiths in volcanoes .
+
+----------------------
+ are the harmful and beneficial effect of(?, a volcano)
+ BLANK_ are the harmful and beneficial effect of a volcano .
+
+----------------------
+ are the parts and structure of(?, volcanoes)
+ BLANK_ are the parts and structure of volcanoes .
+
+ is the part of(?, the volcano)
+ BLANK_ is the part of the volcano called where the magma flows out of .
+
+ are 5 major parts of(?, a volcano)
+ BLANK_ are 5 major parts of a volcano .
+
+ are the five parts of(?, a volcano)
+ BLANK_ are the five parts of a volcano .
+
+ is the deadliest part of(?, a volcano)
+ BLANK_ is the deadliest part of a volcano .
+
+ are the four parts of(?, a volcano)
+ BLANK_ are the four parts of a volcano .
+
+ are three basic parts of(?, volcano)
+ BLANK_ are three basic parts of volcano .
+
+ are the three parts of(?, a volcano)
+ BLANK_ are the three parts of a volcano .
+
+ are the four main parts of(?, a volcano)
+ BLANK_ are the four main parts of a volcano .
+
+ are five parts of(?, a volcano)
+ BLANK_ are five parts of a volcano .
+
+ are the different parts of(?, a volcano)
+ BLANK_ are the different parts of a volcano with their description .
+
+ are the 4 parts of(?, volcano)
+ BLANK_ are the 4 parts of volcano .
+
+----------------------
+ are the benefits of(?, volcanoes)
+ BLANK_ are the benefits of volcanoes .
+
+ are the 6 benefits of(?, a volcano)
+ BLANK_ are the 6 benefits of a volcano .
+
+ is a benefit from(?, volcanoes)
+ BLANK_ is a benefit from volcanoes .
+
+----------------------
+ is the best thing about(?, volcanoes)
+ BLANK_ is the best thing about volcanoes .
+
+----------------------
+ are some pros and cons of(?, volcanoes)
+ BLANK_ are some pros and cons of volcanoes .
+
+ are the pros and cons of(?, volcanoes)
+ BLANK_ are the pros and cons of volcanoes .
+
+----------------------
+ is the most suspected place for(?, a volcano)
+ BLANK_ is the most suspected place for a volcano erupt .
+
+ is the place in(?, a volcano)
+ BLANK_ is the place in a volcano where lava comes to the surface .
+
+----------------------
+ are the layers of(?, a volcano)
+ BLANK_ are the layers of a volcano .
+
+ are the different layers of(?, a volcano)
+ BLANK_ are the different layers of a volcano made from .
+
+ are lava layers in(?, a volcano)
+ BLANK_ are lava layers in a volcano .
+
+----------------------
+ are different types of(?, volcanoes)
+ BLANK_ are different types of volcanoes .
+
+ are three different types of(?, Volcanoes)
+ BLANK_ are three different types of Volcanoes .
+
+----------------------
+ are the warning signs of(?, a volcano)
+ BLANK_ are the warning signs of a volcano .
+
+ are some signs that(?, a volcano)
+ BLANK_ are some signs that a volcano is active .
+
+----------------------
+ is the core of(?, the volcano)
+ BLANK_ is the core of the volcano .
+
+ is core of(?, the volcano)
+ BLANK_ is core of the volcano .
+
+----------------------
+ is the shaft in(?, a volcano)
+ BLANK_ is the shaft in a volcano that lets magma out .
+
+----------------------
+ is conduit in(?, a volcano)
+ BLANK_ is conduit in a volcano .
+
+----------------------
+ are the classification of(?, volcano)
+ BLANK_ are the classification of volcano .
+
+ are the classifications of(?, volcanoes)
+ BLANK_ are the classifications of volcanoes .
+
+ are the 3 classification of(?, volcanoes)
+ BLANK_ are the 3 classification of volcanoes .
+
+----------------------
+ are the disadvantage of(?, volcanoes)
+ BLANK_ are the disadvantage of volcanoes .
+
+ are some disadvantages of(?, volcanoes)
+ BLANK_ are some disadvantages of volcanoes .
+
+----------------------
+ is the hot liquid rock inside(?, a volcano)
+ BLANK_ is the hot liquid rock inside a volcano .
+
+ is a liquid rock from(?, a volcano)
+ BLANK_ is a liquid rock from a volcano .
+
+----------------------
+ is the importance of(?, volcanoes)
+ BLANK_ is the importance of volcanoes to life on earth .
+
+ are the importance of(?, volcanoes)
+ BLANK_ are the importance of volcanoes .
+
+----------------------
+ is the most dangerous part of(?, a volcano)
+ BLANK_ is the most dangerous part of a volcano .
+
+----------------------
+ is the temperature inside(?, a volcano)
+ BLANK_ is the temperature inside a volcano .
+
+ is a temperature of(?, a volcano)
+ BLANK_ is a temperature of a volcano .
+
+----------------------
+ was the most destructive eruption of(?, volcanoes)
+ BLANK_ was the most destructive eruption of volcanoes .
+
+----------------------
+ are 4 advantages of(?, volcanoes)
+ BLANK_ are 4 advantages of volcanoes .
+
+ are some advantages of(?, volcanoes)
+ BLANK_ are some advantages of volcanoes .
+
+ are tthe advantages of(?, volcanoes)
+ BLANK_ are tthe advantages of volcanoes .
+
+----------------------
+ is the sill in(?, a volcano)
+ BLANK_ is the sill in a volcano .
+
+ is a sill of(?, a volcano)
+ BLANK_ is a sill of a volcano .
+
+----------------------
+ is the most dangerous kind of(?, volcano)
+ BLANK_ is the most dangerous kind of volcano .
+
+ are the kind of(?, volcanoes)
+ BLANK_ are the kind of volcanoes .
+
+ are the 2 kinds of(?, volcano)
+ BLANK_ are the 2 kinds of volcano .
+
+ are 3 kind of(?, volcanoes)
+ BLANK_ are 3 kind of volcanoes .
+
+ are three kinds of(?, volcanoes)
+ BLANK_ are three kinds of volcanoes .
+
+ are the three kinds of(?, volcanoes)
+ BLANK_ are the three kinds of volcanoes .
+
+----------------------
+ is the mantle in(?, a volcano)
+ BLANK_ is the mantle in a volcano .
+
+ is the mantle of(?, a volcano)
+ BLANK_ is the mantle of a volcano .
+
+----------------------
+ are the shapes of(?, volcano)
+ BLANK_ are the shapes of volcano .
+
+ are the three basic cone shapes of(?, volcano)
+ BLANK_ are the three basic cone shapes of volcano .
+
+ are the different shapes of(?, volcanoes)
+ BLANK_ are the different shapes of volcanoes .
+
+ are the 4 different shapes of(?, volcanoes)
+ BLANK_ are the 4 different shapes of volcanoes .
+
+ are three basic shapes of(?, volcanoes)
+ BLANK_ are three basic shapes of volcanoes .
+
+ to shape(?, )
+ BLANK_ causes volcanoes to shape or form differently .
+
+----------------------
+ are hot spots for(?, volcanoes)
+ BLANK_ are hot spots for volcanoes .
+
+ is the hot spot in(?, a volcano)
+ BLANK_ is the hot spot in a volcano .
+
+----------------------
+ were the disasters that(?, the volcano)
+ BLANK_ were the disasters that the volcano caused in Pompeii .
+
+----------------------
+ is the concept of(?, volcanoes)
+ BLANK_ is the concept of volcanoes .
+
+----------------------
+ are the four types of(?, volcanoes)
+ BLANK_ are the four types of volcanoes .
+
+----------------------
+ is the number of(?, volcanoes)
+ BLANK_ is the number of volcanoes in the Pacific Ring of Fire .
+
+ is the exact number of(?, volcanoes)
+ BLANK_ is the exact number of volcanoes in japan .
+
+----------------------
+ are possible prevention or protection measure in(?, a volcano)
+ BLANK_ are possible prevention or protection measure in a volcano .
+
+----------------------
+ is the crater of(?, a volcano)
+ BLANK_ is the crater of a volcano .
+
+ is the crater in(?, a volcano)
+ BLANK_ is the crater in a volcano .
+
+ is a crater in(?, a volcano)
+ BLANK_ is a crater in a volcano .
+
+----------------------
+ are the Consequences of(?, Volcanoes)
+ BLANK_ are the Consequences of Volcanoes .
+
+----------------------
+ is a throat of(?, a volcano)
+ BLANK_ is a throat of a volcano .
+
+----------------------
+ is the dome on(?, a volcano)
+ BLANK_ is the dome on a volcano .
+
+----------------------
+ is the temperate of(?, a volcano)
+ BLANK_ is the temperate of a volcano .
+
+----------------------
+ are the 3 types of(?, volcanoes)
+ BLANK_ are the 3 types of volcanoes .
+
+ are 3 types of(?, volcanoes)
+ BLANK_ are 3 types of volcanoes .
+
+----------------------
+ are the three main types of(?, volcanoes)
+ BLANK_ are the three main types of volcanoes .
+
+----------------------
+ are the five main parts of(?, a volcano)
+ BLANK_ are the five main parts of a volcano .
+
+----------------------
+ is the most deadly type of(?, volcano)
+ BLANK_ is the most deadly type of volcano .
+
+----------------------
+ are some positive materials from(?, volcanoes)
+ BLANK_ are some positive materials from volcanoes .
+
+ are some materials in(?, a volcano)
+ BLANK_ are some materials in a volcano .
+
+ are the materials for(?, a volcano)
+ BLANK_ are the materials for a volcano .
+
+ are the materials in(?, volcano)
+ BLANK_ are the materials in volcano .
+
+----------------------
+ is magma from(?, a volcano)
+ BLANK_ is magma from a volcano made of .
+
+ is a magma chamber in(?, a volcanoes)
+ BLANK_ is a magma chamber in a volcanoes .
+
+ is chamber in(?, a volcano)
+ BLANK_ is chamber in a volcano .
+
+ is magma in(?, the volcano)
+ BLANK_ is magma in the volcano .
+
+ is the magma in(?, a volcano)
+ BLANK_ is the magma in a volcano .
+
+ is magma(?, from a volcano)
+ BLANK_ is magma from a volcano made of .
+
+ makes magma magma(?, )
+ BLANK_ makes magma .
+
+----------------------
+ are the Kinds of(?, volcanoes)
+ BLANK_ are the Kinds of volcanoes according to shape .
+
+----------------------
+ are the problems of(?, volcanoes)
+ BLANK_ are the problems of volcanoes .
+
+ is the problem of(?, volcano)
+ BLANK_ is the problem of volcano .
+
+----------------------
+ is the most dangerous danger of(?, the volcano)
+ BLANK_ is the most dangerous danger of the volcano .
+
+----------------------
+ is a crust in(?, a volcano)
+ BLANK_ is a crust in a volcano .
+
+ is the crust of(?, a volcano)
+ BLANK_ is the crust of a volcano .
+
+----------------------
+ is the simplest type of(?, volcano)
+ BLANK_ is the simplest type of volcano .
+
+----------------------
+ are the positives and negatives of(?, a volcano)
+ BLANK_ are the positives and negatives of a volcano .
+
+ are the positives of(?, a volcano)
+ BLANK_ are the positives of a volcano .
+
+ are the negatives of(?, a volcano)
+ BLANK_ are the negatives of a volcano .
+
+----------------------
+ are the three major parts of(?, the volcano)
+ BLANK_ are the three major parts of the volcano .
+
+----------------------
+ are the 5 types of(?, volcanoes)
+ BLANK_ are the 5 types of volcanoes .
+
+----------------------
+ is the summit of(?, a volcano)
+ BLANK_ is the summit of a volcano .
+
+ is a summit of(?, a volcano)
+ BLANK_ is a summit of a volcano .
+
+ is a relatively small summit depression on(?, a volcano)
+ BLANK_ is a relatively small summit depression on a volcano marking a former eruptive vent .
+
+----------------------
+ is one negative benefit from(?, a volcano)
+ BLANK_ is one negative benefit from a volcano .
+
+----------------------
+ is doormat in(?, volcanoes)
+ BLANK_ is doormat in volcanoes .
+
+ is doormat(?, in volcanoes)
+ BLANK_ is doormat in volcanoes .
+
+----------------------
+ are some hazards of(?, volcanoes)
+ BLANK_ are some hazards of volcanoes .
+
+ are the most common hazards of(?, volcanoes)
+ BLANK_ are the most common hazards of volcanoes .
+
+ are the hazards of(?, volcanoes)
+ BLANK_ are the hazards of volcanoes .
+
+----------------------
+ are five minerals that(?, a volcano)
+ BLANK_ are five minerals that a volcano produces .
+
+----------------------
+ is the opposite of(?, volcanoes)
+ BLANK_ is the opposite of volcanoes .
+
+----------------------
+ is the stuff inside(?, volcanoes)
+ BLANK_ is the stuff inside volcanoes .
+
+----------------------
+ is the warning system for(?, volcanoes)
+ BLANK_ is the warning system for volcanoes .
+
+ are the system of(?, volcano)
+ BLANK_ are the system of volcano 's .
+
+ is the system for(?, volcanoes)
+ BLANK_ is the system for volcanoes to form lava .
+
+ is the system of(?, a volcano)
+ BLANK_ is the system of a volcano .
+
+----------------------
+ are the features of(?, a volcano)
+ BLANK_ are the features of a volcano .
+
+----------------------
+ are the different kinds of(?, volcanoes)
+ BLANK_ are the different kinds of volcanoes .
+
+ are all kinds of(?, volcanoes)
+ BLANK_ are all kinds of volcanoes .
+
+ is the two kinds of(?, volcano)
+ BLANK_ is the two kinds of volcano .
+
+----------------------
+ are the impact of(?, volcanoes)
+ BLANK_ are the impact of volcanoes to the humans .
+
+ are the impacts of(?, volcanoes)
+ BLANK_ are the impacts of volcanoes .
+
+ are the negative impacts of(?, volcanoes)
+ BLANK_ are the negative impacts of volcanoes .
+
+ is the negative impact of(?, the volcanoes)
+ BLANK_ is the negative impact of the volcanoes .
+
+----------------------
+ is ash from(?, volcanoes)
+ BLANK_ is ash from volcanoes made of .
+
+ is an ash cloud from(?, a volcano)
+ BLANK_ is an ash cloud from a volcano .
+
+ are ash deposits from(?, a volcano)
+ BLANK_ are ash deposits from a volcano .
+
+ makes ash ash(?, )
+ BLANK_ makes ash .
+
+----------------------
+ is a chain of(?, volcanoes)
+ BLANK_ is a chain of volcanoes around the edges of pacific ocean .
+
+ is the chain of(?, volcanoes)
+ BLANK_ is the chain of volcanoes called that forms at a convergent boundary .
+
+----------------------
+ is the predictions of(?, the volcanoes)
+ BLANK_ is the predictions of the volcanoes .
+
+----------------------
+ are the most dangerous types of(?, volcanoes)
+ BLANK_ are the most dangerous types of volcanoes .
+
+----------------------
+ are the destructions from(?, a volcano)
+ BLANK_ are the destructions from a volcano .
+
+----------------------
+ is A Dike of(?, a volcano)
+ BLANK_ is A Dike of a volcano .
+
+----------------------
+ do have BLANK_(Volcanoes,?)Volcanoes do have BLANK_ on humans .
+
+----------------------
+ is the immediate effect of(?, volcanoes)
+ BLANK_ is the immediate effect of volcanoes on people .
+
+----------------------
+ was the god of(?, volcanoes)
+ BLANK_ was the god of volcanoes during greek mythology .
+
+----------------------
+ is the epicentre of(?, a volcano)
+ BLANK_ is the epicentre of a volcano .
+
+----------------------
+ is the dyke in(?, a volcano)
+ BLANK_ is the dyke in a volcano .
+
+----------------------
+ are the plus sides of(?, a volcano)
+ BLANK_ are the plus sides of a volcano .
+
+----------------------
+ are lava flows on(?, a volcano)
+ BLANK_ are lava flows on a volcano .
+
+ is a lava flow in(?, a volcano)
+ BLANK_ is a lava flow in a volcano .
+
+----------------------
+ are the negative aspects of(?, volcanoes)
+ BLANK_ are the negative aspects of volcanoes .
+
+----------------------
+ is the plug of(?, a volcano)
+ BLANK_ is the plug of a volcano .
+
+----------------------
+ is an extinct stage of(?, a volcano)
+ BLANK_ is an extinct stage of a volcano .
+
+ is the extinct stage of(?, a volcano)
+ BLANK_ is the extinct stage of a volcano .
+
+----------------------
+ blows(?, out of a volcano)
+ BLANK_ blows out of a volcano that has sharp corners .
+
+ do blow out(?, )
+ BLANK_ volcanoes do blow out .
+
+----------------------
+ are the three most important parts of(?, a volcano)
+ BLANK_ are the three most important parts of a volcano .
+
+ is the important about(?, volcano)
+ BLANK_ is the important about volcano .
+
+----------------------
+ is the of(?, the volcano)
+ BLANK_ is the of the volcano in Java Indonesia .
+
+----------------------
+ is produces by(?, volcanoes)
+ BLANK_ is produces by volcanoes .
+
+ does not produce(?, volcanoes)
+ BLANK_ does not produce volcanoes .
+
+ are produce(?, )
+ BLANK_ shield volcanoes are produce by .
+
+----------------------
+ are four main parts of(?, a volcanoe)
+ BLANK_ are four main parts of a volcanoe .
+
+----------------------
+ are formation of(?, volcano)
+ BLANK_ are formation of volcano .
+
+----------------------
+ are some safety tips about(?, volcanoes)
+ BLANK_ are some safety tips about volcanoes .
+
+----------------------
+ is the tectonic plate for(?, a volcano)
+ BLANK_ is the tectonic plate for a volcano around the pacific ocean .
+
+----------------------
+ is an a example of(?, a volcano)
+ BLANK_ is an a example of a volcano .
+
+ is a example of(?, a volcano)
+ BLANK_ is a example of a volcano .
+
+----------------------
+ are the different activities of(?, volcanoes)
+ BLANK_ are the different activities of volcanoes .
+
+----------------------
+ are location of(?, a volcanoes)
+ BLANK_ are location of a volcanoes .
+
+ is the relative location of(?, the volcano)
+ BLANK_ is the relative location of the volcano in Pompeii .
+
+----------------------
+ are two less well known dangers of(?, volcanoes)
+ BLANK_ are two less well known dangers of volcanoes .
+
+ are the dangers from(?, a volcano)
+ BLANK_ are the dangers from a volcano .
+
+ is not known(?, )
+ BLANK_ is not known to have volcanoes .
+
+----------------------
+ is silica in(?, volcanoes)
+ BLANK_ is silica in volcanoes .
+
+----------------------
+ is the most recent eruption of(?, a volcano)
+ BLANK_ is the most recent eruption of a volcano .
+
+----------------------
+ are some positive products from(?, volcanoes)
+ BLANK_ are some positive products from volcanoes .
+
+ are some positive products of(?, volcanoes)
+ BLANK_ are some positive products of volcanoes .
+
+----------------------
+ are the different components in(?, a volcano)
+ BLANK_ are the different components in a volcano .
+
+ are the components of(?, a volcano)
+ BLANK_ are the components of a volcano .
+
+----------------------
+ are the geological conditions for(?, a volcano)
+ BLANK_ are the geological conditions for a volcano .
+
+----------------------
+ is the life cycle of(?, a volcano)
+ BLANK_ is the life cycle of a volcano .
+
+ is the cycle of(?, a volcano)
+ BLANK_ is the cycle of a volcano .
+
+----------------------
+ are tyes of(?, volcanoes)
+ BLANK_ are tyes of volcanoes .
+
+----------------------
+ are the constructive and destructive forces of(?, volcanoes)
+ BLANK_ are the constructive and destructive forces of volcanoes .
+
+----------------------
+ is the harmful effect of(?, volcano)
+ BLANK_ is the harmful effect of volcano .
+
+----------------------
+ is the Mantle on(?, a volcano)
+ BLANK_ is the Mantle on a volcano .
+
+----------------------
+ is the rating scale of(?, volcanoes)
+ BLANK_ is the rating scale of volcanoes .
+
+----------------------
+ are the significance of(?, volcanoes)
+ BLANK_ are the significance of volcanoes in the earth 's surface .
+
+----------------------
+ are some songs about(?, a volcano)
+ BLANK_ are some songs about a volcano .
+
+----------------------
+ is the creator of(?, volcanoes)
+ BLANK_ is the creator of volcanoes .
+
+----------------------
+ is a hotspot on(?, a volcano)
+ BLANK_ is a hotspot on a volcano .
+
+ is a hotspot in(?, a volcano)
+ BLANK_ is a hotspot in a volcano .
+
+----------------------
+ is the common shape of(?, volcano)
+ BLANK_ is the common shape of volcano .
+
+----------------------
+ are differences in(?, Volcanoes)
+ BLANK_ are differences in Volcanoes .
+
+ is the difference from(?, a volcano)
+ BLANK_ is the difference from a volcano and a composite volcano .
+
+----------------------
+ are plate boundaries in(?, volcanoes)
+ BLANK_ are plate boundaries in volcanoes .
+
+----------------------
+ is the pressure of(?, a volcano)
+ BLANK_ is the pressure of a volcano .
+
+----------------------
+ is life near(?, the volcano)
+ BLANK_ is life near the volcano .
+
+----------------------
+ is a constructive effect of(?, volcanoes)
+ BLANK_ is a constructive effect of volcanoes .
+
+----------------------
+ is the scientific principle of(?, a volcano)
+ BLANK_ is the scientific principle of a volcano .
+
+----------------------
+ is the most biggest explosion from(?, a volcano)
+ BLANK_ is the most biggest explosion from a volcano .
+
+----------------------
+ is the major belt of(?, volcanoes)
+ BLANK_ is the major belt of volcanoes that rims the pacific .
+
+----------------------
+ are the economic values of(?, volcanoes)
+ BLANK_ are the economic values of volcanoes .
+
+ are the economic value of(?, volcanoes)
+ BLANK_ are the economic value of volcanoes .
+
+----------------------
+ is the observation of(?, a volcano)
+ BLANK_ is the observation of a volcano .
+
+----------------------
+ is the data for(?, a volcano)
+ BLANK_ is the data for a volcano .
+
+----------------------
+ is the hottest lava in(?, a volcano)
+ BLANK_ is the hottest lava in a volcano .
+
+----------------------
+ is the anatomy of(?, a volcano)
+ BLANK_ is the anatomy of a volcano .
+
+----------------------
+ are the landforms patterns of(?, a volcanoe)
+ BLANK_ are the landforms patterns of a volcanoe .
+
+----------------------
+ is the paroxysmal phase of(?, a volcano)
+ BLANK_ is the paroxysmal phase of a volcano .
+
+----------------------
+ is the neck of(?, a volcano)
+ BLANK_ is the neck of a volcano .
+
+----------------------
+ are the states of(?, the volcano)
+ BLANK_ are the states of the volcano .
+
+ is the state of(?, volcanoes)
+ BLANK_ is the state of volcanoes currently spewing smoke ash steam cinders and lava .
+
+ is an accurate statement about(?, volcanoes)
+ BLANK_ is an accurate statement about volcanoes .
+
+----------------------
+ are some interesting fatcs about(?, volcanoes)
+ BLANK_ are some interesting fatcs about volcanoes .
+
+----------------------
+ are the gasses from(?, volcanoes)
+ BLANK_ are the gasses from volcanoes .
+
+ is gas from(?, a volcano)
+ BLANK_ is gas from a volcano .
+
+----------------------
+ is a primary effect of(?, a volcano)
+ BLANK_ is a primary effect of a volcano .
+
+----------------------
+ are the variables of(?, a volcano)
+ BLANK_ are the variables of a volcano .
+
+ is the controlled variables e for(?, a volcano)
+ BLANK_ is the controlled variables e for a volcano .
+
+ is the control variables of(?, volcano)
+ BLANK_ is the control variables of volcano .
+
+----------------------
+ is a metaphor for(?, volcano)
+ BLANK_ is a metaphor for volcano .
+
+----------------------
+ is the average size for(?, a volcano)
+ BLANK_ is the average size for a volcano .
+
+----------------------
+ are the 5 elements of(?, a volcano)
+ BLANK_ are the 5 elements of a volcano .
+
+----------------------
+ are the dates and times of(?, volcanoes)
+ BLANK_ are the dates and times of volcanoes in new york .
+
+----------------------
+ are some interesting things about(?, the volcano)
+ BLANK_ are some interesting things about the volcano in Yellowstone Montana .
+
+----------------------
+ are the general mechanics of(?, a volcano)
+ BLANK_ are the general mechanics of a volcano .
+
+----------------------
+ are the phases of(?, volcanoes)
+ BLANK_ are the phases of volcanoes .
+
+----------------------
+ is the most violent form of(?, volcano)
+ BLANK_ is the most violent form of volcano .
+
+----------------------
+ hast(?, the most volcanoes)
+ BLANK_ hast the most volcanoes .
+
+----------------------
+ is a constructive feature of(?, a volcano)
+ BLANK_ is a constructive feature of a volcano .
+
+----------------------
+ is a nickname for(?, volcano)
+ BLANK_ is a nickname for volcano .
+
+----------------------
+ is the most common VEI for(?, volcanoes)
+ BLANK_ is the most common VEI for volcanoes in Hawaii .
+
+----------------------
+ are the 3 sorts of(?, volcanoes)
+ BLANK_ are the 3 sorts of volcanoes .
+
+----------------------
+ is the energy source of(?, a volcano)
+ BLANK_ is the energy source of a volcano .
+
+ is the energy source for(?, a volcano)
+ BLANK_ is the energy source for a volcano .
+
+ is the energy from(?, volcano)
+ BLANK_ is the energy from volcano .
+
+----------------------
+ is a kenning for(?, a volcano)
+ BLANK_ is a kenning for a volcano .
+
+----------------------
+ is a joint of(?, a volcano)
+ BLANK_ is a joint of a volcano .
+
+----------------------
+ is the color of(?, volcano)
+ BLANK_ is the color of volcano .
+
+----------------------
+ is conclusion of(?, volcano)
+ BLANK_ is conclusion of volcano .
+
+----------------------
+ is the mantel of(?, a volcano)
+ BLANK_ is the mantel of a volcano .
+
+----------------------
+ are the expeditions of(?, the volcano)
+ BLANK_ are the expeditions of the volcano .
+
+----------------------
+ is the most dangerous effect of(?, a volcano)
+ BLANK_ is the most dangerous effect of a volcano when it erupts .
+
+----------------------
+ are safe spots for(?, a volcano)
+ BLANK_ are safe spots for a volcano .
+
+----------------------
+ are the categories of(?, an volcano)
+ BLANK_ are the categories of an volcano .
+
+----------------------
+ is the worst effect of(?, a volcano)
+ BLANK_ is the worst effect of a volcano .
+
+----------------------
+ are the two forms of(?, volcanoes)
+ BLANK_ are the two forms of volcanoes .
+
+----------------------
+ is the science of(?, volcanoes)
+ BLANK_ is the science of volcanoes .
+
+----------------------
+ are the content of(?, a volcano)
+ BLANK_ are the content of a volcano .
+
+----------------------
+ is a flank on(?, a volcano)
+ BLANK_ is a flank on a volcano .
+
+----------------------
+ is the basic mechanics of(?, a volcano)
+ BLANK_ is the basic mechanics of a volcano .
+
+----------------------
+ is the normal shape of(?, volcanoes)
+ BLANK_ is the normal shape of volcanoes .
+
+----------------------
+ are veins in(?, a volcano)
+ BLANK_ are veins in a volcano .
+
+----------------------
+ is the potential hazard of(?, volcanoes)
+ BLANK_ is the potential hazard of volcanoes .
+
+----------------------
+ are the uses of(?, volcanoes)
+ BLANK_ are the uses of volcanoes .
+
+----------------------
+ is a simple explanation of(?, a volcano)
+ BLANK_ is a simple explanation of a volcano .
+
+----------------------
+ is the 3 stages of(?, a volcano)
+ BLANK_ is the 3 stages of a volcano .
+
+----------------------
+ is The Mudflow On(?, a Volcano)
+ BLANK_ is The Mudflow On a Volcano Called .
+
+----------------------
+ larget(?, volcano)
+ BLANK_ is the worlds larget volcano .
+
+----------------------
+ evolves out(?, from Volcano)
+ BLANK_ evolves out from Volcano .
+
+----------------------
+ is not associated(?, with volcanoes)
+ BLANK_ is not associated with volcanoes .
+
+----------------------
+ best describes(?, a volcanoe)
+ BLANK_ best describes a volcanoe .
+
+----------------------
+ could come(?, out of a volcano)
+ BLANK_ could come out of a volcano .
+
+ can come(?, out of volcanoes)
+ BLANK_ can come out of volcanoes .
+
+----------------------
+ can survive(?, a volcano)
+ BLANK_ can survive a volcano .
+
+ would survive(?, a volcano)
+ BLANK_ would survive a volcano .
+
+----------------------
+ predicts(?, volcanoes)
+ BLANK_ predicts volcanoes .
+
+----------------------
+ would form(?, at a volcano)
+ BLANK_ would form at a volcano .
+
+----------------------
+ can withstand(?, a volcano)
+ BLANK_ can withstand a volcano .
+
+----------------------
+ is having(?, most volcanoes)
+ BLANK_ is having most volcanoes .
+
+----------------------
+ is badly affected(?, by volcanoes)
+ BLANK_ is badly affected by volcanoes .
+
+----------------------
+ was formed mostly(?, by volcanoes)
+ BLANK_ was formed mostly by volcanoes .
+
+ have been formed(?, by volcanoes)
+ BLANK_ have been formed by volcanoes .
+
+----------------------
+ discoverd(?, volcanoes)
+ BLANK_ discoverd volcanoes .
+
+----------------------
+ is coming(?, out of the volcano)
+ BLANK_ is coming out of the volcano called eyjafjokull .
+
+ before coming(?, out of a volcano)
+ BLANK_ is lava called before coming out of a volcano .
+
+----------------------
+ was shaped(?, by a volcano)
+ BLANK_ was shaped by a volcano .
+
+ is shaped(?, )
+ BLANK_ dome is shaped and made of lava .
+
+ to be shaped(?, )
+ BLANK_ causes a shield volcano to be shaped like broad dome .
+
+----------------------
+ was preserved(?, by a volcano)
+ BLANK_ was preserved by a volcano .
+
+----------------------
+ cames out(?, from a volcano)
+ BLANK_ cames out from a volcano .
+
+----------------------
+ is laze(?, in volcanoes)
+ BLANK_ is laze in volcanoes .
+
+----------------------
+ is vulcan(?, in a volcano)
+ BLANK_ is vulcan in a volcano .
+
+----------------------
+ is generated(?, from volcanoes)
+ BLANK_ is generated from volcanoes .
+
+ are generally generated(?, )
+ BLANK_ is the most violent volcanic explosions are generally generated from .
+
+----------------------
+ makes work(?, Volcano)
+ BLANK_ makes a Volcano work .
+
+ work(?, on volcanoes)
+ BLANK_ work on volcanoes .
+
+----------------------
+ has then(?, more volcanoes)
+ BLANK_ has more volcanoes then any where in the world .
+
+----------------------
+ is loihi in(?, the volcano)
+ BLANK_ is loihi the volcano in .
+
+ is loihi(?, )
+ BLANK_ is loihi .
+
+----------------------
+ to be found(?, by a volcano)
+ BLANK_ is more likely to be found by a volcano .
+
+----------------------
+ underlying(?, a volcano)
+ BLANK_ is found underlying a volcano .
+
+----------------------
+ to record(?, a volcano)
+ BLANK_ is used to record a volcano .
+
+----------------------
+ plateaus(?, )
+ BLANK_ lava plateaus are made from .
+
+----------------------
+ flows freely(?, from volcanoes)
+ BLANK_ is fluid and flows freely from volcanoes .
+
+----------------------
+ may create(?, a volcano)
+ BLANK_ rises to the surface and may create a volcano .
+
+----------------------
+ do commonly form(?, )
+ BLANK_ fluid basaltic lavas do commonly form .
+
+----------------------
+ invent(?, volcanoes)
+ BLANK_ invent volcanoes .
+
+----------------------
+ do give out(?, volcanoes)
+ BLANK_ do volcanoes give out .
+
+----------------------
+ are oozing(?, volcanoes)
+ BLANK_ are oozing volcanoes .
+
+----------------------
+ do bring about(?, volcano)
+ BLANK_ do volcano bring about .
+
+----------------------
+ suffer(?, from volcanoes)
+ BLANK_ suffer from volcanoes .
+
+----------------------
+ are discharged(?, from a volcano)
+ BLANK_ are discharged from a volcano .
+
+----------------------
+ can be derived(?, from volcanoes)
+ BLANK_ can be derived from volcanoes .
+
+----------------------
+ are nonerupting(?, volcanoes)
+ BLANK_ are nonerupting volcanoes .
+
+----------------------
+ do occur on(?, )
+ BLANK_ shield volcanoes do occur on .
+
+ does occur on(?, )
+ BLANK_ reventador does occur on .
+
+ has occurred(?, )
+ BLANK_ has occurred from lava flows .
+
+ occurs naturally(?, )
+ BLANK_ occurs naturally in pure form around volcanoes .
+
+ occur farther inland(?, )
+ BLANK_ occur farther inland than other earthquakes .
+
+----------------------
+ do shoot out(?, )
+ BLANK_ composite volcanoes do shoot out .
+
+----------------------
+ to figure out(?, about a volcano)
+ BLANK_ can you use to figure out about a volcano .
+
+----------------------
+ does let out(?, )
+ BLANK_ volcanoes does let out .
+
+----------------------
+ can spit out(?, )
+ BLANK_ volcanoes can spit out .
+
+----------------------
+ ruiz on(?, )
+ BLANK_ is the nevado del ruiz on .
+
+----------------------
+ do blast blast(?, )
+ BLANK_ violent volcanoes do blast out .
+
+----------------------
+ damavand(?, )
+ BLANK_ mount did damavand erupt .
+
+----------------------
+ does use to monitor(?, volcanoes)
+ BLANK_ does volcanologist use to monitor volcanoes .
+
+----------------------
+ does lava look look(?, )
+ BLANK_ pahoehoe does lava look like .
+
+----------------------
+ to mix(?, )
+ BLANK_ causes the ash and water to mix and form a type of mud that sets like concreate when it stops floing when a lahar occurs .
+
+----------------------
+ redoubt in(?, )
+ BLANK_ is mount redoubt in .
+
+----------------------
+ do pump out(?, )
+ BLANK_ volcano do pump out .
+
+----------------------
+ Plates(?, )
+ BLANK_ Oceanic Plates are made of .
+
+----------------------
+ can take(?, )
+ BLANK_ measures the local population can take if there is a major eruption in the future .
+
+ take to distract(?, )
+ BLANK_ did the government take to distract and control the masses in Rome .
+
+----------------------
+ geysers(?, )
+ BLANK_ geysers are made of .
+
+----------------------
+ vocanos(?, )
+ BLANK_ vocanos are made of .
+
+----------------------
+ snowflakes(?, )
+ BLANK_ snowflakes are made of .
+
+----------------------
+ does sit on(?, )
+ BLANK_ Yellowstone volcano does sit on .
+
+ sit on(?, )
+ BLANK_ does cotopaxi sit on .
+
+----------------------
+ to colapses(?, )
+ BLANK_ causes volcanoes to colapses .
+
+----------------------
+ become(?, )
+ BLANK_ does hardened lava become .
+
+----------------------
+ seem(?, )
+ BLANK_ is paricutin seem to be when it first formed and why scientist doubt this was true later on .
+
+----------------------
+ burn(?, )
+ BLANK_ can lava burn .
+
+----------------------
+ is thought(?, )
+ BLANK_ is thought to be the cause of Io 's volcanos .
+
+ are thought(?, )
+ BLANK_ are thought to possess active volcanoes .
+
+----------------------
+ plated(?, )
+ BLANK_ plated caused the nevado del ruiz eruption .
+
+----------------------
+ is paricutin in(?, )
+ BLANK_ is paricutin in .
+
+----------------------
+ is toba(?, )
+ BLANK_ is toba .
+
+----------------------
+ is tambora(?, )
+ BLANK_ is tambora .
+
+ is tambora on(?, )
+ BLANK_ is tambora on .
+
+----------------------
+ is hekla(?, )
+ BLANK_ is hekla .
+
+----------------------
+ matches almost perfectly(?, )
+ BLANK_ matches almost perfectly with the ring of fire .
+
+----------------------
+ is lava born(?, )
+ BLANK_ is lava born .
+
+----------------------
+ will flower(?, )
+ BLANK_ will flower and Spread at a volcano location after the volcano erupts and what would its state be could be in petrification mode and bare like at Emerald Bay ledge U.S.A Lake Tahoe .
+
+----------------------
+ is antarcticas(?, )
+ BLANK_ is antarcticas only known active volcano .
+
+----------------------
+ will Happen(?, )
+ BLANK_ will Happen if Lake taupo erupts again .
+
+----------------------
+ is krakatau(?, )
+ BLANK_ is krakatau .
+
+----------------------
+ is katmai(?, )
+ BLANK_ is katmai .
+
+----------------------
+ is brought(?, )
+ BLANK_ is brought through the earth 's surface in a special volcanic explosion for miners to be able to get diamonds .
+
+----------------------
+ was izmit(?, )
+ BLANK_ was izmit convergent divergent or conservative .
+
+----------------------
+ happes(?, )
+ BLANK_ happes if a tornado crosses with a volcano .
+
+----------------------
+ is mtfuji(?, )
+ BLANK_ is mtfuji .
+
+----------------------
+ is krakatoa on(?, )
+ BLANK_ is krakatoa on .
+
+----------------------
+ is toluca(?, )
+ BLANK_ is toluca .
+
+----------------------
+ is aconcagua(?, )
+ BLANK_ is aconcagua .
+
+----------------------
+ are carried(?, )
+ BLANK_ are carried out of Mount Everest .
+
+----------------------
+ believes(?, )
+ BLANK_ believes the legend that volcanoes were dug out with a coconut half .
+
+----------------------
+ is hualalai(?, )
+ BLANK_ is hualalai .
+
+----------------------
+ usally results(?, )
+ BLANK_ usally results when crustal plates scrape and slide past one another .
+
+----------------------
+ was not created(?, )
+ BLANK_ was not created by flowing water .
+
+----------------------
+ does n't hardens(?, )
+ BLANK_ does n't hardens .
+
+----------------------
+ matches almost perfaactly(?, )
+ BLANK_ matches almost perfaactly with the ring of fire .
+
+----------------------
+ flows faster(?, )
+ BLANK_ flows faster and why .
+
+----------------------
+ is diverging(?, )
+ BLANK_ is diverging boundary - .
+
+----------------------
+ might be affected(?, )
+ BLANK_ might be affected of Yellowstone erupts .
+
+----------------------
+ is believed(?, )
+ BLANK_ is believed to cause plate movement .
+
+----------------------
+ is krackatoa(?, )
+ BLANK_ is krackatoa .
+
+----------------------
+ generally rises(?, )
+ BLANK_ generally rises the highest above sea level .
+
+----------------------
+ flows smoothly(?, )
+ BLANK_ is fluid thin and flows smoothly .
+
+----------------------
+ continued(?, )
+ BLANK_ would be the shape of a line draw along the Hawaiian Island chain and continued through the Emperor Seamount chain .
+
+----------------------
+ with sliding(?, )
+ BLANK_ is typically associated with sliding or shear forces .
+
+----------------------
+ makes a lava lamp glow glow(?, )
+ BLANK_ makes a lava lamp glow .
+
+----------------------
+ makes shield volcanoes volcanoes(?, )
+ BLANK_ makes shield volcanoes .
+
+----------------------
+ helped create(?, )
+ BLANK_ helped create and form Mount Rainier .
+
+----------------------
+ can lava reach reach(?, )
+ BLANK_ can lava reach .
+
+----------------------
+ can be made up(?, )
+ BLANK_ can be made up of magma .
+
+----------------------
+ are connected(?, )
+ BLANK_ are connected to volcanoes .
+
+----------------------
+ are operating(?, )
+ BLANK_ are operating at divergent plate boundaries .
+
+----------------------
+ can be passed down(?, )
+ BLANK_ can be passed down .
+
+----------------------
+ are melted(?, )
+ BLANK_ are melted to provide magma to the cascade volcanoes .
+
+----------------------
+ pours quickly(?, )
+ BLANK_ pours out quickly forming a brittle crust .
+
+----------------------
+ compare(?, )
+ BLANK_ are the 3 types of volcanoes and compare and contrast them .
+
+----------------------
+ proved(?, )
+ BLANK_ excavated in the laetoli volcanic beds and proved hominids had walked erect over 3 million years ago .
+
+----------------------
+ island(?, )
+ BLANK_ makes montserrat a volcanic island .
+
+----------------------

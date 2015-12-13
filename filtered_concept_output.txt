@@ -1,0 +1,646 @@
+ kills(?, bacteria)
+ BLANK_ in a disinfectant kills bacteria .
+
+ does not kill(?, bacteria)
+ BLANK_ does not kill bacteria .
+
+ will not kill(?, bacteria)
+ BLANK_ will not kill bacteria .
+
+ naturally kills(?, bacteria)
+ BLANK_ naturally kills bacteria .
+
+ kills best(?, bacteria)
+ BLANK_ kills bacteria the best .
+
+ can kill(?, bacteria)
+ BLANK_ can kill bacteria .
+
+ used to kill(?, bacteria)
+ BLANK_ sometimes used to kill bacteria .
+
+ killing(?, bacteria)
+ BLANK_ going off involved killing bacteria .
+
+ could kill(?, bacteria)
+ BLANK_ discovered that mold could kill bacteria .
+
+----------------------
+ infected(?, by bacteria)
+ Kwang Jeon did discover BLANK_ when researching amoeba infected by bacteria .
+
+----------------------
+ can have(Bacteria,?)Bacteria can have BLANK_ .
+
+----------------------
+ does produce(Bacteria,?)Bacteria does produce BLANK_ .
+
+ is not produced(?, )
+ BLANK_ is not produced with the help of bacteria out of beef cheese yogurt pickles .
+
+----------------------
+ does lack(Bacteria,?)Bacteria does lack BLANK_ .
+
+----------------------
+ do have(Bacteria,?)Bacteria do have BLANK_ in common with living cells of other living organisms .
+
+----------------------
+ would face(Bacteria,?)Bacteria would face BLANK_ without humans .
+
+----------------------
+ does do(Bacteria,?)Bacteria does do BLANK_ .
+
+----------------------
+ do eat(Bacteria,?)Bacteria do eat BLANK_ and how do they take in their food .
+
+----------------------
+ can can be(Bacteria,?)Bacteria can can be BLANK_ .
+
+----------------------
+ does dislike(Bacteria,?)Bacteria does dislike BLANK_ .
+
+----------------------
+ can metabolize(Bacteria,?)Bacteria can metabolize BLANK_ .
+
+----------------------
+ can do(Bacteria,?)Bacteria can do BLANK_ .
+
+----------------------
+ does decompose(Bacteria,?)Bacteria does decompose BLANK_ .
+
+ decomposes(?, into bacteria)
+ BLANK_ decomposes into bacteria .
+
+----------------------
+ do favor(Bacteria,?)Bacteria do favor BLANK_ .
+
+ is the favorable PH range of(?, bacteria)
+ BLANK_ is the favorable PH range of bacteria .
+
+----------------------
+ is the life span of(?, bacteria)
+ BLANK_ is the life span of bacteria on dry surfaces .
+
+----------------------
+ are the characteristics of(?, bacteria)
+ BLANK_ are the characteristics of bacteria .
+
+ are the three characteristics of(?, bacteria)
+ BLANK_ are the three characteristics of bacteria .
+
+ are characteristics of(?, bacteria)
+ BLANK_ are characteristics of bacteria .
+
+ is the characteristic of(?, bacteria)
+ BLANK_ is the characteristic of bacteria .
+
+ are the general characteristics of(?, bacteria)
+ BLANK_ are the general characteristics of bacteria .
+
+ is the character of(?, bacteria)
+ BLANK_ is the character of bacteria .
+
+ is a characteristic of(?, bacteria)
+ BLANK_ is a characteristic of bacteria that is key to keeping them under control .
+
+----------------------
+ are the four beneficial functions of(?, bacteria)
+ BLANK_ are the four beneficial functions of bacteria .
+
+ are the functions of(?, a bacteria)
+ BLANK_ are the functions of a bacteria .
+
+ is the function for(?, most bacteria)
+ BLANK_ is the function for most bacteria and how is this helpful to them .
+
+----------------------
+ is the name of(?, the bacteria)
+ BLANK_ is the name of the bacteria in curd .
+
+ are names of(?, bacteria)
+ BLANK_ are names of bacteria that live Tropical rainforest .
+
+----------------------
+ is the size of(?, a bacteria)
+ BLANK_ is the size of a bacteria .
+
+ is the approximate size of(?, a bacteria)
+ BLANK_ is the approximate size of a bacteria .
+
+----------------------
+ are uses of(?, bacteria)
+ BLANK_ are uses of bacteria .
+
+ are the uses of(?, bacteria)
+ BLANK_ are the uses of bacteria in human food .
+
+ are the human uses of(?, bacteria)
+ BLANK_ are the human uses of bacteria .
+
+ is uses of(?, bacteria)
+ BLANK_ is uses of bacteria .
+
+ are the two beneficial uses of(?, a bacteria)
+ BLANK_ are the two beneficial uses of a bacteria .
+
+----------------------
+ are the negative effects of(?, bacteria)
+ BLANK_ are the negative effects of bacteria .
+
+ are the effects of(?, bacteria)
+ BLANK_ are the effects of bacteria during infection process .
+
+----------------------
+ is the term for(?, bacteria)
+ BLANK_ is the term for bacteria that can produce their own food without using the sun 's energy .
+
+----------------------
+ are examples of(?, bacteria)
+ BLANK_ are examples of bacteria .
+
+----------------------
+ are three types of(?, bacteria)
+ BLANK_ are three types of bacteria .
+
+ are the three types of(?, bacteria)
+ BLANK_ are the three types of bacteria .
+
+----------------------
+ are facts about(?, bacteria)
+ BLANK_ are facts about bacteria .
+
+ are 5 fun facts about(?, bacteria)
+ BLANK_ are 5 fun facts about bacteria .
+
+ are 3 surprising facts about(?, bacteria)
+ BLANK_ are 3 surprising facts about bacteria .
+
+----------------------
+ are the kingdoms of(?, bacteria)
+ BLANK_ are the kingdoms of bacteria .
+
+ are the two kingdoms of(?, bacteria)
+ BLANK_ are the two kingdoms of bacteria .
+
+ are two kingdoms of(?, bacteria)
+ BLANK_ are two kingdoms of bacteria .
+
+----------------------
+ is the ubiquity of(?, bacteria)
+ BLANK_ is the ubiquity of bacteria .
+
+----------------------
+ are six conditions that(?, bacteria)
+ BLANK_ are six conditions that bacteria needs to multiply .
+
+----------------------
+ are the three different growth patterns of(?, bacteria)
+ BLANK_ are the three different growth patterns of bacteria .
+
+----------------------
+ are 3 differnt types of(?, bacteria)
+ BLANK_ are 3 differnt types of bacteria .
+
+----------------------
+ are two types of(?, bacteria)
+ BLANK_ are two types of bacteria .
+
+----------------------
+ is the structure of(?, bacteria)
+ BLANK_ is the structure of bacteria .
+
+ are the 2 structures of(?, bacteria)
+ BLANK_ are the 2 structures of bacteria .
+
+ is the basic structure of(?, bacteria)
+ BLANK_ is the basic structure of bacteria .
+
+----------------------
+ are two ways that(?, bacteria)
+ BLANK_ are two ways that bacteria can help humans .
+
+ are ways that(?, bacteria)
+ BLANK_ are ways that bacteria are helpful .
+
+ is four ways that(?, bacteria)
+ BLANK_ is four ways that bacteria are helpful to people .
+
+ are the ways that(?, bacteria)
+ BLANK_ are the ways that bacteria help the ecology of the Earth .
+
+ are two different ways that(?, bacteria)
+ BLANK_ are two different ways that bacteria can negatively effect people .
+
+ are the two major ways for(?, bacteria)
+ BLANK_ are the two major ways for bacteria to exchange genetic information .
+
+ are the three diffrent ways that(?, bacteria)
+ BLANK_ are the three diffrent ways that bacteria can obtain energy .
+
+----------------------
+ are the three basic shapes of(?, bacteria)
+ BLANK_ are the three basic shapes of bacteria .
+
+ is the shape of(?, bacteria)
+ BLANK_ is the shape of bacteria .
+
+ is the most common shape of(?, bacteria)
+ BLANK_ is the most common shape of bacteria seen in a typical cheek smear .
+
+----------------------
+ are 3 different types of(?, bacteria)
+ BLANK_ are 3 different types of bacteria .
+
+----------------------
+ are bad things about(?, bacteria)
+ BLANK_ are bad things about bacteria .
+
+----------------------
+ is the sticky layer on(?, some bacteria)
+ BLANK_ is the sticky layer on some bacteria .
+
+----------------------
+ are the classification scheme of(?, bacteria)
+ BLANK_ are the classification scheme of bacteria .
+
+ are the classification of(?, bacteria)
+ BLANK_ are the classification of bacteria according to shape .
+
+ is the scientific classification of(?, bacteria)
+ BLANK_ is the scientific classification of bacteria .
+
+----------------------
+ is the similarity of(?, bacteria)
+ BLANK_ is the similarity of bacteria and other single - celled organisms .
+
+----------------------
+ is the Structural features of(?, bacteria)
+ BLANK_ is the Structural features of bacteria .
+
+ are the features of(?, bacteria)
+ BLANK_ are the features of bacteria that enable them to survive in a wide variety of habitats .
+
+ are the four features of(?, bacteria)
+ BLANK_ are the four features of bacteria that enable them to survive in a wide variety of habitats .
+
+----------------------
+ are the 3 kinds of(?, bacteria)
+ BLANK_ are the 3 kinds of bacteria .
+
+ are the kinds of(?, bacteria)
+ BLANK_ are the kinds of bacteria .
+
+ is the three kinds of(?, bacteria)
+ BLANK_ is the three kinds of bacteria .
+
+----------------------
+ is anaerobic respiration in(?, bacteria)
+ BLANK_ is anaerobic respiration in bacteria .
+
+----------------------
+ is the purpose for(?, bacteria)
+ BLANK_ is the purpose for bacteria .
+
+----------------------
+ are the Parts of(?, a bacteria)
+ BLANK_ are the Parts of a bacteria .
+
+----------------------
+ are four important things about(?, bacteria)
+ BLANK_ are four important things about bacteria .
+
+----------------------
+ are the 3 types of(?, bacteria)
+ BLANK_ are the 3 types of bacteria according to shape .
+
+----------------------
+ is the appearance of(?, bacteria)
+ BLANK_ is the appearance of bacteria .
+
+ appear(?, )
+ BLANK_ appear as after a gram stain .
+
+----------------------
+ are the importance of(?, bacteria)
+ BLANK_ are the importance of bacteria on medicine .
+
+----------------------
+ is the evolution of(?, bacteria)
+ BLANK_ is the evolution of bacteria .
+
+----------------------
+ is the reproduction of(?, bacteria)
+ BLANK_ is the reproduction of bacteria .
+
+----------------------
+ are the causes of(?, bacteria)
+ BLANK_ are the causes of bacteria .
+
+----------------------
+ is A species of(?, bacteria)
+ BLANK_ is A species of bacteria that lives in the intestines of many mammals .
+
+ is a species of(?, bacteria)
+ BLANK_ is a species of bacteria .
+
+----------------------
+ are the two genera of(?, bacteria)
+ BLANK_ are the two genera of bacteria which form spores .
+
+----------------------
+ is the idea temperature zone for(?, bacteria)
+ BLANK_ is the idea temperature zone for bacteria to multiply .
+
+----------------------
+ are the special features of(?, bacteria)
+ BLANK_ are the special features of bacteria .
+
+----------------------
+ is the primary function of(?, bacteria)
+ BLANK_ is the primary function of bacteria in nature .
+
+----------------------
+ is the symptoms of(?, the bacteria)
+ BLANK_ is the symptoms of the bacteria .
+
+----------------------
+ is disadvantage of(?, bacteria)
+ BLANK_ is disadvantage of bacteria .
+
+ are the disadvantage of(?, bacteria)
+ BLANK_ are the disadvantage of bacteria in the food industry .
+
+----------------------
+ are the scientific statistics on(?, bacteria)
+ BLANK_ are the scientific statistics on bacteria on toilet seats .
+
+----------------------
+ is the taxonomic hierarchy of(?, bacteria)
+ BLANK_ is the taxonomic hierarchy of bacteria .
+
+----------------------
+ are some unfriendly things about(?, bacteria)
+ BLANK_ are some unfriendly things about bacteria .
+
+----------------------
+ is ture for(?, bacteria)
+ BLANK_ is ture for bacteria .
+
+----------------------
+ are the benefits of(?, bacteria)
+ BLANK_ are the benefits of bacteria .
+
+----------------------
+ is the picture of(?, bacteria)
+ BLANK_ is the picture of bacteria .
+
+----------------------
+ is taxonomy of(?, a bacteria)
+ BLANK_ is taxonomy of a bacteria .
+
+----------------------
+ is the symbiosis of(?, bacteria)
+ BLANK_ is the symbiosis of bacteria living on a human 's skin .
+
+----------------------
+ is the source of(?, bacteria)
+ BLANK_ is the source of bacteria .
+
+----------------------
+ are advantages of(?, bacteria)
+ BLANK_ are advantages of bacteria .
+
+----------------------
+ are the 3 forms of(?, bacteria)
+ BLANK_ are the 3 forms of bacteria .
+
+----------------------
+ is the founder of(?, bacteria)
+ BLANK_ is the founder of bacteria and when was it .
+
+ is found(?, in bacteria)
+ BLANK_ is found in bacteria .
+
+----------------------
+ is the three harmful effects of(?, bacteria)
+ BLANK_ is the three harmful effects of bacteria .
+
+----------------------
+ is a word for(?, bacteria)
+ BLANK_ is a word for bacteria .
+
+----------------------
+ is total viable count of(?, bacteria)
+ BLANK_ is total viable count of bacteria .
+
+----------------------
+ is the suffix of(?, bacteria)
+ BLANK_ is the suffix of bacteria .
+
+----------------------
+ is a hairlike parts of(?, bacteria)
+ BLANK_ is a hairlike parts of bacteria that help them move around .
+
+----------------------
+ holds(?, more bacteria)
+ BLANK_ holds more bacteria a lunch box or a brown box .
+
+ typically holds(?, the most bacteria)
+ BLANK_ typically holds the most bacteria .
+
+----------------------
+ are groups of(?, bacteria)
+ BLANK_ are groups of bacteria living together in a close knit group known as .
+
+----------------------
+ are the benefints and illnesness of(?, a bacteria)
+ BLANK_ are the benefints and illnesness of a bacteria .
+
+----------------------
+ is a important role of(?, bacteria)
+ BLANK_ is a important role of bacteria .
+
+----------------------
+ is the structural polysaccharide in(?, bacteria)
+ BLANK_ is the structural polysaccharide in bacteria .
+
+----------------------
+ is the rarest role of(?, bacteria)
+ BLANK_ is the rarest role of bacteria .
+
+----------------------
+ is an accumulation of(?, bacteria)
+ BLANK_ is an accumulation of bacteria and debris on the tooth 's surfaces .
+
+----------------------
+ are the useful activities of(?, bacteria)
+ BLANK_ are the useful activities of bacteria .
+
+----------------------
+ is the big group of(?, bacteria)
+ BLANK_ is the big group of bacteria .
+
+----------------------
+ are the exoenzymes and endoenzymes of(?, bacteria)
+ BLANK_ are the exoenzymes and endoenzymes of bacteria .
+
+----------------------
+ is a good aerostic peoem for(?, bacteria)
+ BLANK_ is a good aerostic peoem for bacteria .
+
+----------------------
+ are contaminated(?, by bacteria)
+ BLANK_ might tell that food are contaminated by bacteria .
+
+----------------------
+ Does Not Cause(?, Bacteria)
+ BLANK_ Does Bacteria Not Cause .
+
+----------------------
+ to study(?, bacteria)
+ BLANK_ allow scientist to study bacteria .
+
+----------------------
+ is denitrifying(?, bacteria)
+ BLANK_ is denitrifying bacteria .
+
+----------------------
+ rhymes(?, with bacteria)
+ BLANK_ rhymes with bacteria .
+
+----------------------
+ engulfs(?, bacteria)
+ BLANK_ engulfs bacteria .
+
+----------------------
+ invented(?, bacteria)
+ BLANK_ invented bacteria .
+
+----------------------
+ nourishes(?, bacteria)
+ BLANK_ nourishes bacteria .
+
+----------------------
+ moves(?, bacteria)
+ BLANK_ moves bacteria .
+
+----------------------
+ does not have(?, bacteria)
+ BLANK_ does not have bacteria .
+
+----------------------
+ is nitrifying(?, bacteria)
+ BLANK_ is nitrifying bacteria .
+
+ are nitrifying(?, bacteria)
+ BLANK_ are nitrifying bacteria .
+
+----------------------
+ is opsonized(?, bacteria)
+ BLANK_ is opsonized bacteria .
+
+----------------------
+ is denitifying(?, bacteria)
+ BLANK_ is denitifying bacteria .
+
+----------------------
+ would breed(?, the most bacteria)
+ BLANK_ would breed the most bacteria .
+
+----------------------
+ is in(?, bacteria)
+ BLANK_ is bacteria in .
+
+----------------------
+ is able(?, the bacteria)
+ BLANK_ is the bacteria at this temperature D not able to multiply .
+
+----------------------
+ fights invading(?, bacteria)
+ BLANK_ fights invading bacteria by either slowing their multiplication or destroying them .
+
+----------------------
+ are caused(?, by bacteria)
+ BLANK_ are caused by bacteria .
+
+----------------------
+ are customized(?, bacteria)
+ BLANK_ are customized bacteria .
+
+----------------------
+ are helpful(?, bacteria)
+ BLANK_ are bacteria helpful .
+
+----------------------
+ make up(?, bacteria)
+ BLANK_ make up bacteria .
+
+----------------------
+ are possessed(?, by all bacteria)
+ BLANK_ are possessed by all bacteria .
+
+----------------------
+ are given(?, for bacteria)
+ BLANK_ are given for bacteria .
+
+----------------------
+ to control(?, bacteria)
+ BLANK_ are there to control bacteria .
+
+----------------------
+ would use to grow(?, bacteria)
+ BLANK_ would you use to grow bacteria .
+
+----------------------
+ would use to look(?, at bacteria)
+ BLANK_ would you use to look at bacteria from your teeth .
+
+----------------------
+ help transform transform(?, )
+ BLANK_ does bacteria and fungi help transform .
+
+----------------------
+ to multiply rapidly(?, )
+ BLANK_ allow harmful bacteria to multiply rapidly .
+
+----------------------
+ to spoil(?, )
+ BLANK_ cause food to spoil .
+
+----------------------
+ might change(?, )
+ BLANK_ might change on the off spring bacteria that under went conjugation .
+
+----------------------
+ is rhizobia(?, )
+ BLANK_ is rhizobia .
+
+----------------------
+ probably was used(?, )
+ BLANK_ probably was used in naming cyanobacteria .
+
+----------------------
+ is expected(?, )
+ BLANK_ is expected to cause spoilage to the food in fridge storage .
+
+----------------------
+ is not processed(?, )
+ BLANK_ is not processed with the help of bacteria .
+
+----------------------
+ attach(?, )
+ BLANK_ attach to bacteria and inject hereditary material .
+
+----------------------
+ are needed(?, )
+ BLANK_ are needed with someone with acinetobacter in sputum .
+
+----------------------
+ infect natraly(?, )
+ BLANK_ infect natraly .
+
+----------------------
+ combine to form(?, )
+ BLANK_ may contain populations of bacteria fungi deer frogs and salamanders These all combine to form a .
+
+----------------------

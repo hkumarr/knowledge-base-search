@@ -1,0 +1,529 @@
+ do do(?, with fossils)
+ BLANK_ paleontologist do do with fossils .
+
+----------------------
+ can learn(?, from fossils)
+ BLANK_ paleontologists can learn from fossils .
+
+ might learn by studing(?, fossils)
+ BLANK_ peiple might learn by studing fossils .
+
+ can learn by studying(?, fossils)
+ BLANK_ scientists can learn by studying fossils .
+
+ can learn about the past by studying(?, fossils)
+ BLANK_ scientists can learn about the past by studying fossils .
+
+ might have(?, fossils)
+ BLANK_ might have fossils .
+
+ can geologist learn(?, from fossils)
+ BLANK_ can geologist learn from fossils .
+
+ can paleolntologist learn(?, from fossils)
+ BLANK_ can paleolntologist learn from fossils .
+
+ have learnt(?, from fossils)
+ BLANK_ you have learnt from fossils .
+
+ might learn(?, )
+ BLANK_ peiple might learn by studing fossils .
+
+ can be learned(?, )
+ BLANK_ can be learned about modern plants and animals by studying fossils .
+
+----------------------
+ can include(Fossils,?)Fossils can include BLANK_ .
+
+----------------------
+ researches(?, fossils)
+ You do call BLANK_ someone who researches fossils .
+
+----------------------
+ do give(Fossils,?)Fossils do give BLANK_ .
+
+----------------------
+ do bring(Fossils,?)Fossils do bring BLANK_ .
+
+----------------------
+ do eat(Fossils,?)Fossils do eat BLANK_ .
+
+----------------------
+ use to study(?, fossils)
+ BLANK_ are the four step scientists use to study fossils .
+
+ is a use for(?, fossils)
+ BLANK_ is a use for fossils found in sedimentary rocks .
+
+ are some uses for(?, fossils)
+ BLANK_ are some uses for fossils .
+
+ do use to clean(?, fossil)
+ BLANK_ do you use to clean fossil .
+
+----------------------
+ can identify(?, fossils)
+ BLANK_ people can identify fossils .
+
+----------------------
+ are two kinds of(?, fossils)
+ BLANK_ are two kinds of fossils .
+
+ are kinds of(?, fossils)
+ BLANK_ are kinds of fossils .
+
+ are the three different kinds of(?, fossils)
+ BLANK_ are the three different kinds of fossils .
+
+ are 3 kinds of(?, fossils)
+ BLANK_ are 3 kinds of fossils .
+
+ are 5 kinds of(?, fossils)
+ BLANK_ are 5 kinds of fossils .
+
+ is a kind of(?, fossil)
+ BLANK_ is a kind of fossil where an animal or plant leaves only its body impression in the mind .
+
+ are the different kinds of(?, fossils)
+ BLANK_ are the different kinds of fossils .
+
+----------------------
+ is the most common type of(?, fossil)
+ BLANK_ is the most common type of fossil .
+
+ are the most common types of(?, fossils)
+ BLANK_ are the most common types of fossils .
+
+----------------------
+ tends(?, to have fossils)
+ BLANK_ tends to have fossils .
+
+----------------------
+ is the most likely reason for(?, fossil)
+ BLANK_ is the most likely reason for fossil to form .
+
+ will most likely have(?, fossils)
+ BLANK_ will most likely have fossils .
+
+ most likely be contained(?, in a fossil)
+ BLANK_ most likely be contained in a fossil .
+
+ would most likely be preserved(?, as a fossil)
+ BLANK_ would the shell of an organism most likely be preserved as a fossil .
+
+ could least likely be accomplished(?, )
+ BLANK_ could least likely be accomplished cby studying the fossil record .
+
+----------------------
+ are the different types of(?, fossils)
+ BLANK_ are the different types of fossils .
+
+ are 3 different types of(?, fossils)
+ BLANK_ are 3 different types of fossils .
+
+ are five different types of(?, fossils)
+ BLANK_ are five different types of fossils .
+
+----------------------
+ are five different kinds of(?, fossils)
+ BLANK_ are five different kinds of fossils .
+
+----------------------
+ are some non - examples of(?, fossils)
+ BLANK_ are some non - examples of fossils .
+
+ is the example of(?, fossils)
+ BLANK_ is the example of fossils .
+
+ are the examples of(?, fossils)
+ BLANK_ are the examples of fossils .
+
+ are two examples for(?, fossils)
+ BLANK_ are two examples for fossils .
+
+ are non examples of(?, fossils)
+ BLANK_ are non examples of fossils .
+
+----------------------
+ are the 2 types of(?, fossils)
+ BLANK_ are the 2 types of fossils .
+
+----------------------
+ are 5 types of(?, fossils)
+ BLANK_ are 5 types of fossils .
+
+ are the 5 types of(?, fossil)
+ BLANK_ are the 5 types of fossil .
+
+----------------------
+ are five types of(?, fossils)
+ BLANK_ are five types of fossils .
+
+ are the five types of(?, fossils)
+ BLANK_ are the five types of fossils .
+
+----------------------
+ is another way for(?, fossils)
+ BLANK_ is another way for fossils to be fossils .
+
+----------------------
+ is the answers of(?, the fossils)
+ BLANK_ is the answers of the fossils are commonly found in .
+
+----------------------
+ are four types of(?, fossils)
+ BLANK_ are four types of fossils .
+
+----------------------
+ are the 4 types of(?, fossils)
+ BLANK_ are the 4 types of fossils .
+
+----------------------
+ is an fact about(?, fossils)
+ BLANK_ is an fact about fossils .
+
+ are 3 facts about(?, fossils)
+ BLANK_ are 3 facts about fossils .
+
+----------------------
+ is the most important thing about(?, fossils)
+ BLANK_ is the most important thing about fossils .
+
+----------------------
+ is the relative dating of(?, fossils)
+ BLANK_ is the relative dating of fossils .
+
+----------------------
+ is the site of(?, most fossils)
+ BLANK_ is the site of most fossils .
+
+----------------------
+ are the Pokemon in(?, the fossils)
+ BLANK_ are the Pokemon in the fossils in ruby .
+
+----------------------
+ is the antonym for(?, fossils)
+ BLANK_ is the antonym for fossils .
+
+----------------------
+ is the appearance of(?, a fossil)
+ BLANK_ is the appearance of a fossil .
+
+----------------------
+ are three requirements for(?, a fossil)
+ BLANK_ are three requirements for a fossil to be an index fossil .
+
+----------------------
+ are the presence of(?, fossils)
+ BLANK_ are the presence of fossils .
+
+----------------------
+ are the main types of(?, fossils)
+ BLANK_ are the main types of fossils and how do they form .
+
+ are the 3 main types of(?, fossils)
+ BLANK_ are the 3 main types of fossils .
+
+ are the 6 main types of(?, fossils)
+ BLANK_ are the 6 main types of fossils and describe them .
+
+----------------------
+ are Two types of(?, fossils)
+ BLANK_ are Two types of fossils that are not part of the organism .
+
+----------------------
+ are five different type of(?, fossils)
+ BLANK_ are five different type of fossils .
+
+----------------------
+ are some names of(?, fossils)
+ BLANK_ are some names of fossils .
+
+----------------------
+ are 4 materials that(?, fossils)
+ BLANK_ are 4 materials that fossils can be found in .
+
+----------------------
+ is resin like(?, a fossil)
+ BLANK_ is resin like a fossil .
+
+----------------------
+ is some interesting information on(?, fossils)
+ BLANK_ is some interesting information on fossils in alberta 's badlands .
+
+----------------------
+ is a conclusion for(?, fossils)
+ BLANK_ is a conclusion for fossils versus metamorphism .
+
+----------------------
+ are the 7 types of(?, fossils)
+ BLANK_ are the 7 types of fossils .
+
+----------------------
+ is the secret of(?, the fossils)
+ BLANK_ is the secret of the fossils in Pokemon Diamond .
+
+----------------------
+ is caprolites of(?, fossils)
+ BLANK_ is caprolites of fossils .
+
+----------------------
+ hunts(?, fossils)
+ BLANK_ hunts fossils .
+
+----------------------
+ is theory for(?, fossils)
+ BLANK_ is theory for fossils of tropical plants found on an island in the arctic ocean .
+
+----------------------
+ to change(?, into fossils)
+ BLANK_ allows dead organism to change into fossils .
+
+----------------------
+ casts(?, fossils)
+ BLANK_ is molds and casts fossils .
+
+ is cast(?, fossils)
+ BLANK_ is cast fossils .
+
+ are cast(?, fossils)
+ BLANK_ are cast fossils .
+
+----------------------
+ would most likely contain(?, fossil)
+ BLANK_ would most likely contain fossil .
+
+ would likely contain(?, fossils)
+ BLANK_ would likely contain fossils .
+
+ to contain(?, a fossil)
+ BLANK_ is most likely to contain a fossil .
+
+ may contain(?, fossil)
+ BLANK_ may contain fossil .
+
+ can contain(?, fossils)
+ BLANK_ can contain fossils .
+
+----------------------
+ most commonly hold(?, fossils)
+ BLANK_ most commonly hold fossils .
+
+----------------------
+ must occur(?, for a fossil)
+ BLANK_ must occur for a fossil to form .
+
+----------------------
+ would not contain(?, fossils)
+ BLANK_ would not contain fossils .
+
+ would contain(?, a fossil)
+ BLANK_ would contain a fossil .
+
+----------------------
+ digs up(?, fossils)
+ BLANK_ digs up fossils .
+
+----------------------
+ will MOST likely contain(?, a fossil)
+ BLANK_ will MOST likely contain a fossil .
+
+----------------------
+ was fascinated(?, by fossils)
+ BLANK_ was fascinated by fossils .
+
+----------------------
+ preserve(?, fossils)
+ BLANK_ preserve fossils .
+
+ would be preserved(?, as a fossil)
+ BLANK_ would be preserved as a fossil .
+
+ to be preserved(?, as a fossil)
+ BLANK_ is least likely to be preserved as a fossil .
+
+ could be preserved(?, as a fossil)
+ BLANK_ could be preserved as a fossil .
+
+----------------------
+ does not have(?, fossils)
+ BLANK_ does not have fossils .
+
+----------------------
+ most likely is not found(?, in a fossil)
+ BLANK_ most likely is not found in a fossil .
+
+ do found(?, a fossil)
+ BLANK_ do you found a fossil .
+
+ to be found inland(?, )
+ BLANK_ causes marine fossils to be found inland .
+
+----------------------
+ will most likely form(?, a fossil)
+ BLANK_ will most likely form a fossil .
+
+ can form(?, fossils)
+ BLANK_ can form fossils .
+
+ are forming(?, fossils)
+ BLANK_ are forming fossils .
+
+----------------------
+ rhymes(?, with fossil)
+ BLANK_ rhymes with fossil .
+
+----------------------
+ is carbonized(?, fossil)
+ BLANK_ is carbonized fossil .
+
+ are carbonized(?, fossils)
+ BLANK_ are carbonized fossils .
+
+----------------------
+ never has(?, fossils)
+ BLANK_ never has fossils .
+
+----------------------
+ was littered(?, with fossils)
+ BLANK_ was littered with fossils .
+
+----------------------
+ is freezing(?, fossils)
+ BLANK_ is freezing fossils .
+
+----------------------
+ would talk(?, about fossils)
+ BLANK_ would talk about fossils .
+
+----------------------
+ will not create(?, a fossil)
+ BLANK_ will not create a fossil .
+
+----------------------
+ is mostly associated(?, with fossils)
+ BLANK_ is mostly associated with fossils and why .
+
+----------------------
+ would be associated(?, with fossils)
+ BLANK_ would be associated with fossils .
+
+----------------------
+ exactly is(?, a fossil)
+ BLANK_ exactly is a fossil .
+
+----------------------
+ helps make(?, fossils)
+ BLANK_ helps make fossils .
+
+ to make(?, a fossil)
+ BLANK_ would be used to make a fossil .
+
+----------------------
+ to have(?, fossils)
+ BLANK_ tends to have fossils .
+
+----------------------
+ identifies(?, fossils)
+ BLANK_ finds and identifies fossils .
+
+----------------------
+ will not become(?, fossils)
+ BLANK_ is the most likely reason animals will not become fossils .
+
+ do n't become(?, fossils)
+ BLANK_ do n't become fossils .
+
+ do not become(?, fossils)
+ BLANK_ do not become fossils .
+
+ will become(?, fossils)
+ BLANK_ will become fossils .
+
+ could become(?, fossil)
+ BLANK_ could become fossil .
+
+----------------------
+ to leave(?, a fossil)
+ BLANK_ is least likely to leave a fossil .
+
+----------------------
+ can paleontologist infer(?, from fossils)
+ BLANK_ can paleontologist infer from fossils .
+
+----------------------
+ form finding(?, a fossil)
+ A scientist can learn BLANK_ form finding a fossil .
+
+----------------------
+ can rock(?, fossils)
+ BLANK_ can rock fossils and original remains show about earths past .
+
+----------------------
+ are petrified(?, fossils)
+ BLANK_ are petrified fossils .
+
+ were petrified(?, fossils)
+ BLANK_ were petrified fossils .
+
+----------------------
+ evolve(?, from fossils)
+ BLANK_ evolve from fossils .
+
+----------------------
+ could destroy(?, a fossil)
+ BLANK_ could destroy a fossil .
+
+----------------------
+ can be(?, a fossil)
+ BLANK_ can be a fossil .
+
+----------------------
+ are droping(?, fossils)
+ BLANK_ are droping fossils .
+
+----------------------
+ are commonly associated(?, with fossils)
+ BLANK_ are commonly associated with fossils .
+
+----------------------
+ constantly destroy(?, fossils)
+ BLANK_ constantly destroy fossils .
+
+----------------------
+ can be deduced(?, from a fossil)
+ BLANK_ can be deduced from a fossil .
+
+----------------------
+ fossil(?, )
+ BLANK_ makes a fossil an index fossil .
+
+----------------------
+ hunters(?, )
+ BLANK_ made the leakeys such successful fossil hunters .
+
+----------------------
+ surrounded(?, the fossil)
+ BLANK_ you do think surrounded the fossil .
+
+----------------------
+ does radiometric(?, )
+ BLANK_ does radiometric dating prove regarding macro evolution .
+
+----------------------
+ could have caused(?, )
+ BLANK_ could have caused the formation of a fossil .
+
+----------------------
+ must exist(?, )
+ BLANK_ must exist for most fossils to form .
+
+----------------------
+ dissolved(?, )
+ BLANK_ formed when dissolved minerals replace the remains of an organism and then harden to form rock .
+
+----------------------
+ to store(?, )
+ BLANK_ are most likely to store and allow for movement for oil .
+
+----------------------

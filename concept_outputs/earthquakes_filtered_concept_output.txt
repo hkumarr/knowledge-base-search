@@ -1,0 +1,2069 @@
+ predict(?, an earthquake)
+ BLANK_ help geologists predict an earthquake .
+
+ are the predictions before(?, an earthquake)
+ BLANK_ are the predictions before an earthquake based on .
+
+ are the predictions for(?, earthquakes)
+ BLANK_ are the predictions for earthquakes .
+
+ have done to predict(?, earthquakes)
+ BLANK_ scientists have done to try and predict earthquakes .
+
+ makes predicting so hard(?, earthquakes)
+ BLANK_ makes predicting earthquakes so hard .
+
+ to try to predict(?, earthquakes)
+ BLANK_ has been used to try to predict earthquakes .
+
+ do look for trying to predict(?, an earthquake)
+ BLANK_ do scientists look for when trying to predict an earthquake .
+
+----------------------
+ was named(?, before the earthquake)
+ BLANK_ san francico was named before the earthquake .
+
+ is the other name of(?, an earthquake)
+ BLANK_ is the other name of an earthquake .
+
+ was the name for(?, the earthquake)
+ BLANK_ was the name for the earthquake in japan 1995 .
+
+ is the scientific name for(?, the earthquake)
+ BLANK_ is the scientific name for the earthquake .
+
+ is the name above(?, an earthquake)
+ BLANK_ is the name above an earthquake .
+
+----------------------
+ study(?, earthquakes)
+ You do call BLANK_ people who study earthquakes .
+
+ do to study(?, earthquakes)
+ BLANK_ scientist do use to study earthquakes .
+
+ stud(?, )
+ You do call BLANK_ someone who stud dies earthquakes .
+
+----------------------
+ would be(Earth,?)Earth would be BLANK_ like if you did n't have plate tectonics .
+
+ would say(?, about an earthquake)
+ BLANK_ a Seismologist would say about an earthquake .
+
+ would split(?, the earth)
+ BLANK_ would split the earth .
+
+ would most likely survive(?, an earthquake)
+ BLANK_ would most likely survive an earthquake .
+
+ would be least damaged(?, by earthquakes)
+ BLANK_ would be least damaged by earthquakes .
+
+ would be triggered(?, by an earthquake)
+ BLANK_ would be triggered by an earthquake .
+
+ would NOT be caused(?, by an earthquake)
+ BLANK_ would NOT be caused by an earthquake .
+
+ are most damaged(?, by earthquakes)
+ BLANK_ are most damaged by earthquakes .
+
+ are triggered(?, by earthquakes)
+ BLANK_ are triggered by earthquakes originating beneath the ocean floor .
+
+ were caused(?, by the earthquake)
+ BLANK_ were caused by the earthquake .
+
+ call caused(?, by earthquakes)
+ BLANK_ are huge waves call caused by earthquakes .
+
+ might be caused(?, )
+ BLANK_ might be caused if drank and smoked and now 3 weeks pregnant .
+
+ is damaged(?, )
+ BLANK_ is damaged through an earthquake .
+
+----------------------
+ can start(Earthquakes,?)Earthquakes can start BLANK_ .
+
+----------------------
+ do bring(Earthquake,?)Earthquake do bring BLANK_ .
+
+----------------------
+ dies(?, earthquakes)
+ You do call BLANK_ someone who stud dies earthquakes .
+
+----------------------
+ can form(Earthquakes,?)Earthquakes can form BLANK_ .
+
+----------------------
+ do outline(Earthquakes,?)Earthquakes do outline BLANK_ .
+
+----------------------
+ do know(?, about earthquakes)
+ BLANK_ scientists do know about earthquakes .
+
+ was the first known written record of(?, an earthquake)
+ BLANK_ was the first known written record of an earthquake in the New Madrid Fault Zone .
+
+ is the record of(?, an earthquake)
+ BLANK_ is the record of an earthquake obtained from a seismic instrament .
+
+ is the knowledge of(?, the earth)
+ BLANK_ is the knowledge of the earth 's deep interior .
+
+ should know(?, )
+ BLANK_ are some safety tips a person should know if they are caught in an earthquake .
+
+ might be recorded(?, )
+ BLANK_ might be recorded with a seismograph .
+
+----------------------
+ liked(?, before the Earthquake)
+ BLANK_ was Haiti liked before the Earthquake .
+
+----------------------
+ to travel(?, through the Earth)
+ BLANK_ causes seismic waves to travel through the Earth .
+
+----------------------
+ indicates(?, earthquake)
+ BLANK_ is name of the equipment indicates earthquake .
+
+----------------------
+ are some facts about(?, earthquakes)
+ BLANK_ are some facts about earthquakes .
+
+ are facts about(?, earth)
+ BLANK_ are facts about earth 's crust .
+
+ is facts about(?, a earthquake)
+ BLANK_ is facts about a earthquake .
+
+ are 3 facts about(?, earthquakes)
+ BLANK_ are 3 facts about earthquakes .
+
+ are 5 facts about(?, Earthquakes)
+ BLANK_ are 5 facts about Earthquakes .
+
+----------------------
+ are the main features of(?, a earthquake)
+ BLANK_ are the main features of a earthquake .
+
+ are the features of(?, an earthquake)
+ BLANK_ are the features of an earthquake .
+
+ are five features of(?, the earth)
+ BLANK_ are five features of the earth 's surface that are formed by plate tectonic movement .
+
+ are the physical features of(?, the Earth)
+ BLANK_ are the physical features of the Earth that are brought about by the movement of plates .
+
+----------------------
+ is the cause of(?, earthquakes)
+ BLANK_ is the cause of earthquakes in Southern California .
+
+ is the direct cause of(?, earthquake)
+ BLANK_ is the direct cause of earthquake .
+
+ are the main causes for(?, earthquake)
+ BLANK_ are the main causes for earthquake .
+
+ is the most common cause of(?, earthquakes)
+ BLANK_ is the most common cause of earthquakes .
+
+ are the causes of(?, earthquake)
+ BLANK_ are the causes of earthquake in the Philippines .
+
+ are natural causes of(?, an earthquake)
+ BLANK_ are natural causes of an earthquake .
+
+ is the main cause of(?, earthquakes)
+ BLANK_ is the main cause of earthquakes .
+
+ are 2 causes of(?, earthquake)
+ BLANK_ are 2 causes of earthquake .
+
+ is one possible cause of(?, an earthquake)
+ BLANK_ is one possible cause of an earthquake .
+
+ is a large wave cause by(?, earthquakes)
+ BLANK_ is a large wave cause by earthquakes on the ocean floor .
+
+ is the cause for(?, earthquakes)
+ BLANK_ is the cause for earthquakes in Japan .
+
+ are two main causes of(?, earthquakes)
+ BLANK_ are two main causes of earthquakes .
+
+ is the general cause of(?, an earthquake)
+ BLANK_ is the general cause of an earthquake .
+
+ is one of(?, earth)
+ BLANK_ is one of earth 's most famous transform boundaries .
+
+ is the common cause of(?, earthquake)
+ BLANK_ is the common cause of earthquake .
+
+ are the major causes of(?, earthquake)
+ BLANK_ are the major causes of earthquake .
+
+ is the primarily cause of(?, earthquakes)
+ BLANK_ is the primarily cause of earthquakes in California .
+
+ are the main causes of(?, earthquakes)
+ BLANK_ are the main causes of earthquakes that occur in the US .
+
+ are minor causes of(?, a Earthquake)
+ BLANK_ are minor causes of a Earthquake .
+
+ are some causes for(?, earthquakes)
+ BLANK_ are some causes for earthquakes .
+
+ is the exact cause of(?, earthquakes)
+ BLANK_ is the exact cause of earthquakes .
+
+ is a cause of(?, an earthquake)
+ BLANK_ is a cause of an earthquake .
+
+ are the physical causes of(?, an earthquake)
+ BLANK_ are the physical causes of an earthquake .
+
+ are the several minor causes of(?, earthquakes)
+ BLANK_ are the several minor causes of earthquakes .
+
+ is tyhe cause of(?, earthquakes)
+ BLANK_ is tyhe cause of earthquakes on earth 's surface .
+
+ is a cause from(?, a earthquake)
+ BLANK_ is a cause from a earthquake .
+
+ may cause(?, an earthquake)
+ BLANK_ may cause an earthquake .
+
+ directly causes(?, earthquakes)
+ BLANK_ directly causes earthquakes .
+
+ really causes(?, earthquakes)
+ BLANK_ really causes earthquakes .
+
+ does n't cause(?, an earthquake)
+ BLANK_ does n't cause an earthquake .
+
+ do n't have(?, earthquakes)
+ BLANK_ do n't have earthquakes .
+
+ do n't get(?, earthquakes)
+ BLANK_ do n't get earthquakes .
+
+ should n't do(?, during an earthquake)
+ BLANK_ should n't you do during an earthquake .
+
+ ca n't do(?, during an earthquake)
+ BLANK_ ca n't you do during an earthquake .
+
+ do n't collapse(?, when there is an earthquake)
+ BLANK_ do n't all buildings collapse when there is an earthquake .
+
+ causes faulting faulting(?, )
+ BLANK_ causes faulting in the crust of the Earth .
+
+----------------------
+ are the epicentre and hypocentre of(?, an earthquake)
+ BLANK_ are the epicentre and hypocentre of an earthquake .
+
+ is the epicentre in(?, a earthquake)
+ BLANK_ is the epicentre in a earthquake .
+
+----------------------
+ is the rating scale for(?, earthquakes)
+ BLANK_ is the rating scale for earthquakes .
+
+----------------------
+ is the spot or source of(?, the earthquake)
+ BLANK_ is the spot or source of the earthquake within the earth .
+
+ is the source of(?, a earthquake)
+ BLANK_ is the source of a earthquake .
+
+ is the main source of(?, earthquakes)
+ BLANK_ is the main source of earthquakes .
+
+----------------------
+ are three ways that(?, earthquakes)
+ BLANK_ are three ways that earthquakes can cause damage .
+
+ are the ways that(?, earthquakes)
+ BLANK_ are the ways that earthquakes can cause damage .
+
+ are four ways that(?, earthquakes)
+ BLANK_ are four ways that earthquakes cause damage .
+
+----------------------
+ is compression in(?, earthquake)
+ BLANK_ is compression in earthquake .
+
+ to compress(?, )
+ BLANK_ causes the ground to compress and expand .
+
+----------------------
+ is the effect of(?, earthquake)
+ BLANK_ is the effect of earthquake to people and environment .
+
+ are the effects of(?, earthquakes)
+ BLANK_ are the effects of earthquakes .
+
+ were the long term and short term effects of(?, the earthquake)
+ BLANK_ were the long term and short term effects of the earthquake in Tangshan china .
+
+ are the primary effects of(?, Earthquake)
+ BLANK_ are the primary effects of Earthquake in Indonesia .
+
+ are the primary and secondary effects of(?, an earthquake)
+ BLANK_ are the primary and secondary effects of an earthquake .
+
+ are the short term effects of(?, earthquakes)
+ BLANK_ are the short term effects of earthquakes .
+
+ are the constuctive and distructive effects of(?, earthquakes)
+ BLANK_ are the constuctive and distructive effects of earthquakes .
+
+ are the direct and indirect effects of(?, earthquake)
+ BLANK_ are the direct and indirect effects of earthquake .
+
+ is the cost and effect of(?, the earthquake)
+ BLANK_ is the cost and effect of the earthquake .
+
+ are damaging effects of(?, an earthquake)
+ BLANK_ are damaging effects of an earthquake .
+
+ are some negative effects of(?, earthquakes)
+ BLANK_ are some negative effects of earthquakes .
+
+ are the immediate effects of(?, an earthquake)
+ BLANK_ are the immediate effects of an earthquake .
+
+ are some positive effects of(?, an earthquake)
+ BLANK_ are some positive effects of an earthquake .
+
+ were the effects of(?, the earthquakes)
+ BLANK_ were the effects of the earthquakes in Haiti .
+
+ are some effects in(?, the earthquake)
+ BLANK_ are some effects in the earthquake in Chile .
+
+ are some effect from(?, earthquakes)
+ BLANK_ are some effect from earthquakes .
+
+ are the economic effects of(?, an earthquake)
+ BLANK_ are the economic effects of an earthquake .
+
+ is a positive effect of(?, an earthquake)
+ BLANK_ is a positive effect of an earthquake .
+
+ is a secondary effect for(?, an earthquake)
+ BLANK_ is a secondary effect for an earthquake .
+
+ are the damaging effects of(?, an earthquake)
+ BLANK_ are the damaging effects of an earthquake .
+
+ are the long term effects of(?, earthquakes)
+ BLANK_ are the long term effects of earthquakes .
+
+ is a primary effect of(?, an earthquake)
+ BLANK_ is a primary effect of an earthquake .
+
+ are some destructive effects of(?, earthquakes)
+ BLANK_ are some destructive effects of earthquakes .
+
+ were the main effects of(?, the earthquake)
+ BLANK_ were the main effects of the earthquake on people and the environment in the Indonesian tsunami .
+
+ is the effects of(?, an earthquake)
+ BLANK_ is the effects of an earthquake .
+
+ are the bad effects of(?, earthquake)
+ BLANK_ are the bad effects of earthquake .
+
+ are some natural effects of(?, earthquakes)
+ BLANK_ are some natural effects of earthquakes .
+
+ are the effect of(?, an earthquake)
+ BLANK_ are the effect of an earthquake on land and on sea .
+
+ are direct damaging effects of(?, earthquakes)
+ BLANK_ are direct damaging effects of earthquakes .
+
+ are the different effects of(?, earthquakes)
+ BLANK_ are the different effects of earthquakes .
+
+ are some short term effects with(?, earthquakes)
+ BLANK_ are some short term effects with earthquakes .
+
+ are the good effects of(?, Earthquake)
+ BLANK_ are the good effects of Earthquake .
+
+ is a possible effect of(?, earthquakes)
+ BLANK_ is a possible effect of earthquakes that occur on the ocean floor .
+
+ is the other term of(?, earthquake)
+ BLANK_ is the other term of earthquake .
+
+ are the likely effects of(?, an earthquake)
+ BLANK_ are the likely effects of an earthquake in San Francisco .
+
+ are the negative environmental effects of(?, earthquakes)
+ BLANK_ are the negative environmental effects of earthquakes .
+
+ are the beneficial and harmful effects of(?, earthquakes)
+ BLANK_ are the beneficial and harmful effects of earthquakes .
+
+ are the human effects on(?, earthquakes)
+ BLANK_ are the human effects on earthquakes .
+
+ are the natural effects of(?, earthquakes)
+ BLANK_ are the natural effects of earthquakes .
+
+ are the important effects of(?, earthquakes)
+ BLANK_ are the important effects of earthquakes .
+
+ were the short term effects of(?, the earthquake)
+ BLANK_ were the short term effects of the earthquake in Tangshan china .
+
+ are the harmful effects of(?, earthquake)
+ BLANK_ are the harmful effects of earthquake .
+
+ are the positive and negative effects of(?, earthquakes)
+ BLANK_ are the positive and negative effects of earthquakes .
+
+ are the beneficial effect of(?, earthquake)
+ BLANK_ are the beneficial effect of earthquake .
+
+----------------------
+ are some early warning signs of(?, earthquakes)
+ BLANK_ are some early warning signs of earthquakes .
+
+ are the warning signs of(?, an earthquake)
+ BLANK_ are the warning signs of an earthquake .
+
+ are the signs that(?, an earthquake)
+ BLANK_ are the signs that an earthquake might happen quite soon .
+
+ are some warning signs for(?, an earthquake)
+ BLANK_ are some warning signs for an earthquake .
+
+ are the signs for(?, a earthquake)
+ BLANK_ are the signs for a earthquake .
+
+ are signs of(?, earthquakes)
+ BLANK_ are signs of earthquakes .
+
+ are the signs of(?, an earthquake)
+ BLANK_ are the signs of an earthquake .
+
+ is warning(?, )
+ BLANK_ is warning or prediction .
+
+----------------------
+ is the temperature for(?, earth)
+ BLANK_ is the temperature for earth 's inner core in Celsius .
+
+ is the temperature of(?, the earth)
+ BLANK_ is the temperature of the earth 's mantle .
+
+----------------------
+ is the point on(?, the earth)
+ BLANK_ is the point on the earth 's surface directly above an earthquake 's focus .
+
+ is the point below(?, earth)
+ BLANK_ is the point below earth 's surface where an earthquake begins .
+
+ is the strongest point of(?, the earthquake)
+ BLANK_ is the strongest point of the earthquake .
+
+ is the origin point of(?, earthquakes)
+ BLANK_ is the origin point of earthquakes .
+
+----------------------
+ is the Average number of(?, earthquakes)
+ BLANK_ is the Average number of earthquakes in san Diego per year .
+
+----------------------
+ is a record of(?, an earthquake)
+ BLANK_ is a record of an earthquake 's seismic waves on paper .
+
+----------------------
+ are the primary impacts of(?, an earthquake)
+ BLANK_ are the primary impacts of an earthquake .
+
+ is the impact of(?, an earthquake)
+ BLANK_ is the impact of an earthquake on the Earth 's atmosphere .
+
+ are the impacts of(?, earthquakes)
+ BLANK_ are the impacts of earthquakes .
+
+ are the secondary impacts of(?, an earthquake)
+ BLANK_ are the secondary impacts of an earthquake .
+
+ are the positive impacts of(?, earthquakes)
+ BLANK_ are the positive impacts of earthquakes .
+
+ was the impact of(?, the earthquake)
+ BLANK_ was the impact of the earthquake on the residents of Christchurch .
+
+ are other impacts on(?, earthquakes)
+ BLANK_ are other impacts on earthquakes .
+
+----------------------
+ is anagram for(?, earthquake)
+ BLANK_ is anagram for earthquake .
+
+----------------------
+ is the average number of(?, earthquakes)
+ BLANK_ is the average number of earthquakes in Japan per year .
+
+----------------------
+ is the first shock wave of(?, a earthquake)
+ BLANK_ is the first shock wave of a earthquake .
+
+----------------------
+ is the focus of(?, an earthquake)
+ BLANK_ is the focus of an earthquake .
+
+ is the focus and epicenter of(?, an earthquake)
+ BLANK_ is the focus and epicenter of an earthquake .
+
+ is the the focus and epicenter of(?, an earthquake)
+ BLANK_ is the the focus and epicenter of an earthquake .
+
+ is the focus in(?, an earthquake)
+ BLANK_ is the focus in an earthquake .
+
+ is focus in(?, earthquake)
+ BLANK_ is focus in earthquake .
+
+ is an epicenter in(?, an earthquake)
+ BLANK_ is an epicenter in an earthquake .
+
+ is the epicenter in(?, the earthquake)
+ BLANK_ is the epicenter in the earthquake .
+
+ is a focus of(?, an earthquake)
+ BLANK_ is a focus of an earthquake .
+
+----------------------
+ are the prevention techniques for(?, earthquake)
+ BLANK_ are the prevention techniques for earthquake .
+
+----------------------
+ are the disadvantages of(?, earthquake)
+ BLANK_ are the disadvantages of earthquake .
+
+ are disadvantages of(?, an earthquake)
+ BLANK_ are disadvantages of an earthquake .
+
+ are the advantages ans disadvantages of(?, earthquakes)
+ BLANK_ are the advantages ans disadvantages of earthquakes .
+
+ are advantages and disadvantages of(?, earthquake)
+ BLANK_ are advantages and disadvantages of earthquake .
+
+----------------------
+ is the average resonant frequency of(?, an earthquake)
+ BLANK_ is the average resonant frequency of an earthquake .
+
+----------------------
+ are the advantages of(?, a earthquake)
+ BLANK_ are the advantages of a earthquake .
+
+----------------------
+ are cracks in(?, the earth)
+ BLANK_ are cracks in the earth 's crust .
+
+ are deep cracks in(?, the earth)
+ BLANK_ are deep cracks in the earth .
+
+----------------------
+ is the epicenter of(?, an earthquake)
+ BLANK_ is the epicenter of an earthquake .
+
+----------------------
+ are the main parts of(?, an earthquake)
+ BLANK_ are the main parts of an earthquake .
+
+ are the two main parts of(?, an earthquake)
+ BLANK_ are the two main parts of an earthquake .
+
+----------------------
+ was the Roman god of(?, earthquakes)
+ BLANK_ was the Roman god of earthquakes .
+
+----------------------
+ are the prevention measures for(?, earthquake)
+ BLANK_ are the prevention measures for earthquake .
+
+----------------------
+ is the fault scrap in(?, an earthquake)
+ BLANK_ is the fault scrap in an earthquake .
+
+ is the fault of(?, an earthquake)
+ BLANK_ is the fault of an earthquake .
+
+ is a reverse fault type of(?, earthquake)
+ BLANK_ is a reverse fault type of earthquake .
+
+ is the most common fault of(?, an earthquake)
+ BLANK_ is the most common fault of an earthquake .
+
+ faulting(?, in earthquakes)
+ BLANK_ faulting in earthquakes .
+
+----------------------
+ are the different kinds of(?, earthquakes)
+ BLANK_ are the different kinds of earthquakes .
+
+----------------------
+ are the structural and non structural mitigation for(?, earthquake)
+ BLANK_ are the structural and non structural mitigation for earthquake .
+
+----------------------
+ are some benefits of(?, earthquakes)
+ BLANK_ are some benefits of earthquakes .
+
+ are the benefits of(?, an earthquakes)
+ BLANK_ are the benefits of an earthquakes .
+
+----------------------
+ is safe construction practices during(?, earthquake)
+ BLANK_ is safe construction practices during earthquake .
+
+----------------------
+ is seismograph in(?, an earthquake)
+ BLANK_ is seismograph in an earthquake .
+
+----------------------
+ is the most common month for(?, earthquakes)
+ BLANK_ is the most common month for earthquakes .
+
+----------------------
+ is the hypocenter of(?, an earthquake)
+ BLANK_ is the hypocenter of an earthquake .
+
+----------------------
+ is the top layer of(?, the earth)
+ BLANK_ is the top layer of the earth 's surface .
+
+----------------------
+ are the folk beliefs of(?, earthquake)
+ BLANK_ are the folk beliefs of earthquake .
+
+----------------------
+ is the mantle of(?, the earth)
+ BLANK_ is the mantle of the earth .
+
+ is the upper mantle of(?, the earth)
+ BLANK_ is the upper mantle of the earth made of .
+
+----------------------
+ is the center of(?, an earthquake)
+ BLANK_ is the center of an earthquake .
+
+ is the epic center of(?, an earthquake)
+ BLANK_ is the epic center of an earthquake .
+
+----------------------
+ are the names of(?, earthquakes)
+ BLANK_ are the names of earthquakes .
+
+ are other names of(?, earthquakes)
+ BLANK_ are other names of earthquakes .
+
+----------------------
+ is the most widely used measurement for(?, earthquakes)
+ BLANK_ is the most widely used measurement for earthquakes .
+
+----------------------
+ are the control measures for(?, earthquakes)
+ BLANK_ are the control measures for earthquakes .
+
+----------------------
+ is a good thing about(?, earthquake)
+ BLANK_ is a good thing about earthquake .
+
+----------------------
+ is the etymology of(?, earthquake)
+ BLANK_ is the etymology of earthquake .
+
+----------------------
+ helps(?, after earthquakes)
+ BLANK_ helps after earthquakes .
+
+----------------------
+ is the temperture of(?, earth)
+ BLANK_ is the temperture of earth 's inner core .
+
+----------------------
+ are the 3 types of(?, earthquakes)
+ BLANK_ are the 3 types of earthquakes .
+
+ are types of(?, earthquakes)
+ BLANK_ are types of earthquakes .
+
+ are 3 different types of(?, earthquakes)
+ BLANK_ are 3 different types of earthquakes .
+
+----------------------
+ is the first indication of(?, an earthquake)
+ BLANK_ is the first indication of an earthquake .
+
+----------------------
+ was the damage of(?, the earthquake)
+ BLANK_ was the damage of the earthquake in China in 1927 .
+
+ are the most damaged by(?, earthquakes)
+ BLANK_ are the most damaged by earthquakes .
+
+ are the damages of(?, earthquake)
+ BLANK_ are the damages of earthquake with a magnitude of 5 .
+
+ was the damage that(?, the earthquake)
+ BLANK_ was the damage that the earthquake in Haiti on January 12 2010 .
+
+ is the least damage in(?, a earthquake)
+ BLANK_ is the least damage in a earthquake .
+
+----------------------
+ is geographical processes for(?, Earthquakes)
+ BLANK_ is geographical processes for Earthquakes .
+
+ are the geographical processes of(?, earthquakes)
+ BLANK_ are the geographical processes of earthquakes .
+
+----------------------
+ are the three different types of(?, earthquake)
+ BLANK_ are the three different types of earthquake .
+
+ are the different type of(?, a earthquake)
+ BLANK_ are the different type of a earthquake .
+
+----------------------
+ is the magnitude scale for(?, earthquakes)
+ BLANK_ is the magnitude scale for earthquakes named after .
+
+ was the magnitude for(?, the earthquake)
+ BLANK_ was the magnitude for the earthquake in Virginia in the summer .
+
+ is the highest magnitude of(?, an earthquake)
+ BLANK_ is the highest magnitude of an earthquake .
+
+ is the highest ranked magnitude of(?, an earthquake)
+ BLANK_ is the highest ranked magnitude of an earthquake in the US .
+
+ was the magnitude and intensity of(?, the earthquake)
+ BLANK_ was the magnitude and intensity of the earthquake near Concepcion in Chile on the 27th of February 2010 .
+
+ was the strongest magnitude of(?, an earthquake)
+ BLANK_ was the strongest magnitude of an earthquake .
+
+ does an increase of magnitude 1 on Richter scale implies(?, )
+ BLANK_ does an increase of magnitude 1 on Richter scale implies in case of earthquakes .
+
+----------------------
+ are some safety measures during(?, an earthquake)
+ BLANK_ are some safety measures during an earthquake .
+
+ are some safety measures for(?, an earthquake)
+ BLANK_ are some safety measures for an earthquake .
+
+----------------------
+ are the preventions of(?, earthquake)
+ BLANK_ are the preventions of earthquake .
+
+----------------------
+ are the two kids of(?, earthquakes)
+ BLANK_ are the two kids of earthquakes .
+
+----------------------
+ are earthquake after(?, earthquake)
+ BLANK_ are earthquake after earthquake .
+
+ is the biggest earthquake since(?, the earth)
+ BLANK_ is the biggest earthquake since the earth began .
+
+ was the strongest earthquake on(?, earth)
+ BLANK_ was the strongest earthquake on earth .
+
+ was the most dangerous earthquake on(?, Earth)
+ BLANK_ was the most dangerous earthquake on Earth .
+
+----------------------
+ are possible accidents or injuries in(?, earthquake)
+ BLANK_ are possible accidents or injuries in earthquake .
+
+ are injuries by(?, earthquakes)
+ BLANK_ are injuries by earthquakes mostly caused by .
+
+----------------------
+ Has(?, the most earthquakes)
+ BLANK_ Has the most earthquakes .
+
+----------------------
+ is the state with(?, most earthquakes)
+ BLANK_ is the state with most earthquakes .
+
+ is the leading state for(?, earthquakes)
+ BLANK_ is the leading state for earthquakes .
+
+----------------------
+ are the major dangers of(?, earthquake)
+ BLANK_ are the major dangers of earthquake .
+
+ are some dangers of(?, an earthquake)
+ BLANK_ are some dangers of an earthquake .
+
+----------------------
+ is liquefaction in(?, earthquakes)
+ BLANK_ is liquefaction in earthquakes .
+
+----------------------
+ is the extent of(?, earthquakes)
+ BLANK_ is the extent of earthquakes .
+
+----------------------
+ are the results of(?, an earthquake)
+ BLANK_ are the results of an earthquake .
+
+ were the results of(?, an earthquake)
+ BLANK_ were the results of an earthquake in Michigan .
+
+ can result(?, from an earthquake)
+ BLANK_ can result from an earthquake .
+
+----------------------
+ are the steps of(?, an earthquake)
+ BLANK_ are the steps of an earthquake .
+
+----------------------
+ are the risk factors of(?, an earthquake)
+ BLANK_ are the risk factors of an earthquake .
+
+----------------------
+ is the average death rate of(?, earthquakes)
+ BLANK_ is the average death rate of earthquakes .
+
+----------------------
+ is an amplitude of(?, an earthquake)
+ BLANK_ is an amplitude of an earthquake .
+
+----------------------
+ is the focal depth of(?, an earthquake)
+ BLANK_ is the focal depth of an earthquake .
+
+----------------------
+ are the Economic Impacts of(?, Earthquakes)
+ BLANK_ are the Economic Impacts of Earthquakes .
+
+----------------------
+ was the biggest magnitude of(?, an earthquake)
+ BLANK_ was the biggest magnitude of an earthquake ever .
+
+----------------------
+ are the outcomes of(?, an earthquake)
+ BLANK_ are the outcomes of an earthquake .
+
+ is the outcome of(?, an earthquake)
+ BLANK_ is the outcome of an earthquake .
+
+----------------------
+ are the studies of(?, earthquakes)
+ BLANK_ are the studies of earthquakes and seismic waves .
+
+----------------------
+ is the core of(?, the earth)
+ BLANK_ is the core of the earth and how does it function .
+
+----------------------
+ are the main reasons of(?, an earthquake)
+ BLANK_ are the main reasons of an earthquake .
+
+ is the reason of(?, earthquake)
+ BLANK_ is the reason of earthquake .
+
+ are the reasons of(?, earthquakes)
+ BLANK_ are the reasons of earthquakes in the northern and northwestern highlands of Pakistan .
+
+----------------------
+ are 2 most dangerous things about(?, earthquakes)
+ BLANK_ are 2 most dangerous things about earthquakes .
+
+----------------------
+ are the top 5 for(?, the most earthquakes)
+ BLANK_ are the top 5 for the most earthquakes .
+
+----------------------
+ are the plates of(?, the earth)
+ BLANK_ are the plates of the earth are made up of .
+
+ are the 10 major tectonics plates of(?, the earth)
+ BLANK_ are the 10 major tectonics plates of the earth .
+
+ is the tectonic plates in(?, earth)
+ BLANK_ is the tectonic plates in earth 's crust .
+
+----------------------
+ are the mitigation measures for(?, earthquake)
+ BLANK_ are the mitigation measures for earthquake in India .
+
+----------------------
+ are the casualties of(?, earthquake)
+ BLANK_ are the casualties of earthquake .
+
+----------------------
+ is the regions of(?, a earthquake)
+ BLANK_ is the regions of a earthquake .
+
+----------------------
+ is a dangerous level on(?, earthquake)
+ BLANK_ is a dangerous level on earthquake .
+
+----------------------
+ is a trench in(?, an earthquake)
+ BLANK_ is a trench in an earthquake .
+
+----------------------
+ are three hazards with(?, earthquakes)
+ BLANK_ are three hazards with earthquakes .
+
+ is a hazard of(?, earthquakes)
+ BLANK_ is a hazard of earthquakes .
+
+ are some hazards from(?, earthquakes)
+ BLANK_ are some hazards from earthquakes .
+
+ are the direct hazards of(?, earthquakes)
+ BLANK_ are the direct hazards of earthquakes .
+
+----------------------
+ is the highest landform on(?, earth)
+ BLANK_ is the highest landform on earth .
+
+----------------------
+ are the consequences of(?, an earthquake)
+ BLANK_ are the consequences of an earthquake .
+
+ are 4 consequences of(?, an earthquake)
+ BLANK_ are 4 consequences of an earthquake .
+
+----------------------
+ are waves in(?, earthquakes)
+ BLANK_ are waves in earthquakes that can travel through solids liquids and gases .
+
+ are the waves from(?, an earthquake)
+ BLANK_ are the waves from an earthquake known as .
+
+ are the fastest waves from(?, an earthquake)
+ BLANK_ are the fastest waves from an earthquake .
+
+ are the most powerful shock waves from(?, and earthquake)
+ BLANK_ are the most powerful shock waves from and earthquake .
+
+ is the most powerful waves from(?, an earthquake)
+ BLANK_ is the most powerful waves from an earthquake .
+
+----------------------
+ are the list of(?, earthquake)
+ BLANK_ are the list of earthquake happened in the Philippines .
+
+----------------------
+ are some Survival or safety tips during(?, earthquakes)
+ BLANK_ are some Survival or safety tips during earthquakes .
+
+ are some safety tips for(?, earthquakes)
+ BLANK_ are some safety tips for earthquakes .
+
+ are safety tips for(?, earthquakes)
+ BLANK_ are safety tips for earthquakes .
+
+----------------------
+ was the location of(?, the Earthquake)
+ BLANK_ was the location of the Earthquake with the highest magnitude .
+
+ are some locations of(?, earthquakes)
+ BLANK_ are some locations of earthquakes .
+
+ is The original location of(?, an earthquake)
+ BLANK_ is The original location of an earthquake is also known as the .
+
+----------------------
+ was the death toll of(?, the earthquake)
+ BLANK_ was the death toll of the earthquake in Samoa .
+
+ is the current death toll from(?, the earthquake)
+ BLANK_ is the current death toll from the earthquake in China .
+
+ is the Largest death toll from(?, an earthquake)
+ BLANK_ is the Largest death toll from an earthquake .
+
+----------------------
+ is the the main force behind(?, earthquake)
+ BLANK_ is the the main force behind earthquake and volcanic activity .
+
+----------------------
+ are the harms of(?, earthquakes)
+ BLANK_ are the harms of earthquakes .
+
+----------------------
+ is the longest crack in(?, the earth)
+ BLANK_ is the longest crack in the earth 's crust .
+
+----------------------
+ is the hypothesis of(?, an earthquake)
+ BLANK_ is the hypothesis of an earthquake .
+
+----------------------
+ is the shaking of(?, the earth)
+ BLANK_ is the shaking of the earth .
+
+ is the sudden shaking of(?, the earth)
+ BLANK_ is the sudden shaking of the earth that often causes a lot of damage .
+
+ is the violent shaking of(?, an earthquake)
+ BLANK_ is the violent shaking of an earthquake that turns soft soil into liquid mud .
+
+ shaking first(?, in an earthquake)
+ BLANK_ would feel the ground shaking first in an earthquake .
+
+ is a shaking of(?, Earth)
+ BLANK_ is a shaking of Earth 's crust caused by rock slabs or tectonic plates moving against each other .
+
+ is shaking(?, in a earthquake)
+ BLANK_ is shaking in a earthquake .
+
+----------------------
+ is the scientific explanation of(?, earthquakes)
+ BLANK_ is the scientific explanation of earthquakes .
+
+ is the scientific explanation for(?, earthquakes)
+ BLANK_ is the scientific explanation for earthquakes in Bali .
+
+----------------------
+ is the antonyms of(?, earthquake)
+ BLANK_ is the antonyms of earthquake .
+
+ is the antonym of(?, quake)
+ BLANK_ is the antonym of quake .
+
+----------------------
+ is the measurement sign for(?, an earthquakes)
+ BLANK_ is the measurement sign for an earthquakes .
+
+----------------------
+ is the primary wave of(?, an earthquake)
+ BLANK_ is the primary wave of an earthquake .
+
+----------------------
+ is the mechanical layer of(?, earth)
+ BLANK_ is the mechanical layer of earth of earth that contains the tectonic plates .
+
+----------------------
+ are the two spheres of(?, the earth)
+ BLANK_ are the two spheres of the earth that effect both volcanoes and earthquakes .
+
+----------------------
+ is a distribution of(?, earthquakes)
+ BLANK_ is a distribution of earthquakes .
+
+----------------------
+ is it about(?, the earthquake)
+ BLANK_ is it about the earthquake that damages the buildings .
+
+----------------------
+ is the maximum intensity of(?, earthquake)
+ BLANK_ is the maximum intensity of earthquake in the whole world .
+
+ is the intensity of(?, an earthquake)
+ BLANK_ is the intensity of an earthquake determined by .
+
+----------------------
+ is the Magnitude of(?, an earthquake)
+ BLANK_ is the Magnitude of an earthquake and how big was the earthquake in Japan .
+
+ was the Magnitude of(?, earthquake)
+ BLANK_ was the Magnitude of earthquake in Haiti .
+
+----------------------
+ was the highest magnitude of(?, the earthquake)
+ BLANK_ was the highest magnitude of the earthquake that hit Japan .
+
+----------------------
+ is the warning system for(?, earthquake)
+ BLANK_ is the warning system for earthquake .
+
+----------------------
+ is the worst magnitude from(?, an earthquake)
+ BLANK_ is the worst magnitude from an earthquake .
+
+----------------------
+ is the rocky layer of(?, earth)
+ BLANK_ is the rocky layer of earth below the crust .
+
+----------------------
+ is the tendency of(?, earthquake)
+ BLANK_ is the tendency of earthquake .
+
+----------------------
+ is the Richter scale of(?, the earthquake)
+ BLANK_ is the Richter scale of the earthquake in Haiti .
+
+----------------------
+ is something that(?, an earthquake)
+ BLANK_ is something that an earthquake does .
+
+----------------------
+ is the human population on(?, earth)
+ BLANK_ is the human population on earth .
+
+----------------------
+ is the Epicurean of(?, an earthquakes)
+ BLANK_ is the Epicurean of an earthquakes .
+
+----------------------
+ are the two major surface of(?, the earth)
+ BLANK_ are the two major surface of the earth .
+
+----------------------
+ are the main characteristics of(?, earthquakes)
+ BLANK_ are the main characteristics of earthquakes .
+
+----------------------
+ are the measurements of(?, earthquakes)
+ BLANK_ are the measurements of earthquakes .
+
+----------------------
+ is the rigid layer of(?, earth)
+ BLANK_ is the rigid layer of earth 's surface made up of the crust and a part of the upper mantle .
+
+----------------------
+ is the significance of(?, an earthquake)
+ BLANK_ is the significance of an earthquake 's depth for a given magnitude .
+
+----------------------
+ are the 2 kinds of(?, earthquake)
+ BLANK_ is are the 2 kinds of earthquake .
+
+ are the 2 kind of(?, earthquakes)
+ BLANK_ are the 2 kind of earthquakes .
+
+----------------------
+ are the risks of(?, earthquakes)
+ BLANK_ are the risks of earthquakes .
+
+----------------------
+ is tension in(?, an earthquake)
+ BLANK_ is tension in an earthquake .
+
+ is tension force in(?, an earthquake)
+ BLANK_ is tension force in an earthquake .
+
+----------------------
+ is the place on(?, earth)
+ BLANK_ is the place on earth 's crust directly above the place where and earthquake starts .
+
+ is a place inside(?, the earth)
+ BLANK_ is a place inside the earth where the speed of seismic waves increase sharply .
+
+ are the places of(?, an earthquake)
+ BLANK_ are the places of an earthquake .
+
+ are the place with(?, no earthquakes)
+ BLANK_ are the place with no earthquakes .
+
+ is the place within(?, the earth)
+ BLANK_ is the place within the earth where the speed of seismic waves increases sharply .
+
+----------------------
+ is the foreshock of(?, an earthquake)
+ BLANK_ is the foreshock of an earthquake .
+
+----------------------
+ was the length of(?, the earthquake)
+ BLANK_ was the length of the earthquake in 1927 in china .
+
+----------------------
+ are the best defenses against(?, an earthquake)
+ BLANK_ are the best defenses against an earthquake .
+
+ is the def for(?, earthquake)
+ BLANK_ is the def for earthquake .
+
+----------------------
+ are the different magnitudes of(?, earthquake)
+ BLANK_ are the different magnitudes of earthquake .
+
+----------------------
+ is the science behind(?, earthquakes)
+ BLANK_ is the science behind earthquakes .
+
+ is the science of(?, an earthquake)
+ BLANK_ is the science of an earthquake .
+
+----------------------
+ were the costs of(?, the earthquake)
+ BLANK_ were the costs of the earthquake in Haiti .
+
+----------------------
+ is the biggest dangers during(?, earthquakes)
+ BLANK_ is the biggest dangers during earthquakes .
+
+----------------------
+ is stress of(?, an earthquake)
+ BLANK_ is stress of an earthquake .
+
+ was the stress of(?, the earthquake)
+ BLANK_ was the stress of the earthquake in san fransico 1906 .
+
+----------------------
+ are four Ways that(?, an earthquake)
+ BLANK_ are four Ways that an earthquake can change the physical environment .
+
+----------------------
+ was the worst decade for(?, earthquakes)
+ BLANK_ was the worst decade for earthquakes .
+
+----------------------
+ are the common diseases after(?, an earthquake)
+ BLANK_ are the common diseases after an earthquake .
+
+----------------------
+ is a metaphor for(?, earthquake)
+ BLANK_ is a metaphor for earthquake .
+
+----------------------
+ are the solutions for(?, earthquake)
+ BLANK_ are the solutions for earthquake .
+
+ are the solution of(?, earthquake)
+ BLANK_ are the solution of earthquake .
+
+----------------------
+ is two kinds of(?, earthquake)
+ BLANK_ is two kinds of earthquake .
+
+----------------------
+ are several high risk zones for(?, earthquakes)
+ BLANK_ are several high risk zones for earthquakes .
+
+----------------------
+ is a activity of(?, a earthquake)
+ BLANK_ is a activity of a earthquake .
+
+----------------------
+ is the average amount of(?, earthquakes)
+ BLANK_ is the average amount of earthquakes yearly .
+
+----------------------
+ to crumble(?, during an earthquake)
+ BLANK_ causes walls and buildings to crumble during an earthquake .
+
+----------------------
+ was the main devastation of(?, the earthquake)
+ BLANK_ was the main devastation of the earthquake in Haiti .
+
+----------------------
+ is the average measurement of(?, an earthquake)
+ BLANK_ is the average measurement of an earthquake .
+
+----------------------
+ is the last step of(?, a earthquake)
+ BLANK_ is the last step of a earthquake .
+
+----------------------
+ will have(Earthquakes,?)Earthquakes will have BLANK_ on the future .
+
+----------------------
+ is the total number of(?, earthquakes)
+ BLANK_ is the total number of earthquakes in the history of Italy .
+
+----------------------
+ is a nonexample of(?, an earthquake)
+ BLANK_ is a nonexample of an earthquake .
+
+----------------------
+ is the vocabulary term for(?, earthquake)
+ BLANK_ is the vocabulary term for earthquake .
+
+----------------------
+ is the constructive uses of(?, earthquake)
+ BLANK_ is the constructive uses of earthquake .
+
+----------------------
+ are the cansequences of(?, an earthquake)
+ BLANK_ are the cansequences of an earthquake .
+
+----------------------
+ is the aftermath of(?, a earthquake)
+ BLANK_ is the aftermath of a earthquake .
+
+----------------------
+ are the affects of(?, earthquakes)
+ BLANK_ are the affects of earthquakes .
+
+ is affect(?, )
+ BLANK_ is affect by earthquakes .
+
+----------------------
+ are the components of(?, a earthquake)
+ BLANK_ are the components of a earthquake .
+
+----------------------
+ is the conclusion of(?, earthquake)
+ BLANK_ is the conclusion of earthquake .
+
+----------------------
+ are 4 ways that(?, earthquakes)
+ BLANK_ are 4 ways that earthquakes cause damage .
+
+----------------------
+ is the approxomite number of(?, earthquakes)
+ BLANK_ is the approxomite number of earthquakes that happen in California each year .
+
+----------------------
+ is Definition of(?, earthquake)
+ BLANK_ is Definition of earthquake .
+
+----------------------
+ are the Benefits of(?, an earthquake)
+ BLANK_ are the Benefits of an earthquake .
+
+----------------------
+ is a famous examlpes of(?, earthquakes)
+ BLANK_ is a famous examlpes of earthquakes in the US .
+
+----------------------
+ is the average size of(?, an earthquake)
+ BLANK_ is the average size of an earthquake .
+
+ was the size of(?, the earthquake)
+ BLANK_ was the size of the earthquake in izmit .
+
+----------------------
+ are the stages of(?, an earthquake)
+ BLANK_ are the stages of an earthquake .
+
+----------------------
+ is the onset type of(?, an earthquake)
+ BLANK_ is the onset type of an earthquake .
+
+----------------------
+ is the death rates in(?, earthquakes)
+ BLANK_ is the death rates in earthquakes .
+
+----------------------
+ is a boundary of(?, an earthquake)
+ BLANK_ is a boundary of an earthquake .
+
+----------------------
+ is the average velocity of(?, an earthquake)
+ BLANK_ is the average velocity of an earthquake 's S - wave in the first 4 minutes of travel .
+
+----------------------
+ is the heart of(?, a earthquake)
+ BLANK_ is the heart of a earthquake .
+
+----------------------
+ is the section below(?, the earth)
+ BLANK_ is the section below the earth 's crust .
+
+ is the sections of(?, the earth)
+ BLANK_ is the sections of the earth that move about and cause earthquakes and volcanoes .
+
+----------------------
+ are the tipe of(?, earthquakes)
+ BLANK_ are the tipe of earthquakes .
+
+----------------------
+ was the speed of(?, the earthquake)
+ BLANK_ was the speed of the earthquake in haiti .
+
+----------------------
+ is the synonyms for(?, earthquake)
+ BLANK_ is the synonyms for earthquake .
+
+----------------------
+ is highest rating for(?, an earthquake)
+ BLANK_ is highest rating for an earthquake .
+
+ is the highest rating for(?, an earthquake)
+ BLANK_ is the highest rating for an earthquake .
+
+----------------------
+ are the levels of(?, an earthquake)
+ BLANK_ are the levels of an earthquake .
+
+----------------------
+ are the responses on(?, the earthquake)
+ BLANK_ are the responses on the earthquake in Chile .
+
+----------------------
+ is the best diagram for(?, an earthquake)
+ BLANK_ is the best diagram for an earthquake - resistance structure out of wood .
+
+----------------------
+ is the second country with(?, the most earthquakes)
+ BLANK_ is the second country with the most earthquakes .
+
+----------------------
+ are the relief and response measures after(?, an earthquake)
+ BLANK_ are the relief and response measures after an earthquake .
+
+----------------------
+ are mitigation strategies for(?, earthquakes)
+ BLANK_ are mitigation strategies for earthquakes .
+
+----------------------
+ is the summary of(?, earthquake)
+ BLANK_ is the summary of earthquake by jack hodgins .
+
+----------------------
+ is the recipe for(?, an earthquake)
+ BLANK_ is the recipe for an earthquake .
+
+----------------------
+ is the stregnth of(?, an earthquake)
+ BLANK_ is the stregnth of an earthquake .
+
+----------------------
+ was the range of(?, the earthquake)
+ BLANK_ was the range of the earthquake in Alaska 1964 .
+
+ is the numerical range for(?, the earthquake)
+ BLANK_ is the numerical range for the earthquake 's intensity .
+
+----------------------
+ were the influences after(?, the earthquake)
+ BLANK_ were the influences after the earthquake in Haiti .
+
+----------------------
+ was the strength of(?, the earthquake)
+ BLANK_ was the strength of the earthquake on the 19Th February in New Zealand .
+
+----------------------
+ is the global patterns of(?, earthquakes)
+ BLANK_ is the global patterns of earthquakes .
+
+----------------------
+ are three major movements on(?, the earth)
+ BLANK_ are three major movements on the earth 's crustal plates and what occurs as a result of these movements .
+
+----------------------
+ is the worst part of(?, an earthquake)
+ BLANK_ is the worst part of an earthquake .
+
+----------------------
+ are some forces outside(?, earth)
+ BLANK_ are some forces outside earth .
+
+----------------------
+ are the avantages of(?, earthquake)
+ BLANK_ are the avantages of earthquake .
+
+----------------------
+ is implicit detail about(?, earthquakes)
+ BLANK_ is implicit detail about earthquakes .
+
+----------------------
+ is some specific info on(?, earthquake)
+ BLANK_ is some specific info on earthquake .
+
+----------------------
+ is the worldwide frequency of(?, these earthquakes)
+ BLANK_ is the worldwide frequency of these earthquakes .
+
+----------------------
+ is done(?, after an earthquake)
+ BLANK_ are the four factors affect how much damage is done after an earthquake .
+
+ be done(?, before an earthquake)
+ BLANK_ are the preparation sued be done before an earthquake .
+
+ have done to try(?, )
+ BLANK_ scientists have done to try and predict earthquakes .
+
+----------------------
+ is the biggest type of(?, earthquake)
+ BLANK_ is the biggest type of earthquake in the world .
+
+----------------------
+ are need after(?, an earthquake)
+ BLANK_ are need after an earthquake .
+
+ are need(?, after an earthquake)
+ BLANK_ are need after an earthquake .
+
+ will need(?, to do after an earthquake)
+ BLANK_ will the government need to do after an earthquake .
+
+ will need to do(?, after an earthquake)
+ BLANK_ will the government need to do after an earthquake .
+
+----------------------
+ are the three classifications of(?, earthquake)
+ BLANK_ are the three classifications of earthquake .
+
+----------------------
+ are the seismic wave of(?, an earthquake)
+ BLANK_ are the seismic wave of an earthquake .
+
+----------------------
+ is a good title for(?, an earthquake)
+ BLANK_ is a good title for an earthquake .
+
+----------------------
+ is the safest surface in(?, an earthquake)
+ BLANK_ is the safest surface in an earthquake .
+
+----------------------
+ to shake(?, during a earthquake)
+ BLANK_ causes the earth surface to shake during a earthquake .
+
+----------------------
+ is the originate of(?, earthquake)
+ BLANK_ is the originate of earthquake .
+
+----------------------
+ is the great centre of(?, earthquakes)
+ BLANK_ is the great centre of earthquakes .
+
+----------------------
+ are the three spheres of(?, the earth)
+ BLANK_ are the three spheres of the earth .
+
+----------------------
+ is anticlines in(?, an earthquake)
+ BLANK_ is anticlines in an earthquake .
+
+----------------------
+ is some information on(?, earthquakes)
+ BLANK_ is some information on earthquakes .
+
+----------------------
+ is normal thrust in(?, earthquakes)
+ BLANK_ is normal thrust in earthquakes .
+
+----------------------
+ is the cool brittle outer layer of(?, earth)
+ BLANK_ is the cool brittle outer layer of earth that includes the crust and uppermost mantle .
+
+----------------------
+ are the countries with(?, no earthquakes)
+ BLANK_ are the countries with no earthquakes .
+
+----------------------
+ is the longest duration of(?, an earthquake)
+ BLANK_ is the longest duration of an earthquake .
+
+----------------------
+ is the consistency of(?, the earth)
+ BLANK_ is the consistency of the earth 's mantle .
+
+----------------------
+ curentally use to rate(?, an earthquake)
+ BLANK_ is the scale scientists curentally use to rate an earthquake .
+
+----------------------
+ is the Irish word for(?, earthquake)
+ BLANK_ is the Irish word for earthquake .
+
+----------------------
+ is the air movement patterns on(?, Earth)
+ BLANK_ is the air movement patterns on Earth 's surface in a sea breeze .
+
+----------------------
+ is the position on(?, the Earth)
+ BLANK_ is the position on the Earth 's surface directly above the earthquake source .
+
+----------------------
+ do play discussing(?, earthquakes)
+ BLANK_ plate tectonics do play when discussing earthquakes .
+
+----------------------
+ describe(?, Earthquake)
+ BLANK_ describe Earthquake .
+
+----------------------
+ underground begins(?, an earthquake)
+ BLANK_ is the spot underground where an earthquake begins .
+
+----------------------
+ collapse(?, during an earthquake)
+ BLANK_ makes buildings collapse during an earthquake .
+
+ to collapse(?, during an earthquake)
+ BLANK_ causes structures to collapse during an earthquake .
+
+----------------------
+ to fall(?, during an earthquake)
+ BLANK_ causes buildings to fall during an earthquake .
+
+ does n't fall(?, during an earthquake)
+ BLANK_ does n't fall during an earthquake .
+
+----------------------
+ monitor(?, earthquakes)
+ BLANK_ help scientists monitor earthquakes .
+
+----------------------
+ got destroyed(?, by earthquakes)
+ BLANK_ got destroyed by earthquakes .
+
+ have been destroyed(?, by an earthquake)
+ BLANK_ have been destroyed by an earthquake .
+
+ destroy(?, )
+ BLANK_ did the 2010 chilean earthquake destroy .
+
+----------------------
+ exactly is(?, an earthquake)
+ BLANK_ exactly is an earthquake .
+
+----------------------
+ has never had(?, earthquakes)
+ BLANK_ has never had earthquakes or does not experience earthquakes .
+
+ have never had(?, an earthquake)
+ BLANK_ have never had an earthquake .
+
+ never breaks(?, )
+ BLANK_ never breaks .
+
+----------------------
+ is seen(?, in earthquakes)
+ BLANK_ is seen in earthquakes that are caused by normal faults .
+
+----------------------
+ got hit(?, by the earthquake)
+ BLANK_ got hit by the earthquake .
+
+----------------------
+ have had(?, the most earthquakes)
+ BLANK_ have had the most earthquakes .
+
+----------------------
+ best survives(?, an earthquake)
+ BLANK_ best survives an earthquake .
+
+ survives(?, an earthquake)
+ BLANK_ survives an earthquake .
+
+----------------------
+ does n't move(?, during an earthquake)
+ BLANK_ does n't move during an earthquake .
+
+----------------------
+ can not experience(?, earthquakes)
+ BLANK_ can not experience earthquakes .
+
+ does not experience(?, earthquakes)
+ BLANK_ has never had earthquakes or does not experience earthquakes .
+
+ have experienced(?, an earthquakes)
+ BLANK_ have experienced an earthquakes .
+
+----------------------
+ suffers(?, the most earthquakes)
+ BLANK_ suffers the most earthquakes .
+
+----------------------
+ has been most affected(?, by an earthquake)
+ BLANK_ has been most affected by an earthquake .
+
+ is least affected(?, by earthquakes)
+ BLANK_ is least affected by earthquakes .
+
+ is affected(?, by earthquakes)
+ BLANK_ is affected by earthquakes .
+
+ are not affected(?, by earthquakes)
+ BLANK_ are not affected by earthquakes .
+
+ can be affected(?, by an earthquake)
+ BLANK_ can be affected by an earthquake .
+
+ are most affected(?, by earthquakes)
+ BLANK_ are most affected by earthquakes .
+
+ are affected(?, by the earthquake)
+ BLANK_ are affected by the earthquake .
+
+ more badly affected(?, after the quake)
+ BLANK_ were more badly affected after the quake .
+
+----------------------
+ likely is hit(?, by earthquake)
+ BLANK_ likely is hit by earthquake .
+
+----------------------
+ to avoid(?, the earthquakes)
+ Should do BLANK_ to avoid the earthquakes .
+
+----------------------
+ can forecast(?, earthquakes)
+ BLANK_ can forecast earthquakes .
+
+----------------------
+ actually is(?, a earthquake)
+ BLANK_ actually is a earthquake .
+
+----------------------
+ cuases(?, earthquakes)
+ BLANK_ cuases earthquakes .
+
+----------------------
+ must do(?, before a earthquake)
+ BLANK_ must do before a earthquake .
+
+----------------------
+ sets off(?, an earthquake)
+ BLANK_ sets off an earthquake .
+
+----------------------
+ detect(?, earthquakes)
+ BLANK_ detect earthquakes .
+
+----------------------
+ causses(?, an earthquake)
+ BLANK_ causses an earthquake .
+
+----------------------
+ caues(?, a earthquake)
+ BLANK_ caues a earthquake .
+
+----------------------
+ could stand(?, during an earthquake)
+ BLANK_ could stand during an earthquake .
+
+----------------------
+ will increase(?, an earthquake)
+ BLANK_ will increase an earthquake .
+
+----------------------
+ might withstand(?, an earthquake)
+ BLANK_ might withstand an earthquake .
+
+----------------------
+ measues(?, earthquakes)
+ BLANK_ measues earthquakes .
+
+----------------------
+ does not get(?, earthquakes)
+ BLANK_ does not get earthquakes .
+
+ to get hit(?, by an earthquake)
+ BLANK_ are more likely to get hit by an earthquake .
+
+----------------------
+ will most likely occur(?, a earthquake)
+ BLANK_ will a earthquake most likely occur .
+
+ do occur on(?, )
+ BLANK_ shield volcanoes do occur on .
+
+ mainly occurs(?, )
+ BLANK_ does earthquake mainly occurs .
+
+ occur farther inland(?, )
+ BLANK_ occur farther inland than other earthquakes .
+
+----------------------
+ are involved(?, in Earthquakes)
+ BLANK_ are involved in Earthquakes .
+
+----------------------
+ does use to measure(?, earthquakes)
+ BLANK_ Japan does use to measure earthquakes .
+
+ do use to measure(?, an earthquake)
+ BLANK_ do geologists use to measure an earthquake .
+
+----------------------
+ was delayed(?, because of an earthquake)
+ BLANK_ the world series was delayed because of an earthquake .
+
+----------------------
+ to track(?, earthquake)
+ BLANK_ is used to track earthquake and explain how it works .
+
+----------------------
+ has happens(?, )
+ BLANK_ happens after an earthquake has happens .
+
+ do happen in(?, )
+ BLANK_ earthquakes do happen in .
+
+----------------------
+ for causing(?, earthquakes)
+ BLANK_ is known for causing earthquakes .
+
+----------------------
+ for measuring(?, earthquake)
+ BLANK_ is used for measuring earthquake .
+
+----------------------
+ duruing(?, an earthquake)
+ BLANK_ happens duruing an earthquake .
+
+----------------------
+ to stop(?, earthquakes)
+ BLANK_ is being done to stop earthquakes .
+
+----------------------
+ flowing backward(?, after an earthquake)
+ BLANK_ changed its course in 1811 - 12 flowing backward after an earthquake .
+
+----------------------
+ will learn(?, Earthquake)
+ BLANK_ will gligar learn Earthquake .
+
+ does learn(?, earthquake)
+ BLANK_ does swampert learn earthquake .
+
+----------------------
+ makes chainsaws(?, earthquake)
+ BLANK_ makes earthquake chainsaws .
+
+----------------------
+ are released(?, during an earthquake)
+ BLANK_ are released during an earthquake .
+
+----------------------
+ should be undertaken(?, during an earthquake)
+ BLANK_ should be undertaken during an earthquake .
+
+----------------------
+ do not have(?, earthquake)
+ BLANK_ do not have earthquake .
+
+----------------------
+ resist(?, earthquakes)
+ BLANK_ resist earthquakes .
+
+----------------------
+ create(?, most earthquakes)
+ BLANK_ create most earthquakes .
+
+----------------------
+ expect(?, )
+ BLANK_ someone should experiencing an earthquake expect .
+
+----------------------
+ are given(?, to earthquakes)
+ BLANK_ are given to earthquakes .
+
+----------------------
+ can be compared(?, to an earthquake)
+ BLANK_ can be compared to an earthquake .
+
+----------------------
+ should experiencing(?, an earthquake)
+ BLANK_ someone should experiencing an earthquake expect .
+
+----------------------
+ do suggest(?, about earthquake)
+ BLANK_ scientists do suggest about earthquake .
+
+----------------------
+ report(?, earthquakes)
+ BLANK_ you do call a person who tracks and report earthquakes .
+
+----------------------
+ roll(?, )
+ BLANK_ make the ground roll like ocean waves .
+
+----------------------
+ has of having(?, an earthquake)
+ BLANK_ has the highest percent change of having an earthquake .
+
+----------------------
+ has of producing(?, an earthquake)
+ BLANK_ has the highest probability of producing an earthquake .
+
+----------------------
+ can do to prepare(?, for earthquakes)
+ BLANK_ can the government do to prepare for earthquakes .
+
+ can take to prepare(?, for earthquakes)
+ BLANK_ can people take to prepare for earthquakes .
+
+----------------------
+ do ask(?, about an earthquake)
+ BLANK_ do reporters ask about an earthquake .
+
+----------------------
+ slicing(?, )
+ BLANK_ is Intensity slicing .
+
+----------------------
+ is expressed(?, )
+ BLANK_ magnitude is expressed as a number on the Richter Scale .
+
+----------------------
+ disaster(?, )
+ BLANK_ are said to be making the haiti earthquake a worse disaster than the Asian tsunami .
+
+----------------------
+ to slow down(?, )
+ BLANK_ causes an ocean wave to slow down .
+
+----------------------
+ to separate(?, )
+ BLANK_ causes the ocean floor to separate .
+
+----------------------
+ can tsunami(?, )
+ BLANK_ can tsunami and earthquake cause .
+
+----------------------
+ releases(?, )
+ BLANK_ describes how much energy an earthquake releases .
+
+----------------------
+ material(?, )
+ BLANK_ makes aluminum a popular building material .
+
+----------------------
+ to split open(?, )
+ BLANK_ causes the ground to split open in earthquakes .
+
+----------------------
+ change dramatically(?, )
+ BLANK_ do seismic wave change dramatically .
+
+----------------------
+ erupts explosively(?, )
+ BLANK_ influences whether a volcano erupts explosively .
+
+----------------------
+ does sit on(?, )
+ BLANK_ Yellowstone volcano does sit on .
+
+ is situated on(?, )
+ BLANK_ Haiti is situated on .
+
+ sit on(?, )
+ BLANK_ sit on .
+
+----------------------
+ does measured in(?, )
+ BLANK_ Richter scale does measured in .
+
+----------------------
+ seintist(?, an earthquake)
+ BLANK_ you do called seintist an earthquake .
+
+----------------------
+ to stretch(?, )
+ BLANK_ causes matter to stretch and compress .
+
+----------------------
+ move faster(?, )
+ BLANK_ makes waves move faster or slower .
+
+----------------------
+ does rest on(?, )
+ BLANK_ Russia does rest on .
+
+----------------------
+ were hit hard(?, )
+ BLANK_ were hit hard and what areas not so badly hit in England - London .
+
+----------------------
+ matches up(?, )
+ BLANK_ matches up with the Ring of fire .
+
+ matches almost perfectly(?, )
+ BLANK_ matches almost perfectly with the ring of fire .
+
+ matches almost perfaactly(?, )
+ BLANK_ matches almost perfaactly with the ring of fire .
+
+----------------------
+ spread(?, )
+ BLANK_ spread due to the earthquake in Haiti .
+
+----------------------
+ will hapend(?, )
+ BLANK_ will hapend if there is an earthquake under the ocean .
+
+----------------------
+ appears(?, )
+ BLANK_ appears to have little or no movement at all .
+
+----------------------
+ are said(?, )
+ BLANK_ are said to be making the haiti earthquake a worse disaster than the Asian tsunami .
+
+----------------------
+ is madnitude(?, )
+ BLANK_ is madnitude .
+
+----------------------
+ refined(?, )
+ BLANK_ refined and modifeid the scale to measure intensity .
+
+----------------------
+ is thought(?, )
+ BLANK_ is thought to be the main reason for plate movement .
+
+ are thought(?, )
+ BLANK_ are thought to cause plate tectonic movement .
+
+----------------------
+ is believed(?, )
+ BLANK_ is believed to cause plate movement .
+
+----------------------
+ call growling(?, )
+ BLANK_ when you call growling empty producing peristaltic waves .
+
+----------------------
+ to be found(?, )
+ BLANK_ is most likely to be found where two plates are moving away from each other .
+
+----------------------
+ do foliated(?, )
+ BLANK_ do foliated and non-foliated rocks have in common .
+
+----------------------
+ seem(?, )
+ BLANK_ seem to be totally safe from earthquakes .
+
+----------------------
+ are refracted(?, )
+ BLANK_ are refracted and what waves are absorbed by earth 's outer core .
+
+----------------------
+ should be kept away(?, )
+ BLANK_ should be kept away from earthquakes .
+
+----------------------
+ could be developed(?, )
+ BLANK_ could be developed to limit earthquake damage in the future .
+
+----------------------
+ goes liquids(?, )
+ BLANK_ goes though liquids .
+
+----------------------
+ are Economically Developed(?, )
+ BLANK_ that are Less Economically Developed have had earthquakes .
+
+----------------------
+ works(?, )
+ BLANK_ is used to track earthquake and explain how it works .
+
+----------------------
+ cover(?, )
+ BLANK_ does he San Andrea fault cover .
+
+----------------------
